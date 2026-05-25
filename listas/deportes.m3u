@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 group-title="DEPORTES",ESPN CHILE
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNHD/hls_fk/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN2HD/hls_fk/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN3HD/hls_fk/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNPLUS/hls_fk/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 5
+http://181.65.207.37:8050/play/a0b3/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 6
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgbs6GhpPqSrSTFLbximZiw/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 7
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjyhRQxD-ZacTiy5OxcpQqG/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM CHILE
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/hls_fk/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM CHILE OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjdO8b7rSUGPt_1hOrGABkw/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM ARGENTINA
+http://138.59.227.20:8000/play/a086/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN ARGENTINA
+http://138.59.227.20:8000/play/a099/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN MEXICO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhTR9dPFNKFgRjen3xxQ1KG/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgJbWEDeNJ4MIdGYNRdHEsr/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE
+http://179.63.6.12:9000/play/a06w
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP2
+http://201.230.121.171:8000/play/a075/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP3
+http://190.108.83.69:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARGENTINA
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARGENTINA OP2
+http://45.5.149.220:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS
+http://207.210.102.33:8484/stream/normielista/dsports/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS 2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhId04cpfFtDwJgzE1x-GnA/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS+
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njj-ydeVzp9Gnf3GQpArcnXN/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",CDO
+http://45.4.3.177:9999/play/a0fw
+
+#EXTINF:-1 group-title="DEPORTES",CDO 2
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/101847.ts
+
+#EXTINF:-1 group-title="DEPORTES",DEPORTES 13
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARGENTINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhWTk_5_XdIVq_mCM_ZnBcZ/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 ARGENTINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njigYRmM-H7zY2AeAleMlpZX/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 ARGENTINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjc-FKyUEYmee_uLvOw52ur/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TYC SPORTS ARGENTINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhLyU99V9LozCz4IHE2XGSJ/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhezw-yxFG4rBAmSK6aqDCj/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS 2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgFq3awDH4sCZuxNXCeod0X/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjuyhbtdouWtzyivFxMK96X/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",NFL NETWORK
+http://38.194.226.190:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FIFA+
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
+
+#EXTINF:-1 group-title="DEPORTES",TENNIS CHANNEL
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347526.ts
+
+#EXTINF:-1 group-title="DEPORTES",TELETRAK
+http://45.239.31.254:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",UFC
+http://38.210.3.64:8090/play/A01E/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",WWE
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2344.ts
+
+#EXTINF:-1 group-title="DEPORTES",TUDN MEXICO
+http://138.59.177.78:9999/play/a07z/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TV AZTECA DEPORTES
+http://200.115.96.66:4000/play/a00h/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DAZN 1
+http://tv.nube-x.xyz:8080/live/ClaudiaVenegas/RaBPz8ewAh/3025.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DAZN 2
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2361.ts
+
+#EXTINF:-1 group-title="DEPORTES",DAZN F1
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/52686.ts
+
+#EXTINF:-1 group-title="DEPORTES",MOVISTAR DEPORTES
+http://ultrax.online:8080/live/936352278tv/50u80k/25800.ts
+
+#EXTINF:-1 group-title="DEPORTES",SKY F1
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/5448.ts
+
+#EXTINF:-1 group-title="DEPORTES",SKY PREMIER LEAGUE
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/5437.ts
+
+#EXTINF:-1 group-title="DEPORTES",PREMIERE BRASIL 6
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2341.ts
+
+#EXTINF:-1 group-title="DEPORTES",PREMIERE BRASIL 7
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2342.ts
+
+#EXTINF:-1 group-title="DEPORTES",SPORT TV BRASIL
+http://weavenet.link:80/live/46316089/74494765/925073.ts
+
+#EXTINF:-1 group-title="DEPORTES",L1 PERU
+http://45.5.57.58:8000/play/a047/index.m3u8?hls
+
+#EXTINF:-1 group-title="DEPORTES",WIN COLOMBIA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1804.ts
+

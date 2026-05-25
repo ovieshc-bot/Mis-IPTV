@@ -1,0 +1,1316 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f0929fcdd60022c9b510.png" group-title="NACIONALES",BIO BIO TV
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgP-GvjVYVru-aLBa-eRw5W/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257eefc898f85001a47654b.png" group-title="NACIONALES",CANAL 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037eeed7d379002164a2d8.png" group-title="NACIONALES",CNN CHILE
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/134064.ts
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png" group-title="NACIONALES", MEGANOTICIAS AHORA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njggl5d5urK62onqvQG7I2qB/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037d6caed4f2001a772533.png" group-title="NACIONALES",CHV NOTICIAS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhTDBXZWw4ZjrDFFeI6pIuG/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62fe4de33511190023ac89c4.png" group-title="NACIONALES",T13
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgHJ4au46nC3fEdB7coCUok/m3u8
+
+#EXTINF:-1 group-title="NACIONALES",TV DIPUTADOS 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/307180.ts
+
+#EXTINF:-1 group-title="NACIONALES",TV SENADO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/307179.ts
+
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_620d372c8fb9850022b4ba31.png" group-title="NACIONALES",LA RED
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njh1kfyK1C3e4wL-lcuEiBtW/m3u8
+
+#EXTINF:-1 group-title="NACIONALES",TV  MÁS 2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgSs54CHErq2ddGafalI_zj/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625428f1d4d33a746b1d4cae.png" group-title="NACIONALES",TV+
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njieMyJrjtsXESKbDENlqZC2/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_5fce62ed24dc84002216c343.png" group-title="NACIONALES",TVN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_5fce62ed24dc84002216c343.png" group-title="NACIONALES",TVN OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgoydk5Kpa_NlqpDjWylTUM/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png" group-title="NACIONALES",MEGA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png" group-title="NACIONALES",MEGA OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njh9CT7hF43qDWKPqKULUgqZ/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037d6caed4f2001a772533.png" group-title="NACIONALES",CHV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037d6caed4f2001a772533.png" group-title="NACIONALES",CHV OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgWjKxqAhAVBgriOUIIHPOV/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="NACIONALES",CANAL 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="NACIONALES",CANAL 13 OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiObLOIkPTKnlDTkPpHHA1k/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62558823317dc7001ba4622e.png"  group-title="NACIONALES", NTV
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhRj6STExsZN47AMk6d_klP/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6235d7861590fd002119cd53.png" group-title="NACIONALES",MEGA 2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjI1-H8eDnHXyxwrbQ_XdVM/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png" group-title="NACIONALES",MEGA FICCIÓN
+http://74.208.30.121/a474/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png" group-title="NACIONALES",MEGA TIEMPO
+http://38.7.195.43:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037d6caed4f2001a772533.png" group-title="NACIONALES",CHV CONTIGO
+http://38.7.197.119:4000/play/a007/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037d6caed4f2001a772533.png" group-title="NACIONALES",CHV DEPORTES
+https://redirector.dps.live/hls/chvdeportes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_5fce62ed24dc84002216c343.png" group-title="NACIONALES",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="NACIONALES",13 INTERNACIONAL 
+https://dai.google.com/linear/hls/pa/event/AoG07lVzSdW0gdaCAcSl-g/stream/1a76a6a6-33c0-40a3-9ddc-36e8a6095156:SCL2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_64ee4f6fa2c5a4c10da629e9.png" group-title="NACIONALES",13 REC
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njj2jMMWLZ1ZOll-w4wYmhuF/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="NACIONALES",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTM3U
+#EXTINF:-1 group-title="NACIONALES",UCV TV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTM3U
+#EXTINF:-1 group-title="NACIONALES",VIA X 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji7R4krFbUIELBZUVEzU9sw/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="NACIONALES",ZONA LATINA 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/121088.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="EVENTOS",SEÑAL 1
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/457019.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="EVENTOS",SEÑAL 2
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/456526.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="EVENTOS", SEÑAL 3
+http://74.208.30.121/a1001/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EVENTOS", SEÑAL 4
+http://74.208.30.121/a1001/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS Ñ MÉXICO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/41773.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS XTRA MÉXICO
+http://45.239.31.254:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625558ef317dc7001ba3ec1f.png" group-title="DEPORTES",CDO
+http://45.4.3.177:9999/play/a0fw
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_653125459f559714b38f1bbb.png" group-title="DEPORTES",CDO 2
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/101847.ts
+
+#EXTINF:-1 group-title="DEPORTES", DEPORTES 13
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS OP2
+http://207.210.102.33:8484/stream/normielista/dsports/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS 2 OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhId04cpfFtDwJgzE1x-GnA/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS+ OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njj-ydeVzp9Gnf3GQpArcnXN/m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN CHILE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"13acc495c9674ea1ba04672993633df0":"183ed12b9bfc4b84e44d363f63bb9c08","7f172083e2b54ba8a424ea4e04c67f78":"35b435fbed6b6cbbfcdaee23d36441f0"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/ESPN/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN CHILE 0P2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNHD/hls_fk/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN ARGENTINA 
+http://138.59.227.20:8000/play/a099/index.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",ESPN COLOMBIA 
+http://186.33.54.46:8000/play/a01e/index.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",ESPN PERÚ
+http://186.33.54.46:8000/play/a01e/index.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",ESPN MÉXICO 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhTR9dPFNKFgRjen3xxQ1KG/m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",ESPN BRASIL 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/5484.ts
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"75ee60f3e982491da2d7f14f5ed32522":"d9322d1c57305ea1360cfbc131adcd04","bf30ac2fb9ac4167bf028a8bc38b5104":"411c192f1b1fea9973c6ed58125e8ea6"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/ESPN2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 2 OP2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN2HD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"440f79217c30471180306530174d31f6":"b3ad42bd0a38e31babd15dcf4f4f799f","5db483a21c7842f6b489e396a490b359":"ec190805ded437c78b3946660281b1ba"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/ESPN3/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 3 OP2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN3HD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5b574cb353314ed9b5ae05b424bf5b92":"bc569cb98b04b341f516a72afab82872","831f396357d44892be71b347a3ad419b":"7e71dd8e32c62ba54ebce283aa28eb14"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/ESPNPLUSHD/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 4 OP2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNPLUS/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"259a071669ed4602b3d235046609d008":"c40e9347ddb212bc32c9c6b92910b18e","8a2bd7776a9d43b893bc9bbb213c04e0":"b2d671f59dccb173d58b3c32044f7c1f"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/FOXSP/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 5 OP2
+http://181.65.207.37:8050/play/a0b3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1881d8aff29f415b9f14ab388957769d":"4ca712571044a1a6812754e513e9a08b","fc85a9653c10470f8193c030e1718502":"9d97cc153c0ae1eea1729610c0edd104"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/FOXSP3/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 6 OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgbs6GhpPqSrSTFLbximZiw/m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1bc8b8041caf45b9a7e2bbfe95b7ba05":"b14f8242e24ac5d11786a1253e742fb2","8903b2e7f634494ea2b8f9cd82f6748a":"c49fc20145843952b0c518fe4f22"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/FOXSP2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN 7 OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjyhRQxD-ZacTiy5OxcpQqG/m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN PREMIUM CHILE
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="DEPORTES",ESPN PREMIUM CHILE OP2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjdO8b7rSUGPt_1hOrGABkw/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM ARGENTINA 
+http://138.59.227.20:8000/play/a086/index.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",ESPN PREMIUM ARGENTINA OP2 
+http://45.5.149.220:8000/play/a03m/index.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",ESPN PREMIUM ARGENTINA OP3
+http://74.208.30.121/a172/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",ECDF ECUADOR 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2350.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625585c4317dc7001ba45cbf.png"  group-title="DEPORTES", GOLF CHANNEL
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjuyhbtdouWtzyivFxMK96X/m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",NBA TV 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+https://aca-live-ott.izzigo.tv/7/out/u/dash/NBA-HD-H265/default.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",NFL 
+NETWORK 
+http://38.194.226.190:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FIFA+
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
+
+#EXTINF:-1 group-title="DEPORTES",F1 TV FAST CHANNEL 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 group-title="DEPORTES",FOX MÉXICO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiLp3tC9odOZPGzXYTbGwz3/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX DEPORTES MÉXICO 
+http://dctv.pro:2082/live/Axelben1/Axelben11/116710.ts
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM MÉXICO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhPRxQQ5tlx2RyqyZqWpSdy/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARGENTINA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhWTk_5_XdIVq_mCM_ZnBcZ/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARGENTINA OP2
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 ARGENTINA  
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njigYRmM-H7zY2AeAleMlpZX/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 ARGENTINA OP2
+http://138.59.227.20:8000/play/a09b/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 ARGENTINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjc-FKyUEYmee_uLvOw52ur/m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 ARGENTINA OP2 
+http://138.59.227.20:8000/play/a06y/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62558bd5317dc7001ba46b72.png"  group-title="DEPORTES",TYC SPORTS ARGENTINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhLyU99V9LozCz4IHE2XGSJ/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62558bd5317dc7001ba46b72.png"  group-title="DEPORTES",TYC SPORTS ARGENTINA OP2
+http://138.59.227.20:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TENNIS CHANNEL 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347526.ts
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6317b7a016699d001a445795.png" group-title="DEPORTES", TELETRAK
+http://45.239.31.254:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="DEPORTES",TNT SPORTS CHILE
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="DEPORTES",TNT SPORTS CHILE 0P2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgJbWEDeNJ4MIdGYNRdHEsr/m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="DEPORTES",TNT SPORTS PREMIUM CHILE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e37512a1058943c4b3e9b947623d662a":"9e03dd73dd227505a7589766748def3b","66fdbc2636094ac280449dbe6c059163":"84d31c5fc86c964d3a083c5fe93cc33a"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/CDF_HD/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP2
+http://179.63.6.12:9000/play/a06w
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP3
+http://201.230.121.171:8000/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e37512a1058943c4b3e9b947623d662a":"9e03dd73dd227505a7589766748def3b","66fdbc2636094ac280449dbe6c059163":"84d31c5fc86c964d3a083c5fe93cc33a"}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/CDF_HD/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP5
+http://190.108.83.69:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625446ecb6e8d2002028d3ec.png" group-title="DEPORTES",TNT SPORTS PREMIUM ARGENTINA
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625446ecb6e8d2002028d3ec.png"  group-title="DEPORTES", TNT SPORTS PREMIUM ARGENTINA OP2
+http://45.5.149.220:8000/play/a03r/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625446ecb6e8d2002028d3ec.png"  group-title="DEPORTES", TNT SPORTS PREMIUM ARGENTINA OP3
+http://flowlive360net.com:80/live/luisdtvcol-2024/rTBNRDxuqESg/3344.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",TIGO SPORTS PARAGUAY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={"1c62a216a5fe423f959cb1ca02f62d83":"54f2fdc83c1da33cd9269bf21e08218c"}
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VPL9yDwdozzZJpvyHgghjA", "kid":"HGKiFqX+Qj+VnLHKAvYtgw" } ], "type":"temporary" }
+#https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",TIGO SPORTS 2 PARAGUAY  
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"49b2c0e7037042b2aff9f064e0bb3311":"83849e30adf85440550292693147fbf7"}
+#https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#EXTINF:-1 group-title="DEPORTES",TV AZTECA DEPORTES MÉXICO 
+http://200.115.96.66:4000/play/a00h/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TUDN MÉXICO 
+http://138.59.177.78:9999/play/a07z/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ZONA TUDN MÉXICO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/218690.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 2
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 3
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 4
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 5
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 6
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2341.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 7
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2342.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 8
+http://weavenet.link:80/live/46316089/74494765/791910.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", SPORT TV BRASIL
+http://weavenet.link:80/live/46316089/74494765/925073.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES", SPORT TV 2 BRASIL
+http://dctv.pro:2082/live/Axelben1/Axelben11/593548.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",L1 PERÚ
+http://45.5.57.58:8000/play/a047/index.m3u8?hls
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",L1 MAX PERÚ 
+http://45.5.57.58:8000/play/a05u/index.m3u8?hls
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",WIN COLOMBIA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1804.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DEPORTES",WIN+ COLOMBIA
+http://astra.fibernetisp.com.co/play/a0b2
+
+#EXTINF:-1 group-title="DEPORTES",UFC
+http://38.210.3.64:8090/play/A01E/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",WWE
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2344.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="CLARO",CLARO CINEMA 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/84265.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="CLARO",CLARO SPORTS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhezw-yxFG4rBAmSK6aqDCj/m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="CLARO",CLARO SPORTS 2 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgFq3awDH4sCZuxNXCeod0X/m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN BALONCESTO 
+http://sinlimitestv.com:8080/live/Vecina250310/Mgq7HNprb7/526605.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN F1 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/52686.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN 1 
+http://tv.nube-x.xyz:8080/live/ClaudiaVenegas/RaBPz8ewAh/3025.m3u8
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN 2
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2361.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN 3
+https://tv.nube-x.xyz:8443/live/ClaudiaVenegas/RaBPz8ewAh/3094.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN 4
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/226477.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN LA LIGA 
+http://mordor.voohocep.top:8080/live/VIP015061738603220328/fa6bd670afd7/97138.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="DAZN",DAZN MOTO GP
+http://mordor.voohocep.top:8080/live/VIP015061738603220328/fa6bd670afd7/154467.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="SKY",SKY F1
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/5448.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="SKY",SKY BUNDESLIGA 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5494e422f215a993ba5da713a010682d:5259e63611ef21b26d5078b3469bdd10
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+https://aca-live-ott.izzigo.tv/8/out/u/dash/SKY-SPORTS-24-HD-H265/default.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="SKY",SKY LA LIGA 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95b52d16d344af539ce9c2c9ff95571a:5f035d9c4a178221f89d2439426b2e9a
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
+
+#EXTM3U
+#EXTINF:-1  group-title="SKY",SKY PREMIER LEAGUE 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/5437.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="MOVISTAR",MOVISTAR DEPORTES
+http://ultrax.online:8080/live/936352278tv/50u80k/25800.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="MOVISTAR",MOVISTAR GOLF
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1988.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="MOVISTAR",MOVISTAR LA LIGA
+http://domestipo1.online:80/live/FranciscoMunoz/wtsm5YdFYP/584956.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="MOVISTAR",MOVISTAR VAMOS
+http://sinlimitestv.com:8080/live/Vecina250310/Mgq7HNprb7/524703.ts
+
+#EXTM3U
+#EXTINF:-1  group-title="MOVISTAR",MOVISTAR LIGA DE CAMPEONES 
+http://dctv.pro:2082/Axelben1/Axelben11/525499
+
+#EXTINF:-1 group-title="HBO",HBO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjbYKSfQ5pCAguaI7FflU-Z/m3u8
+
+#EXTINF:-1 group-title="HBO",HBO OP2
+http://190.119.168.226:4000/play/a06g/index.m3u8
+
+#EXTINF:-1 group-title="HBO",HBO 2
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiRTAFOP9FeOzYqL4Hb0yQM/m3u8
+
+#EXTINF:-1 group-title="HBO",HBO 2 OP2
+http://45.167.1.139:8000/play/a00i
+
+#EXTINF:-1 group-title="HBO",HBO FAMILY 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgnExGBnBGgw4Ae2hJSIyNX/m3u8
+
+#EXTINF:-1 group-title="HBO",HBO FAMILY OP2
+http://45.4.3.177:9999/play/a0gi
+
+#EXTINF:-1 group-title="HBO",HBO XTREME
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgb7akwBIlWVOZWZoqQCwRz/m3u8
+
+#EXTINF:-1 group-title="HBO",HBO XTREME OP2
+http://45.4.3.177:9999/play/a0gh
+
+#EXTINF:-1 group-title="HBO",HBO+
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njh9RXH8s0PaCrbGXcx9dMB8/m3u8
+
+#EXTINF:-1 group-title="HBO",HBO+ OP2
+http://45.167.1.139:8000/play/a00j
+
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+http://normielista.cl/ch1307/mono.m3u8
+
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE OP2
+http://38.194.226.190:8000/play/a028/index.m3u8
+
+#EXTINF:-1 group-title="HBO",HBO POP
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiMhuxh4sxnlk4V2YWz5_Bm/m3u8
+
+#EXTINF:-1 group-title="HBO",HBO POP OP2
+http://45.4.3.177:9999/play/a0gj
+
+#EXTINF:-1 group-title="HBO",HBO MUNDI 
+http://normielista.cl/ch1309/mono.m3u8
+
+#EXTINF:-1 group-title="HBO",HBO MUNDI OP2
+http://38.194.226.190:8000/play/a01h/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgWRLb2cfqoM6qpwTjw--87/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL OP2
+http://45.181.122.46:8090/play/a01h
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL PREMIERE 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhER_UgD8kFpyl1cxI6rstx/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL PREMIERE OP2
+http://168.228.44.241:9997/play/a011/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL CINEMA 
+http://8.243.126.131:8000/play/a0de/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL CINEMA OP2
+http://38.187.23.44:5000/play/a020/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL COMEDY 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgFjCiMzErbXFDujMjVG8dz/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL COMEDY OP2
+http://168.228.44.241:9997/play/a021/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL CRIME 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiQhvCuRZ-sLHgkJ06QOBG3/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL CRIME OP2
+http://168.228.44.241:9997/play/a01y/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL REALITY
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji_jtNUzPlAspZvjLoS-sjr/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL REALITY OP2
+http://168.228.44.241:9997/play/a01x/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",AXN 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiimohzFwAlg__QaDLcy2A-/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",A&E 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njisDQ8cadu4A4eXXkPVhGZO/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625554f4356e0100218b62a7.png" group-title="CINE Y SERIES",AMC
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjaajr5rHfczpnqAF_pI5m6/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625554f4356e0100218b62a7.png" group-title="CINE Y SERIES",AMC SERIES
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhnJW5WTCZLmZlWpdCe-mHU/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625554f4356e0100218b62a7.png" group-title="CINE Y SERIES",AMC TRHILLER
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62544951ab7a56001a7588af.png" group-title="CINE Y SERIES",A3CINE
+http://45.239.31.254:8000/play/a00a/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",A3SERIES
+http://45.239.31.254:8000/play/a00o/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",AVI ACTION 
+http://45.239.31.254:8000/play/a002/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", CLOVER CHANNEL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjcuzf_OALBn6r1yuFHCFE4/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", CLASSIC+
+http://179.63.6.12:9000/play/a05u
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", +CINE
+http://179.63.6.12:9000/play/a057
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f4091a557f00216b8fc4.png" group-title="CINE Y SERIES", +CINE FAMILIAR
+http://179.63.6.12:9000/play/a06y
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", +CINE TERROR 
+http://179.63.6.12:9000/play/a00w
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", +CINE WAR
+http://179.63.6.12:9000/play/a07n
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", CINECANAL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjSEAHMoyJD6nzLttaH_kDd/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhR3e_a-GQ-Rknjgm6k0aH9/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",CINE MEXICANO 
+http://138.59.177.78:9999/play/a0h5/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f4ddf54913001a238c80.png" group-title="CINE Y SERIES", CINE HISPANO
+http://38.134.250.110:8000/play/a02f/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", CINE CLASSIC
+http://179.63.6.12:9000/play/a05t
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f4091a557f00216b8fc4.png" group-title="CINE Y SERIES", CINE FAMILIAR
+http://38.134.250.110:8000/play/a02d/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_65ce61304a65c9ee86556795.png" group-title="CINE Y SERIES",CINE PREMIUM
+http://191.97.49.82:8001/play/a00u/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62544c13df72a7001b95d520.png" group-title="CINE Y SERIES",DPELÍCULA
+http://38.134.250.110:8000/play/a01e/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",FX 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njg16dkp1qKpsmSVI9jdzQeU/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",FMH FAMILY 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjgBLkeLIoHGyaf_uGnnjy-/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",FMH MOVIES 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiEqTLLW_a4900P7DfUL0Ii/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625584fbfb01230023dc33f2.png" group-title="CINE Y SERIES", GOLDEN
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgCFQpf1rq1z7BjheGrskvD/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625584fbfb01230023dc33f2.png" group-title="CINE Y SERIES",GOLDEN EDGE
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgk8nwBS2fnvnBHnpA4aMBy/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625584fbfb01230023dc33f2.png" group-title="CINE Y SERIES",GOLDEN PLUS
+http://38.7.195.43:8000/play/a010/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625584fbfb01230023dc33f2.png" group-title="CINE Y SERIES",GOLDEN PREMIERE
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgAITwownBGWcRNDth4ir_q/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625584fbfb01230023dc33f2.png" group-title="CINE Y SERIES",GOLDEN PREMIERE 2
+http://168.228.44.241:9997/play/a06n/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",LIFETIME 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njimLGHy1PIevO7fNm_MStZ0/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", MEMORIA FILMS
+http://187.102.195.131:8000/play/a01b/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", MX CLASSIC 
+http://45.4.3.177:9999/play/a0gl
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", MX PRIME
+http://45.4.3.177:9999/play/a0gn
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", PÁNICO 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji6664tzO1vvaP_ttaycTlU/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",RETRO CINE
+http://45.239.31.254:8000/play/a01e/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",REWIND
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgwXnweDuSTtHrBpMO-Z9Jd/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625447481f8ec9001a6f94e0.png" group-title="CINE Y SERIES",SPACE
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiYJVs6EMn1zQc7F-_ke5Gm/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",SONY CHANNEL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiorl0eLUi1BgU457L87NxN/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",SONY MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1f15a9854dde50dba6591d4e7f021b60":"1f9b5ba554cb1de25750610fed061550","e8cd7cb445105c9da91e4fce0abc4ce9":"bd22ae8e377f82ec7ab4d169a63d3a36","8d7e94aac58451f0b85680f4895ea6f2":"f8705d59b613de941dd2adc23f03e554"}
+#EXTVLCOPT:http-referrer=https://www.mundogo.cl/
+https://cdn-live.mundogo.cl/sonymovies/sonymovies.mpd
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",STAR CHANNEL
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgiALfMqqScbsrfVCxjXAwg/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", STUDIO UNIVERSAL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njj_d5e2wVwoFKqu1sN7icRz/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62544a20b6e8d2002028d8ec.png" group-title="CINE Y SERIES",TCM
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njguX4_VllaSJdEb9Q5H6Cqq/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625446ecb6e8d2002028d3ec.png" group-title="CINE Y SERIES",TNT
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji69bLTberd6u9K0yQ881HL/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62558af0fb01230023dc4307.png" group-title="CINE Y SERIES",TNT SERIES
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhSMtUlwtceHI1gHliFKLZI/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6495add8be936bf046a10b88.png" group-title="CINE Y SERIES",TNT NOVELAS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjN9fmk0NvHmYZWvCPnHij1/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",USA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgRpkfUnequovJGhcw1oCky/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES", WARNER CHANNEL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njht_6A6KMh-tdY5qAB60vfX/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="INFANTIL",13 KIDS
+http://186.10.17.126:9990/play/a0p6/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6537eb14b01f768891ddf8ea.png" group-title="INFANTIL",ADULT SWIM
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgsl9Yj-HlO0_e7IdJHAeYg/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL",ANIMOTION
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgKJFppop-EnF0Ax60sCFt6/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL", ANIME 
+http://38.87.224.248:2220/play/a01z/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_64ee07703870bd9de79bbb78.png" group-title="INFANTIL",BABY TV
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjQaCG4XnBhXmN3ESc9NC72/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f35af54913001a238ea6.png" group-title="INFANTIL",CANAL INFANTIL
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiYTmu-uENOxzL8o72AZpL4/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625430c04abac8001ccf81ea.png" group-title="INFANTIL",CARTOONITO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgeicPsz73gkiM8bISJN70v/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a213d7d37900216309d3.png" group-title="INFANTIL",CARTON NETWORK
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjN1qMfX4Cw80ksRwhdj88C/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL",DREAMWORKS CHANNEL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhutIueGyuPnayuJdDQs6NA/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a2d7561e1a002177eaa7.png" group-title="INFANTIL", DISNEY CHANNEL
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgbajOWHask9fwgQJ7RDTnF/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625431a4df72a7001b95ac9a.png" group-title="INFANTIL", DISNEY JR
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjmBm1aDMOJETZcFIq7lv6R/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62542f3fc6a6d7002397e84f.png" group-title="INFANTIL", DISCOVERY KIDS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhehe7zJRAkynhW76Y0Y6Kd/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6235d5fd4de2ad002284a54a.png" group-title="INFANTIL",ETC
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgDCyS-0SPyjE97lv-5u-lq/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL",FUNBOX
+http://45.162.211.4:7979/play/a00s/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62543359b6e8d2002028b4c9.png" group-title="INFANTIL",NICK JR
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgE-lHcCV_VCILTlnwRlsba/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625433067c8c5a0022b45f7f.png" group-title="INFANTIL", NICKELODEON
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhwX2gpj2HoTgm7QqeP5kVN/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL", MEMORIA TOONS
+http://187.102.195.131:8000/play/a01a/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_658b1f3ce2d86f36f3235384.png" group-title="INFANTIL",PLIM PLIM TV
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji40BeKGG1oN_8yo6RyBDOD/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL",SENPAI TV
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/287934.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL",VIA X ESPORTS 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/107107.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",31 MINUTOS
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/30223.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",BOB ESPONJA 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23815.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7", CHESPIRITO 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23818.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",CHAVO DEL 8 
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",DRAGON BALL
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23842.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",EL CHAPULÍN COLORADO 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23849.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",FUTURAMA 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/201851.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",HEY ARNOLD!
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23823.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",LOONEY TOONS 
+http://tv.diablotv.net:8080/arqsandoval100/66afc8bc4e73/169563
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",LOS SIMPSON 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23829.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",LOS SUPER CAMPEONES 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23837.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",LA PANTERA ROSA 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/211114.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",MALCOLM
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23900.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",MEA CULPA
+http://dctv.pro:2082/live/Axelben1/Axelben11/114641.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",NARUTO 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",SOUTH PARK
+http://vivamax.space:80/live/Dagern6282q9q9/Da5229119a/639853.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="24/7",TOM Y JERRY 
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",ADN 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhVU6zAZUhuqc6CVk4JB9jH/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", AGRICULTURA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiGXUOWeXDSXOEOMOPiF4hy/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",ACTIVA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiixPUiMn2omnZrd3ejSV9o/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f0929fcdd60022c9b510.png" group-title="EMISORA",BIO BIO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgCbX-IGLNkD7Y9Cw_jW_lL/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/prod/assets/logos/espn/logo_vert_bg.png" group-title="EMISORA",
+ CAROLINA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njh2pbNgGqo-dvNm6Ndrewiv/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", CORAZÓN 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njh_C-sdUMXq9LBjd-4JR82u/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", COOPERATIVA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjS1tq0Zr5hkwUTlwmZVeC2/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a2d7561e1a002177eaa7.png" group-title="EMISORA", DISNEY
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgPhyMMxUORPIjTmWwiyjuA/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",FM DOS 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjE_C6QwmbSm4UnoIbbREmX/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",FUTURO 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhLZ0JiPXqvNaa11X_ClQGP/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",ROCK Y POP 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji5ylI-apkwIko94PR3X8uK/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",LA CLAVE
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhnOym-a-1ngEjz3sfXJPN8/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",LOS 40 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjBmrC60hs_YsmNWETlYGs3/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", IMAGINA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njivLneOACYJuoa--uS3dOjF/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",INFINITA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgkFveCFdlIs4vQk0SDONZk/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", PUDAHUEL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgN8kdL3oic-pe9dFMmA2Fk/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257c803d0a078001b5e79d2.png" group-title="CULTURA", ANIMAL PLANET
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiBRK8tZMJufQUGO16GkUsN/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CULTURA", ATLAS 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiw-QyzaKnc9Towgw5TuhQY/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="CULTURA",CANAL 13 CULTURA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/93965.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="CULTURA",DOCU
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgMZsdTP0LboEOHQqmGQmif/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a3e3561e1a002177ece8.png" group-title="CULTURA", DISCOVERY
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiCLgGWzdBEmbSJ9tG_KxcG/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ca4b9fcdd60022c9580a.png" group-title="CULTURA", DISCOVERY SCIENCE
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjMueg_dw0L4tmP_rw9NN1o/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62558ee0fb01230023dc4d42.png" group-title="CULTURA", DISCOVERY THEATER
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njipDhT83KBmYlyF_CDxDT8H/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625413f7825c6d0021a02a91.png" group-title="CULTURA", DISCOVERY WORLD
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njinNuUPr0sF7YtXsnOhfZng/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="CULTURA",ID
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTM3U
+#EXTINF:-1 group-title="CULTURA",HISTORY 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgGzHxkd0ayQiQtSZASUmDr/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CULTURA",HISTORY 2 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njilkpiePcDIBuaUDqxWpraP/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62558e07317dc7001ba4714c.png" group-title="CULTURA",LOVE NATURE
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjOeDfYsVM798jX7R1_p10M/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="CULTURA",NATIONAL GEOGRAPHIC 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji9LGhR0Q8rDqwdA62i6_KK/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CLIC
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgAgXbZw_AwJmxCJUVsayq9/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="ENTRETENIMIENTO",CANAL 13 FESTIVAL
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225020.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="ENTRETENIMIENTO",CANAL 13 TELESERIES
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/67616.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625446032028b4c2028b4c9.png" group-title="ENTRETENIMIENTO", COMEDY CENTRAL
+http://38.7.195.43:8000/play/a00n/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="ENTRETENIMIENTO", DISTRITOCOMEDIA
+http://38.7.195.43:8000/play/a00z/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njh5JolweelqR4W-oEczaez8/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6254508bb6e8d2002028e334.png" group-title="ENTRETENIMIENTO",EL GOURMET
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njisvOorJCnNBNYg2ygQwuVa/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6255919cfb01230023dc53f7.png" group-title="ENTRETENIMIENTO",FOOD NETWORK
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji2sAhiIRe3oFYIV71NCRFh/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="ENTRETENIMIENTO",¡HOLA TV!
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjLMa-CATYPeobkjU5J40Bz/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a532d7d3790021630fe6.png" group-title="ENTRETENIMIENTO",LAS ESTRELLAS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhFL0UBEKT5mo4eDXIiRYfR/m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_625433067c8c5a0022b45f7f.png" group-title="ENTRETENIMIENTO",MTV
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njii_z8Ye_w9w6zgxbZuwzLY/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PASIONES
+http://74.208.30.121/a463/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUN CHANNEL
+http://190.93.229.30:8000/play/a0ci/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_62544f991f8ec9001a6fa1f7.png" group-title="ENTRETENIMIENTO",TLC
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgGCbqEmXv6RtsmxznljUre/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMUNDO 
+http://186.33.1.27:16000/play/a0u5/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_65d3bcd9d3a58d81de1ae930.png" group-title="ENTRETENIMIENTO", UNIVISIÓN
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji35uYh0-oWlV3O9a2AHIIc/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",BANDAMAX
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njim4QpAePqEZbyUu56bPwZv/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA", CUMBIA TV
+http://181.79.86.130:8000/play/a058/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",KARAVANA TV
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhen-eNrGCxGTZIVCZ-_Ogf/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",MI MÚSICA REGGAETON 
+http://38.87.224.248:2220/play/a033/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",MI MÚSICA ROMÁNTICA 
+http://38.156.13.106:8888/play/a002/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",NOW 70'S
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgtXyYndTtr5rbv_qoo0uZ1/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",NOW 80'S
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njiQnqpZiSN4CF5YaEEE1r0C/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",NOW 90'S & 00'S
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhDyGduVlCYbVKke0aLmeFi/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",NOW ROCK
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhY-oOFYZuCFrOhH0rGhF7m/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA", RITMOS INOLVIDABLES 
+http://186.33.3.130:5000/play/a0jp/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA", RUMBA TV
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njhms9bcO3XMDRW2CVFSuFbp/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",STINGRAY CONCERTS
+http://190.93.229.30:8000/play/a07t/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",TV ROCK 
+http://186.33.3.130:5000/play/a0jq/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",TELENOSTALGIA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njg7ENiXmkX5DHTKVHN5v0uy/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA", TELEHIT MÚSICA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njjdfyomAlI5fN8wnF1_8oBd/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",TOP LATINO 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgbZKrXS07-jO5unhVnLNcW/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="MÚSICA",VIA X 2 
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

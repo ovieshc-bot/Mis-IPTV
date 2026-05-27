@@ -136,20 +136,12 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 http://138.204.12.14:40000/play/a0pf/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AXN HD
 http://138.204.12.14:40000/play/a0mt/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINE CLASSIC
-http://179.63.6.12:9000/play/a05t
-#EXTINF:-1 group-title="CINE Y SERIES",CINE FAMILIAR
-http://138.204.12.14:40000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINE HISPANO
-http://138.204.12.14:40000/play/a0nj/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",CINE PREMIUM
 http://191.97.49.82:8001/play/a00u/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",CINECANAL HD
 http://138.204.12.14:40000/play/a0mp/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",CINEMAX
 http://138.204.12.14:40000/play/a0oo/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CLASSIC+
-http://179.63.6.12:9000/play/a05u
 #EXTINF:-1 group-title="CINE Y SERIES",CLOVER
 http://138.204.12.14:40000/play/a0r2/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",DE PELÍCULA
@@ -166,16 +158,8 @@ http://38.7.195.43:8000/play/a010/index.m3u8
 http://168.228.44.241:9997/play/a06n/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",KANAL D DRAMA
 http://138.204.12.14:40000/play/a0im/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",MX CLASSIC
-http://45.4.3.177:9999/play/a0gl
 #EXTINF:-1 group-title="CINE Y SERIES",MX PRIME
 http://45.4.3.177:9999/play/a0gn
-#EXTINF:-1 group-title="CINE Y SERIES",PASIONES HD
-http://138.204.12.14:40000/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",RCN NOVELAS HD
-http://138.204.12.14:40000/play/a0pg/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",RETRO CINE
-http://45.239.31.254:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",SONY HD
 http://138.204.12.14:40000/play/a0iy/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",SONY MOVIES
@@ -198,6 +182,52 @@ http://138.204.12.14:40000/play/a0ox/index.m3u8
 http://138.204.12.14:40000/play/a0lz/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",WARNER TV HD
 http://138.204.12.14:40000/play/a0o6/index.m3u8
+
+
+# ============== CINE CLASICO ==============
+#EXTINF:-1 group-title="CINE CLASICO",70S CINEMA
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",80S REWIND
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",90S THROWBACK
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",ARTFLIX MOVIE CLASSICS
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE CLASICO PLUTO TV
+https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE CLASICO XTREMA
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE CLASSIC
+http://179.63.6.12:9000/play/a05t
+#EXTINF:-1 group-title="CINE CLASICO",CINE FAMILIAR
+http://138.204.12.14:40000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE HISPANO
+http://138.204.12.14:40000/play/a0nj/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE WESTERN ESPAÑA
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CLASSIC CINEMA P
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CLASSIC+
+http://179.63.6.12:9000/play/a05u
+#EXTINF:-1 group-title="CINE CLASICO",FILMRISE WESTERNS
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",GRJNGO WESTERN MOVIES
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",MX CLASSIC
+http://45.4.3.177:9999/play/a0gl
+#EXTINF:-1 group-title="CINE CLASICO",PASIONES HD
+http://138.204.12.14:40000/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",PLUTO TV WESTERNS
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",RCN NOVELAS HD
+http://138.204.12.14:40000/play/a0pg/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",RETRO CINE
+http://45.239.31.254:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",THE FILM DETECTIVE
+https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
 
 # ============== HBO ==============
 #EXTINF:-1 group-title="HBO",HBO FAMILY HD
@@ -417,62 +447,6 @@ http://138.204.12.14:40000/play/13/index.m3u8
 
 
 
-#EXTINF:-1 group-title="CINE Y SERIES",Cine Clásico (Pluto TV) PRUEBA
-https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
 
-#EXTINF:-1 group-title="CINE Y SERIES",Cine Clásico (Xtrema) PRUEBA
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE Y SERIES",Filmex Clásico PRUEBA
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE Y SERIES",Artflix Movie Classics PRUEBA
-https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Classic Cinema PRUEBA
-https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",The Film Detective PRUEBA
-https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Retro Cine PRUEBA
-http://45.239.31.254:8000/play/a01e/index.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",70s Cinema PRUEBA
-https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",80s Rewind PRUEBA
-https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",90s Throwback PRUEBA
-https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Cinevault 80s PRUEBA
-https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Pantalla Clásica EC PRUEBA
-https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Cine Western (España) PRUEBA
-https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Grjngo Western Movies PRUEBA
-https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Pluto TV Westerns PRUEBA
-https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",FilmRise Westerns PRUEBA
-https://dz05z8iljgvbe.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Xtrema Accion PRUEBA
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Cine Romantico PRUEBA
-https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Pluto TV Romance PRUEBA
-https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",Pluto TV Drama PRUEBA
-https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8

@@ -1,181 +1,65 @@
 #EXTM3U
 # ============================================================
-# APEX TV - Lista Oficial con Categorías
+# APEX TV - Lista Oficial (ordenada alfabéticamente)
 # ============================================================
 
-# ============== 24/7 ==============
-#EXTINF:-1 group-title="24/7",31 MINUTOS
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/30223.ts
-#EXTINF:-1 group-title="24/7",BOB ESPONJA
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23815.ts
-#EXTINF:-1 group-title="24/7",CHAVO DEL 8
-https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23818.ts
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23849.ts
-#EXTINF:-1 group-title="24/7",HEY ARNOLD
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23823.ts
-#EXTINF:-1 group-title="24/7",LOONEY TOONS
-http://tv.diablotv.net:8080/arqsandoval100/66afc8bc4e73/169563.ts
-#EXTINF:-1 group-title="24/7",MALCOLM
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23900.ts
-#EXTINF:-1 group-title="24/7",MEA CULPA
-http://dctv.pro:2082/live/Axelben1/Axelben11/114641.ts
-#EXTINF:-1 group-title="24/7",NARUTO
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
-#EXTINF:-1 group-title="24/7",TOM Y JERRY
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
-
-# ============== CINE Y SERIES ==============
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE
-http://179.63.6.12:9000/play/a057
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE FAMILIAR
-http://179.63.6.12:9000/play/a06y
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE TERROR
-http://179.63.6.12:9000/play/a00w
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE WAR
-http://179.63.6.12:9000/play/a07n
-#EXTINF:-1 group-title="CINE Y SERIES",A&E HD
-http://138.204.12.14:40000/play/a0lt/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",A3 CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"O3nAlqWlV4mBoE5_SB9lfg","k":"VQErzVB4bx9xLJJSHn0EgQ"},{"kty":"oct","kid":"5PzTWBbTWLqhplC-PsNwKw","k":"z4TXilbkorLvVxlvoxxmeA"},{"kty":"oct","kid":"3zpRdG4_V42zs2n11a9kSg","k":"vqEvZvsiB8lK1rtsbeR_HQ"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/a3cine1c/a3cine1c.mpd
-#EXTINF:-1 group-title="CINE Y SERIES",AMC HD
-http://138.204.12.14:40000/play/a0ly/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AMC THRILLER
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",ATRES SERIES
-http://138.204.12.14:40000/play/a0pf/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AXN HD
-http://138.204.12.14:40000/play/a0mt/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wyHAOt0JXRCC7G9T2o-JCg","k":"IaL4lYt2g-Q3ur0FeR_z_Q"},{"kty":"oct","kid":"cuDi9KlzVo-4kI2nUZJ9zw","k":"mi3VEW7XpvawepdKcQDyeg"},{"kty":"oct","kid":"PIJ5ND7NVWm4W3uFsgXqOw","k":"B3f0VeYwTvhAXy0K3KvI6Q"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/azcinema/azcinema.mpd
-#EXTINF:-1 group-title="CINE Y SERIES",CINE CLASSIC
-http://179.63.6.12:9000/play/a05t
-#EXTINF:-1 group-title="CINE Y SERIES",CINE FAMILIAR
-http://138.204.12.14:40000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINE HISPANO
-http://138.204.12.14:40000/play/a0nj/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINE PREMIUM
-http://191.97.49.82:8001/play/a00u/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINE PREMIUM (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PENerzq3W5m4nHXF8VvMuw","k":"V9NxklIXU88Kqd11JgIpEw"},{"kty":"oct","kid":"itU8KE5FXzOmiCvTfxqs1w","k":"1C8aENiWDJTt3t8n1vSxRQ"},{"kty":"oct","kid":"Sn5YWOLGUK29piUF4oM8wg","k":"hgCnAt4LAuyKNpO3nCqMhA"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/cinepremium/cinepremium.mpd
-#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL HD
-http://138.204.12.14:40000/play/a0mp/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX
-http://138.204.12.14:40000/play/a0oo/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CLASSIC+
-http://179.63.6.12:9000/play/a05u
-#EXTINF:-1 group-title="CINE Y SERIES",CLOVER
-http://138.204.12.14:40000/play/a0r2/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",DE PELÍCULA
-http://138.204.12.14:40000/play/a0pm/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",EUROPA EUROPA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ees1FagSVWCyyi5OYRYffg","k":"ykF6yDkTVuA2SVys414UuA"},{"kty":"oct","kid":"q9r67XYpVzSpCpsqI6disw","k":"zIwWCV_iyKfEsn0eTKduZg"},{"kty":"oct","kid":"AfoGRsjLWvaSfTdZUzt8eQ","k":"YVqAac7x0J-SQ_y4q99w8Q"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/europa/europa.mpd
-#EXTINF:-1 group-title="CINE Y SERIES",FX HD
-http://138.204.12.14:40000/play/a0my/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
-http://138.204.12.14:40000/play/a0q6/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN HD
-http://138.204.12.14:40000/play/a0o7/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PLUS
-http://38.7.195.43:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PREMIERE 2
-http://168.228.44.241:9997/play/a06n/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",KANAL D DRAMA
-http://138.204.12.14:40000/play/a0im/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",MX CLASSIC
-http://45.4.3.177:9999/play/a0gl
-#EXTINF:-1 group-title="CINE Y SERIES",MX PRIME
-http://45.4.3.177:9999/play/a0gn
-#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JplkkYjlX0GoRiyRseu_pw","k":"cDkN-a6yWAa9tnR3jN-fVA"},{"kty":"oct","kid":"ID-Rdx2KUriHsRC90sMJSQ","k":"mG5rEj9KF0RmbubQaKKPLw"},{"kty":"oct","kid":"lGSO-ISZXc-1r-H8Eika5A","k":"pATR9JfxWeTrOuUsETf12Q"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/paramount/paramount.mpd
-#EXTINF:-1 group-title="CINE Y SERIES",PASIONES HD
-http://138.204.12.14:40000/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",RCN NOVELAS HD
-http://138.204.12.14:40000/play/a0pg/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",RETRO CINE
-http://45.239.31.254:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY HD
-http://138.204.12.14:40000/play/a0iy/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY MOVIES
-http://138.204.12.14:40000/play/a0qz/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SPACE HD
-http://138.204.12.14:40000/play/a0mv/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",STAR CHANNEL HD
-http://138.204.12.14:40000/play/a0mz/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
-http://138.204.12.14:40000/play/a0qm/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TCM
-http://138.204.12.14:40000/play/a0r7/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TCM (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gSSxAfShUUuTN35h19v6Eg","k":"ZWLBohrTjQZ7oQ5EnTV_5w"},{"kty":"oct","kid":"HOO-TsuvUj-M_SIGnLhQZw","k":"Cl7zHkfAWd82qnO5ANGBmg"},{"kty":"oct","kid":"Zfsc0WteUue_qPpE03tjzQ","k":"B77ghf_xVhniAEmt9GcxIQ"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/tcm/tcm.mpd
-#EXTINF:-1 group-title="CINE Y SERIES",TLNOVELAS
-http://138.204.12.14:40000/play/a0pl/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT HD
-http://138.204.12.14:40000/play/a0mo/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT NOVELAS HD
-http://138.204.12.14:40000/play/a0ox/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES HD
-http://138.204.12.14:40000/play/a0lz/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",WARNER TV HD
-http://138.204.12.14:40000/play/a0o6/index.m3u8
-
-# ============== CULTURA ==============
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET HD
-http://138.204.12.14:40000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CCTV-CGTN
-http://138.204.12.14:40000/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL HD
-http://138.204.12.14:40000/play/a0mm/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE
-http://138.204.12.14:40000/play/a0r0/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER HD
-http://138.204.12.14:40000/play/a0m7/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
-http://138.204.12.14:40000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD HD
-http://138.204.12.14:40000/play/a0m1/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DW ESPAÑOL
-http://138.204.12.14:40000/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="CULTURA",EL GOURMET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"iFL-sTVwWcOHPWju-rnoJA","k":"FrrIS5sphKb7vnl-W1QzhA"},{"kty":"oct","kid":"bI0xhhcBXFObC91ltZQsbw","k":"lztN-NoKQnSU6Zr6mvrhRw"},{"kty":"oct","kid":"_AgrpnoQVnWqXmjnsHqZsA","k":"W2H4XoGmsp6ob_x_otvPvA"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/gourmet/gourmet.mpd
-#EXTINF:-1 group-title="CULTURA",HISTORY 2
-http://138.204.12.14:40000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="CULTURA",HISTORY CHANNEL HD
-http://138.204.12.14:40000/play/a0mn/index.m3u8
-#EXTINF:-1 group-title="CULTURA",HOME & HEALTH HD
-http://138.204.12.14:40000/play/a0o4/index.m3u8
-#EXTINF:-1 group-title="CULTURA",ID HD
-http://138.204.12.14:40000/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="CULTURA",LOVE NATURE
-http://138.204.12.14:40000/play/a0ra/index.m3u8
-#EXTINF:-1 group-title="CULTURA",MAS CHIC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ieycZSQuX_Wdg6lwJp1zIQ","k":"jBIQHfPOPKcOgY2MYeX4_Q"},{"kty":"oct","kid":"7XwMfQmZVW6kxCh0XuU4zg","k":"P21aP-38x1dEBye9Hp8_tQ"},{"kty":"oct","kid":"tpi9lnxAW5GHLyVPPzCw5w","k":"SwSRZWlbIwaLdQSv66XTKA"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/maschic/maschic.mpd
-#EXTINF:-1 group-title="CULTURA",NAT GEO HD
-http://138.204.12.14:40000/play/a0o5/index.m3u8
+# ============== NACIONALES ==============
+#EXTINF:-1 group-title="NACIONALES",AMERICA TV HD
+http://138.204.12.14:40000/play/a0kh/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",ATV
+http://138.204.12.14:40000/play/a0pb/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",ATV +
+http://138.204.12.14:40000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",ATV FHD
+http://138.204.12.14:40000/play/a0qd/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",CANAL 13 HD
+http://138.204.12.14:40000/play/a0lq/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",CANAL 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 group-title="NACIONALES",CANAL TUVES
+http://138.204.12.14:40000/play/a0qv/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",CHV HD
+http://138.204.12.14:40000/play/a0m9/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",CNN CHILE
+http://138.204.12.14:40000/play/a0pn/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",CNN CHILE
+http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/27507.ts
+#EXTINF:-1 group-title="NACIONALES",GLOBAL
+http://138.204.12.14:40000/play/a0ja/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",LA RED
+http://138.204.12.14:40000/play/a0qx/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",LATINA HD
+http://138.204.12.14:40000/play/a0ki/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",MEGA HD
+http://138.204.12.14:40000/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",PANAMERICANA
+http://138.204.12.14:40000/play/a0pa/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",REC TV
+http://138.204.12.14:40000/play/a0qw/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",SKYTV HD
+http://138.204.12.14:40000/play/skytvhd/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",TV DIPUTADOS
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES",TV PERU HD
+http://138.204.12.14:40000/play/7/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",TV SENADO
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES",TVN HD
+http://138.204.12.14:40000/play/a0m8/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES",UCV TV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES",VIVA TV
+http://138.204.12.14:40000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",WILLAX
+http://138.204.12.14:40000/play/3/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",ZONA LATINA
+http://138.204.12.14:40000/play/a0r3/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",ZONA LATINA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/121088.ts
 
 # ============== DEPORTES ==============
-#EXTINF:-1 group-title="DEPORTES",CDO PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hPoWO2rCX3u3JDJB9TaeZg","k":"dtyAEUUHx01ftgdh96OhzA"},{"kty":"oct","kid":"xholMbm6VeyUigJQnmN_Ug","k":"ucjTLEYS4q6zkZOaXPxsPg"},{"kty":"oct","kid":"lPfxmyW-XFWZ6KsMy_9Lfw","k":"ikBs54WTMAjI4KM-dhZh3g"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/cdopremium/cdopremium.mpd
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS 1
 http://138.204.12.14:40000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS 2
@@ -210,12 +94,8 @@ http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
 http://138.204.12.14:40000/play/a0j3/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",L1 MAX
 http://138.204.12.14:40000/play/a0qr/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Max Sport 1 HD
-http://87.120.179.187:8000/play/a00k
 #EXTINF:-1 group-title="DEPORTES",MOVISTAR DEPORTES
 http://138.204.12.14:40000/play/a0r9/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="DEPORTES",TELETRAK
 http://45.239.31.254:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",TENNIS CHANNEL
@@ -235,31 +115,215 @@ http://38.210.3.64:8090/play/A01E/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",WWE
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2344.ts
 
-# ============== EMISORA ==============
-#EXTINF:-1 group-title="EMISORA",BETHEL TV
-http://138.204.12.14:40000/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="EMISORA",CRISTOVISIÓN
-http://138.204.12.14:40000/play/a0rp/index.m3u8
-#EXTINF:-1 group-title="EMISORA",DHE HD
-http://138.204.12.14:40000/play/a0oc/index.m3u8
-#EXTINF:-1 group-title="EMISORA",EXITOSA TV
-http://138.204.12.14:40000/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="EMISORA",IPE
-http://138.204.12.14:40000/play/a0e8/index.m3u8
-#EXTINF:-1 group-title="EMISORA",LA KARIBENA
-http://138.204.12.14:40000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="EMISORA",MI FOLKLORE
-http://138.204.12.14:40000/play/a0ob/index.m3u8
-#EXTINF:-1 group-title="EMISORA",NUEVO TIEMPO
-http://138.204.12.14:40000/play/a0ew/index.m3u8
-#EXTINF:-1 group-title="EMISORA",PBO
-http://138.204.12.14:40000/play/a0jq/index.m3u8
-#EXTINF:-1 group-title="EMISORA",RADIO BETHEL
-http://138.204.12.14:40000/play/a0om/index.m3u8
-#EXTINF:-1 group-title="EMISORA",RPP
-http://138.204.12.14:40000/play/a0pc/index.m3u8
-#EXTINF:-1 group-title="EMISORA",USMP
-http://138.204.12.14:40000/play/13/index.m3u8
+# ============== CINE Y SERIES ==============
+#EXTINF:-1 group-title="CINE Y SERIES",+CINE
+http://179.63.6.12:9000/play/a057
+#EXTINF:-1 group-title="CINE Y SERIES",+CINE FAMILIAR
+http://179.63.6.12:9000/play/a06y
+#EXTINF:-1 group-title="CINE Y SERIES",+CINE TERROR
+http://179.63.6.12:9000/play/a00w
+#EXTINF:-1 group-title="CINE Y SERIES",+CINE WAR
+http://179.63.6.12:9000/play/a07n
+#EXTINF:-1 group-title="CINE Y SERIES",A&E HD
+http://138.204.12.14:40000/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC HD
+http://138.204.12.14:40000/play/a0ly/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC THRILLER
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC THRILLER
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",ATRES SERIES
+http://138.204.12.14:40000/play/a0pf/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AXN HD
+http://138.204.12.14:40000/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINE CLASSIC
+http://179.63.6.12:9000/play/a05t
+#EXTINF:-1 group-title="CINE Y SERIES",CINE FAMILIAR
+http://138.204.12.14:40000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINE HISPANO
+http://138.204.12.14:40000/play/a0nj/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINE PREMIUM
+http://191.97.49.82:8001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL HD
+http://138.204.12.14:40000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX
+http://138.204.12.14:40000/play/a0oo/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CLASSIC+
+http://179.63.6.12:9000/play/a05u
+#EXTINF:-1 group-title="CINE Y SERIES",CLOVER
+http://138.204.12.14:40000/play/a0r2/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELÍCULA
+http://138.204.12.14:40000/play/a0pm/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FX HD
+http://138.204.12.14:40000/play/a0my/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+http://138.204.12.14:40000/play/a0q6/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN HD
+http://138.204.12.14:40000/play/a0o7/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PLUS
+http://38.7.195.43:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PREMIERE 2
+http://168.228.44.241:9997/play/a06n/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",KANAL D DRAMA
+http://138.204.12.14:40000/play/a0im/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",MX CLASSIC
+http://45.4.3.177:9999/play/a0gl
+#EXTINF:-1 group-title="CINE Y SERIES",MX PRIME
+http://45.4.3.177:9999/play/a0gn
+#EXTINF:-1 group-title="CINE Y SERIES",PASIONES HD
+http://138.204.12.14:40000/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",RCN NOVELAS HD
+http://138.204.12.14:40000/play/a0pg/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",RETRO CINE
+http://45.239.31.254:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY HD
+http://138.204.12.14:40000/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY MOVIES
+http://138.204.12.14:40000/play/a0qz/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SPACE HD
+http://138.204.12.14:40000/play/a0mv/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",STAR CHANNEL HD
+http://138.204.12.14:40000/play/a0mz/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+http://138.204.12.14:40000/play/a0qm/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TCM
+http://138.204.12.14:40000/play/a0r7/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TLNOVELAS
+http://138.204.12.14:40000/play/a0pl/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT HD
+http://138.204.12.14:40000/play/a0mo/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT NOVELAS HD
+http://138.204.12.14:40000/play/a0ox/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES HD
+http://138.204.12.14:40000/play/a0lz/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",WARNER TV HD
+http://138.204.12.14:40000/play/a0o6/index.m3u8
+
+# ============== HBO ==============
+#EXTINF:-1 group-title="HBO",HBO FAMILY HD
+http://138.204.12.14:40000/play/a0mj/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO HD
+http://138.204.12.14:40000/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO MUNDI
+http://138.204.12.14:40000/play/a0pz/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://138.204.12.14:40000/play/a0q7/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO POP HD
+http://138.204.12.14:40000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+http://138.204.12.14:40000/play/a0ls/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO XTREME HD
+http://138.204.12.14:40000/play/a0mk/index.m3u8
+
+# ============== UNIVERSAL ==============
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANNEL HD
+http://138.204.12.14:40000/play/a0lw/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA
+http://8.243.126.131:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY HD
+http://138.204.12.14:40000/play/a0l8/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL OP2
+http://45.181.122.46:8090/play/a01h
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIER
+http://138.204.12.14:40000/play/a0ea/index.m3u8
+
+# ============== INFANTIL ==============
+#EXTINF:-1 group-title="INFANTIL",ANIME
+http://38.87.224.248:2220/play/a01z/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",BABY TV
+http://138.204.12.14:40000/play/a0on/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK HD
+http://138.204.12.14:40000/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS HD
+http://138.204.12.14:40000/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL HD
+http://138.204.12.14:40000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR.
+http://138.204.12.14:40000/play/a0op/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",DRAGON BALL
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23842.ts
+#EXTINF:-1 group-title="INFANTIL",DREAMWORKS HD
+http://138.204.12.14:40000/play/a0jm/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",FMH KIDS
+http://138.204.12.14:40000/play/a0qf/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",FUNBOX
+http://45.162.211.4:7979/play/a00s/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",FUTURAMA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/201851.ts
+#EXTINF:-1 group-title="INFANTIL",LA PANTERA ROSA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/211114.ts
+#EXTINF:-1 group-title="INFANTIL",LOS SIMPSON
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23829.ts
+#EXTINF:-1 group-title="INFANTIL",LOS SUPER CAMPEONES
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23837.ts
+#EXTINF:-1 group-title="INFANTIL",MEMORIA TOONS
+http://187.102.195.131:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK JR.
+http://138.204.12.14:40000/play/a0os/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICKELODEON HD
+http://138.204.12.14:40000/play/a0me/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",PLIM PLIM TV
+http://138.204.12.14:40000/play/a0r8/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",SENPAI TV
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/287934.ts
+#EXTINF:-1 group-title="INFANTIL",TOONCAST
+http://138.204.12.14:40000/play/a0r4/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",VIA X ESPORTS
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/107107.ts
+
+# ============== 24/7 ==============
+#EXTINF:-1 group-title="24/7",31 MINUTOS
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/30223.ts
+#EXTINF:-1 group-title="24/7",BOB ESPONJA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23815.ts
+#EXTINF:-1 group-title="24/7",CHAVO DEL 8
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:-1 group-title="24/7",CHESPIRITO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23818.ts
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23849.ts
+#EXTINF:-1 group-title="24/7",HEY ARNOLD
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23823.ts
+#EXTINF:-1 group-title="24/7",LOONEY TOONS
+http://tv.diablotv.net:8080/arqsandoval100/66afc8bc4e73/169563.ts
+#EXTINF:-1 group-title="24/7",MALCOLM
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23900.ts
+#EXTINF:-1 group-title="24/7",MEA CULPA
+http://dctv.pro:2082/live/Axelben1/Axelben11/114641.ts
+#EXTINF:-1 group-title="24/7",NARUTO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
+#EXTINF:-1 group-title="24/7",TOM Y JERRY
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
+
+# ============== CULTURA ==============
+#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET HD
+http://138.204.12.14:40000/play/a0qo/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CCTV-CGTN
+http://138.204.12.14:40000/play/a0r5/index.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL HD
+http://138.204.12.14:40000/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE
+http://138.204.12.14:40000/play/a0r0/index.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER HD
+http://138.204.12.14:40000/play/a0m7/index.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
+http://138.204.12.14:40000/play/a0oq/index.m3u8
+#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD HD
+http://138.204.12.14:40000/play/a0m1/index.m3u8
+#EXTINF:-1 group-title="CULTURA",DW ESPAÑOL
+http://138.204.12.14:40000/play/a0pk/index.m3u8
+#EXTINF:-1 group-title="CULTURA",HISTORY 2
+http://138.204.12.14:40000/play/a0j2/index.m3u8
+#EXTINF:-1 group-title="CULTURA",HISTORY CHANNEL HD
+http://138.204.12.14:40000/play/a0mn/index.m3u8
+#EXTINF:-1 group-title="CULTURA",HOME & HEALTH HD
+http://138.204.12.14:40000/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="CULTURA",ID HD
+http://138.204.12.14:40000/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="CULTURA",LOVE NATURE
+http://138.204.12.14:40000/play/a0ra/index.m3u8
+#EXTINF:-1 group-title="CULTURA",NAT GEO HD
+http://138.204.12.14:40000/play/a0o5/index.m3u8
 
 # ============== ENTRETENIMIENTO ==============
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ADULT SWIM
@@ -267,15 +331,15 @@ http://138.204.12.14:40000/play/a0n4/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",CLIC
 https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgAgXbZw_AwJmxCJUVsayq9/m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://138.204.12.14:40000/play/a0lu/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL (2)
 http://38.7.195.43:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://138.204.12.14:40000/play/a0lu/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",CORAZON
 http://138.204.12.14:40000/play/a0ei/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
-http://138.204.12.14:40000/play/a0ky/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA (2)
 http://38.7.195.43:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://138.204.12.14:40000/play/a0ky/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",E! ENTERTAINMENT TV
 http://138.204.12.14:40000/play/a0ou/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",EL GOURMET HD
@@ -305,86 +369,6 @@ http://138.204.12.14:40000/play/a0ot/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TOP LATINO HD
 http://138.204.12.14:40000/play/a0pe/index.m3u8
 
-# ============== HBO ==============
-#EXTINF:-1 group-title="HBO",HBO FAMILY HD
-http://138.204.12.14:40000/play/a0mj/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO HD
-http://138.204.12.14:40000/play/a0m0/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO MUNDI
-http://138.204.12.14:40000/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO PLUS
-http://138.204.12.14:40000/play/a0q7/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO POP HD
-http://138.204.12.14:40000/play/a0md/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE
-http://138.204.12.14:40000/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO XTREME HD
-http://138.204.12.14:40000/play/a0mk/index.m3u8
-
-# ============== INFANTIL ==============
-#EXTINF:-1 group-title="INFANTIL",ANIME
-http://38.87.224.248:2220/play/a01z/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",BABY TV
-http://138.204.12.14:40000/play/a0on/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",CANAL INFANTIL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UUP46K9cXOuYJlleID2kvA","k":"wDlKiD1abZvc13lFMiO7jA"},{"kty":"oct","kid":"GM7NRZw7Uqm3YsxgcPiSkA","k":"EpuZgyqaUKtbEivK1w6Lrg"},{"kty":"oct","kid":"N_A6VacDUJa5-g-SESxG_g","k":"16S8lEqsuAMSHTByfLY9fA"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/canalinfantil/canalinfantil.mpd
-#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK HD
-http://138.204.12.14:40000/play/a0o2/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",CARTOONITO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8ThSQogpXt-pv-sOkV1-nw","k":"OzBCvhtHy3fHSZQ-JTRmVQ"},{"kty":"oct","kid":"nXEQISDNUVCL1e2AQ_A2Bw","k":"pkxKpbY3Y6eOtDg6MzZy5g"},{"kty":"oct","kid":"UKIuDrCNU7iCiW03cXIJBg","k":"cPXhHh5RnSFLf1CyZn-fKA"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/cartoonitohd/cartoonitohd.mpd
-#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS HD
-http://138.204.12.14:40000/play/a0o3/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL HD
-http://138.204.12.14:40000/play/a0g3/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY JR.
-http://138.204.12.14:40000/play/a0op/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY JUNIOR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bhSIKc-jXCmEiMlpR_GcsA","k":"LuytyzQdD8Pp67olZ5qZZQ"},{"kty":"oct","kid":"IH4ywKGyUOeR_wR0xQOaCQ","k":"5VMsvuQ0J6DcQovowkel_A"},{"kty":"oct","kid":"XWL-uUWdUhOhFzkyh9insw","k":"plo-0y2fhY9PPn6FBlGmfQ"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/disneyjr/disneyjr.mpd
-#EXTINF:-1 group-title="INFANTIL",DRAGON BALL
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23842.ts
-#EXTINF:-1 group-title="INFANTIL",DREAMWORKS HD
-http://138.204.12.14:40000/play/a0jm/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",FMH KIDS
-http://138.204.12.14:40000/play/a0qf/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",FUNBOX
-http://45.162.211.4:7979/play/a00s/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",FUTURAMA
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/201851.ts
-#EXTINF:-1 group-title="INFANTIL",LA PANTERA ROSA
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/211114.ts
-#EXTINF:-1 group-title="INFANTIL",LOS SIMPSON
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23829.ts
-#EXTINF:-1 group-title="INFANTIL",LOS SUPER CAMPEONES
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23837.ts
-#EXTINF:-1 group-title="INFANTIL",MEMORIA TOONS
-http://187.102.195.131:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICK JR.
-http://138.204.12.14:40000/play/a0os/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICKELODEON HD
-http://138.204.12.14:40000/play/a0me/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",PLIM PLIM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bfc0UKr7V4mF306sfJqrNQ","k":"VhIE06oKdd96KKe83-Y2Zw"},{"kty":"oct","kid":"0kd_hG3rUBiqultityzHPg","k":"5u5K_1uXK3PPsPEvwsIZAg"},{"kty":"oct","kid":"W7HER1sFXsqo5m1JCA2v9A","k":"Fp0ngU2qs9KNBZ0zWZnibg"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/plimplim/plimplim.mpd
-#EXTINF:-1 group-title="INFANTIL",PLIM PLIM TV
-http://138.204.12.14:40000/play/a0r8/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",SENPAI TV
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/287934.ts
-#EXTINF:-1 group-title="INFANTIL",TOONCAST
-http://138.204.12.14:40000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",TOONCAST (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"iAdiR13hX0Kddwle7liNrQ","k":"pZHXoucXjiKb9mbZZ8ntNQ"},{"kty":"oct","kid":"ni_gL1TgXI2NGLUjCYx4pA","k":"bwsG7ePVKrn_iQcYlTnFNA"},{"kty":"oct","kid":"BqCXqz0zUySiSGSIiI0oLQ","k":"704UVWkonf4iQQA0s5hKlg"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/tooncast/tooncast.mpd
-#EXTINF:-1 group-title="INFANTIL",VIA X ESPORTS
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/107107.ts
-
 # ============== MÚSICA ==============
 #EXTINF:-1 group-title="MÚSICA",CUMBIA TV
 http://181.79.86.130:8000/play/a058/index.m3u8
@@ -405,74 +389,90 @@ http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m
 #EXTINF:-1 group-title="MÚSICA",VIA X ESPORTS
 http://138.204.12.14:40000/play/a0r6/index.m3u8
 
-# ============== NACIONALES ==============
-#EXTINF:-1 group-title="NACIONALES",AMERICA TV HD
-http://138.204.12.14:40000/play/a0kh/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ATV
-http://138.204.12.14:40000/play/a0pb/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ATV +
-http://138.204.12.14:40000/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ATV FHD
-http://138.204.12.14:40000/play/a0qd/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",BIO BIO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"riSgJSLrWQO290afmfAAbQ","k":"urjFeSuTdckIGvi1D4pqaQ"},{"kty":"oct","kid":"2d--jpOjULq4QOOnuLkY4w","k":"Ww6im_5nFOsbNNMo_iuShw"},{"kty":"oct","kid":"Srp2m6YgW669AF10nC6aGw","k":"HsNkoGV3clk818OIhmOxIQ"}],"type":"temporary"}
-https://cdn-live.mundogo.cl/biobiotv/biobiotv.mpd
-#EXTINF:-1 group-title="NACIONALES",CANAL 13 HD
-http://138.204.12.14:40000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CANAL 24 HORAS
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 group-title="NACIONALES",CANAL TUVES
-http://138.204.12.14:40000/play/a0qv/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CHV HD
-http://138.204.12.14:40000/play/a0m9/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CNN CHILE
-http://138.204.12.14:40000/play/a0pn/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CNN CHILE (2)
-http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/27507.ts
-#EXTINF:-1 group-title="NACIONALES",GLOBAL
-http://138.204.12.14:40000/play/a0ja/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",LA RED
-http://138.204.12.14:40000/play/a0qx/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",LATINA HD
-http://138.204.12.14:40000/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",MEGA HD
-http://138.204.12.14:40000/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",PANAMERICANA
-http://138.204.12.14:40000/play/a0pa/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",REC TV
-http://138.204.12.14:40000/play/a0qw/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",SKYTV HD
-http://138.204.12.14:40000/play/skytvhd/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV DIPUTADOS
-https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV PERU HD
-http://138.204.12.14:40000/play/7/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV SENADO
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES",TVN HD
-http://138.204.12.14:40000/play/a0m8/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",UCV TV
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",UCV TV 2
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",VIVA TV
-http://138.204.12.14:40000/play/a0ex/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",WILLAX
-http://138.204.12.14:40000/play/3/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ZONA LATINA
-http://138.204.12.14:40000/play/a0r3/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ZONA LATINA (2)
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/121088.ts
+# ============== EMISORA ==============
+#EXTINF:-1 group-title="EMISORA",BETHEL TV
+http://138.204.12.14:40000/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="EMISORA",CRISTOVISIÓN
+http://138.204.12.14:40000/play/a0rp/index.m3u8
+#EXTINF:-1 group-title="EMISORA",DHE HD
+http://138.204.12.14:40000/play/a0oc/index.m3u8
+#EXTINF:-1 group-title="EMISORA",EXITOSA TV
+http://138.204.12.14:40000/play/a0p7/index.m3u8
+#EXTINF:-1 group-title="EMISORA",IPE
+http://138.204.12.14:40000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="EMISORA",LA KARIBENA
+http://138.204.12.14:40000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="EMISORA",MI FOLKLORE
+http://138.204.12.14:40000/play/a0ob/index.m3u8
+#EXTINF:-1 group-title="EMISORA",NUEVO TIEMPO
+http://138.204.12.14:40000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="EMISORA",PBO
+http://138.204.12.14:40000/play/a0jq/index.m3u8
+#EXTINF:-1 group-title="EMISORA",RADIO BETHEL
+http://138.204.12.14:40000/play/a0om/index.m3u8
+#EXTINF:-1 group-title="EMISORA",RPP
+http://138.204.12.14:40000/play/a0pc/index.m3u8
+#EXTINF:-1 group-title="EMISORA",USMP
+http://138.204.12.14:40000/play/13/index.m3u8
 
-# ============== UNIVERSAL ==============
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANNEL HD
-http://138.204.12.14:40000/play/a0lw/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA
-http://8.243.126.131:8000/play/a0de/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY HD
-http://138.204.12.14:40000/play/a0l8/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL OP2
-http://45.181.122.46:8090/play/a01h
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIER
-http://138.204.12.14:40000/play/a0ea/index.m3u8
+
+
+#EXTINF:-1 group-title="CINE Y SERIES",Cine Clásico (Pluto TV) PRUEBA
+https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Cine Clásico (Xtrema) PRUEBA
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Filmex Clásico PRUEBA
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Artflix Movie Classics PRUEBA
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Classic Cinema PRUEBA
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",The Film Detective PRUEBA
+https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Retro Cine PRUEBA
+http://45.239.31.254:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",70s Cinema PRUEBA
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",80s Rewind PRUEBA
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",90s Throwback PRUEBA
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Cinevault 80s PRUEBA
+https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Pantalla Clásica EC PRUEBA
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Cine Western (España) PRUEBA
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Grjngo Western Movies PRUEBA
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Pluto TV Westerns PRUEBA
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",FilmRise Westerns PRUEBA
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Xtrema Accion PRUEBA
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Cine Romantico PRUEBA
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Pluto TV Romance PRUEBA
+https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",Pluto TV Drama PRUEBA
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8

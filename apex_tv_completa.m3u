@@ -530,27 +530,27 @@ https://cdn-live.mundogo.cl/canalinfantil/canalinfantil.mpd
 https://cdn-live.mundogo.cl/plimplim/plimplim.mpd
 
 # ============== CINE ==============
-#EXTINF:-1 group-title="CINE",A3 CINE (PRUEBA)
+#EXTINF:-1 group-title="CINE Y SERIES",A3 CINE (PRUEBA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"O3nAlqWlV4mBoE5_SB9lfg","k":"VQErzVB4bx9xLJJSHn0EgQ"},{"kty":"oct","kid":"5PzTWBbTWLqhplC-PsNwKw","k":"z4TXilbkorLvVxlvoxxmeA"},{"kty":"oct","kid":"3zpRdG4_V42zs2n11a9kSg","k":"vqEvZvsiB8lK1rtsbeR_HQ"}],"type":"temporary"}
 https://cdn-live.mundogo.cl/a3cine1c/a3cine1c.mpd
 
-#EXTINF:-1 group-title="CINE",AMC (PRUEBA)
+#EXTINF:-1 group-title="CINE Y SERIES",AMC (PRUEBA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KHcT9rSxXaeagj5IFASjxQ","k":"ZMDfuB3tgHQBs9FokeC4sA"},{"kty":"oct","kid":"JEFEKYZhXLKIjmb__Bfdlg","k":"wXz_Uuohr3HCB-uu96KcUQ"},{"kty":"oct","kid":"EsaW95O7X2erHWW-QtxZWw","k":"Xlng8nYZvHP7q9XZo0YQ3w"}],"type":"temporary"}
 https://cdn-live.mundogo.cl/amc/amc.mpd
 
-#EXTINF:-1 group-title="CINE",AZ CINEMA (PRUEBA)
+#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA (PRUEBA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wyHAOt0JXRCC7G9T2o-JCg","k":"IaL4lYt2g-Q3ur0FeR_z_Q"},{"kty":"oct","kid":"cuDi9KlzVo-4kI2nUZJ9zw","k":"mi3VEW7XpvawepdKcQDyeg"},{"kty":"oct","kid":"PIJ5ND7NVWm4W3uFsgXqOw","k":"B3f0VeYwTvhAXy0K3KvI6Q"}],"type":"temporary"}
 https://cdn-live.mundogo.cl/azcinema/azcinema.mpd
 
-#EXTINF:-1 group-title="CINE",CINE PREMIUM (PRUEBA)
+#EXTINF:-1 group-title="CINE Y SERIES",CINE PREMIUM (PRUEBA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PENerzq3W5m4nHXF8VvMuw","k":"V9NxklIXU88Kqd11JgIpEw"},{"kty":"oct","kid":"itU8KE5FXzOmiCvTfxqs1w","k":"1C8aENiWDJTt3t8n1vSxRQ"},{"kty":"oct","kid":"Sn5YWOLGUK29piUF4oM8wg","k":"hgCnAt4LAuyKNpO3nCqMhA"}],"type":"temporary"}
 https://cdn-live.mundogo.cl/cinepremium/cinepremium.mpd
 
-#EXTINF:-1 group-title="CINE",EUROPA EUROPA (PRUEBA)
+#EXTINF:-1 group-title="CINE Y SERIES",EUROPA EUROPA (PRUEBA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ees1FagSVWCyyi5OYRYffg","k":"ykF6yDkTVuA2SVys414UuA"},{"kty":"oct","kid":"q9r67XYpVzSpCpsqI6disw","k":"zIwWCV_iyKfEsn0eTKduZg"},{"kty":"oct","kid":"AfoGRsjLWvaSfTdZUzt8eQ","k":"YVqAac7x0J-SQ_y4q99w8Q"}],"type":"temporary"}
 https://cdn-live.mundogo.cl/europa/europa.mpd
@@ -560,7 +560,7 @@ https://cdn-live.mundogo.cl/europa/europa.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gSSxAfShUUuTN35h19v6Eg","k":"ZWLBohrTjQZ7oQ5EnTV_5w"},{"kty":"oct","kid":"HOO-TsuvUj-M_SIGnLhQZw","k":"Cl7zHkfAWd82qnO5ANGBmg"},{"kty":"oct","kid":"Zfsc0WteUue_qPpE03tjzQ","k":"B77ghf_xVhniAEmt9GcxIQ"}],"type":"temporary"}
 https://cdn-live.mundogo.cl/tcm/tcm.mpd
 
-#EXTINF:-1 group-title="CINE",PARAMOUNT (PRUEBA)
+#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT (PRUEBA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JplkkYjlX0GoRiyRseu_pw","k":"cDkN-a6yWAa9tnR3jN-fVA"},{"kty":"oct","kid":"ID-Rdx2KUriHsRC90sMJSQ","k":"mG5rEj9KF0RmbubQaKKPLw"},{"kty":"oct","kid":"lGSO-ISZXc-1r-H8Eika5A","k":"pATR9JfxWeTrOuUsETf12Q"}],"type":"temporary"}
 https://cdn-live.mundogo.cl/paramount/paramount.mpd

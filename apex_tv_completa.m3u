@@ -485,45 +485,9 @@ http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
 #EXTINF:-1 group-title="24/7",TOM Y JERRY
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
 
-
-
-
-#EXTINF:-1 group-title="HBO",HBO HD (PRUEBA)
-http://181.189.244.253:8000/play/a018/index.m3u8
-
-#EXTINF:-1 group-title="HBO",HBO2 HD (PRUEBA)
-http://181.189.244.253:8000/play/a019/index.m3u8
-
-#EXTINF:-1 group-title="HBO",HBO Plus HD (PRUEBA)
-http://181.189.244.253:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 group-title="HBO",HBO Family HD (PRUEBA)
-http://181.189.244.253:8000/play/a01b/index.m3u8
-
-#EXTINF:-1 group-title="HBO",HBO XTREME (PRUEBA)
-http://181.189.244.253:8000/play/a01c/index.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT (PRUEBA)
-http://179.51.136.19:8000/play/a1am/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",Fox Sports (PRUEBA)
-http://181.78.106.127:9000/play/ca032/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",DirectTV Sports (PRUEBA)
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",DirectTV Sports 2 (PRUEBA)
-(URL faltante en tu original, la dejo en blanco o puedes agregar una después)
-
-#EXTINF:-1 group-title="DEPORTES",LIGA DE CAMPEONES (PRUEBA)
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203795
-
-#EXTINF:-1 group-title="DEPORTES",EUROSPORT HD (PRUEBA)
-http://87.120.179.187:8000/play/a02c
-
-#EXTINF:-1 group-title="DEPORTES",Max Sport 1 HD (PRUEBA)
+#EXTINF:-1 group-title="DEPORTES",Max Sport 1 HD
 http://87.120.179.187:8000/play/a00k
 
-#EXTINF:-1 group-title="DEPORTES",Redbull TV (PRUEBA)
+#EXTINF:-1 group-title="DEPORTES",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 

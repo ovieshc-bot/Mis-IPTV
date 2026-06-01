@@ -60,18 +60,26 @@ http://138.204.12.14:40000/play/a0r3/index.m3u8
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/121088.ts
 
 # ============== DEPORTES ==============
+
+# ============== CLARO SPORTS ==============
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS 1
 http://138.204.12.14:40000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",CLARO SPORTS 2
 http://138.204.12.14:40000/play/a0l1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",DEPORTES 13
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
+
+# ============== DS SPORTS ==============
 #EXTINF:-1 group-title="DEPORTES",DS SPORTS
 http://138.204.12.14:40000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",DS SPORTS 2
 http://138.204.12.14:40000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",DS SPORTS+ HD
 http://138.204.12.14:40000/play/a0l7/index.m3u8
+
+# ============== ESPN ==============
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://138.204.12.14:40000/play/a0qt/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://velive.lat:8080/Sarita/Sarita/152303
 #EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
 http://138.204.12.14:40000/play/a0mc/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
@@ -84,10 +92,32 @@ http://138.204.12.14:40000/play/a0lx/index.m3u8
 http://138.204.12.14:40000/play/a0lr/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
 http://138.204.12.14:40000/play/a0mq/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://138.204.12.14:40000/play/a0qt/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
 http://138.204.12.14:40000/play/a0mi/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM
+http://velive.lat:8080/Sarita/Sarita/152306
+
+# ============== FOX SPORTS ==============
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+http://velive.lat:8080/Sarita/Sarita/152058
+#EXTINF:-1 group-title="DEPORTES",FOX SPORT CHILE
+http://velive.lat:8080/Sarita/Sarita/152122
+#EXTINF:-1 group-title="DEPORTES",FS PREMIUM
+http://velive.lat:8080/Sarita/Sarita/372016
+
+# ============== TNT SPORTS ==============
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
+http://138.204.12.14:40000/play/a0qu/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT PREMIUM FHD 3
+http://velive.lat:8080/Sarita/Sarita/1231
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARG
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM OP3
+http://201.230.121.171:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUN HD
+http://138.204.12.14:40000/play/a0mb/index.m3u8
+
+# ============== OTROS DEPORTES ==============
 #EXTINF:-1 group-title="DEPORTES",FIFA+
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
 #EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
@@ -100,20 +130,17 @@ http://138.204.12.14:40000/play/a0r9/index.m3u8
 http://45.239.31.254:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",TENNIS CHANNEL
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347526.ts
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
-http://138.204.12.14:40000/play/a0qu/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARG
-http://138.59.227.20:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM OP2
-http://179.63.6.12:9000/play/a06w
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM OP3
-http://201.230.121.171:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUN HD
-http://138.204.12.14:40000/play/a0mb/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",UFC
 http://38.210.3.64:8090/play/A01E/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",WWE
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2344.ts
+
+# ============== EVENTOS BOXEO UFC ==============
+#EXTINF:-1 group-title="DEPORTES",EVENTOS BOXEO
+http://velive.lat:8080/Sarita/Sarita/321178
+#EXTINF:-1 group-title="DEPORTES",USA UFC Channel
+http://velive.lat:8080/Sarita/Sarita/353413
+
 
 # ============== CINE Y SERIES ==============
 #EXTINF:-1 group-title="CINE Y SERIES",+CINE
@@ -230,18 +257,65 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 
 # ============== HBO ==============
-#EXTINF:-1 group-title="HBO",HBO FAMILY HD
-http://138.204.12.14:40000/play/a0mj/index.m3u8
+# ============== HBO ==============
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SD
+http://velive.lat:8080/Sarita/Sarita/187176
+
 #EXTINF:-1 group-title="HBO",HBO HD
 http://138.204.12.14:40000/play/a0m0/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO MUNDI
-http://138.204.12.14:40000/play/a0pz/index.m3u8
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 HD
+http://velive.lat:8080/Sarita/Sarita/187177
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 SD
+http://velive.lat:8080/Sarita/Sarita/187164
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS HD
+http://velive.lat:8080/Sarita/Sarita/187165
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS SD
+http://velive.lat:8080/Sarita/Sarita/187170
+
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://138.204.12.14:40000/play/a0q7/index.m3u8
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY HD
+http://velive.lat:8080/Sarita/Sarita/187171
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY SD
+http://velive.lat:8080/Sarita/Sarita/187173
+
+#EXTINF:-1 group-title="HBO",HBO FAMILY HD
+http://138.204.12.14:40000/play/a0mj/index.m3u8
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP HD
+http://velive.lat:8080/Sarita/Sarita/187174
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP SD
+http://velive.lat:8080/Sarita/Sarita/187179
+
 #EXTINF:-1 group-title="HBO",HBO POP HD
 http://138.204.12.14:40000/play/a0md/index.m3u8
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE
+http://velive.lat:8080/Sarita/Sarita/187180
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE SD
+http://velive.lat:8080/Sarita/Sarita/187167
+
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://138.204.12.14:40000/play/a0ls/index.m3u8
+
+#EXTINF:-1 group-title="HBO",HBO MUNDI
+http://138.204.12.14:40000/play/a0pz/index.m3u8
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME FHD
+http://velive.lat:8080/Sarita/Sarita/187168
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME MX
+http://velive.lat:8080/Sarita/Sarita/280426
+
 #EXTINF:-1 group-title="HBO",HBO XTREME HD
 http://138.204.12.14:40000/play/a0mk/index.m3u8
 
@@ -445,95 +519,8 @@ http://138.204.12.14:40000/play/a0pc/index.m3u8
 #EXTINF:-1 group-title="EMISORA",USMP
 http://138.204.12.14:40000/play/13/index.m3u8
 
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SD
-http://velive.lat:8080/Sarita/Sarita/187176
 
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 HD
-http://velive.lat:8080/Sarita/Sarita/187177
 
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 SD
-http://velive.lat:8080/Sarita/Sarita/187164
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS HD
-http://velive.lat:8080/Sarita/Sarita/187165
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS SD
-http://velive.lat:8080/Sarita/Sarita/187170
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY HD
-http://velive.lat:8080/Sarita/Sarita/187171
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY SD
-http://velive.lat:8080/Sarita/Sarita/187173
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP HD
-http://velive.lat:8080/Sarita/Sarita/187174
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP SD
-http://velive.lat:8080/Sarita/Sarita/187179
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE
-http://velive.lat:8080/Sarita/Sarita/187180
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE SD
-http://velive.lat:8080/Sarita/Sarita/187167
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME FHD
-http://velive.lat:8080/Sarita/Sarita/187168
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME MX
-http://velive.lat:8080/Sarita/Sarita/280426
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - TNT PREMIUM FHD 1
-http://velive.lat:8080/Sarita/Sarita/1229
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - TNT PREMIUM FHD 2
-http://velive.lat:8080/Sarita/Sarita/1230
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - TNT PREMIUM FHD 3
-http://velive.lat:8080/Sarita/Sarita/1231
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - FOX SPORTS 2
-http://velive.lat:8080/Sarita/Sarita/152057
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - FOX SPORTS 3
-http://velive.lat:8080/Sarita/Sarita/152058
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - FOX SPORT CHILE
-http://velive.lat:8080/Sarita/Sarita/152122
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - DSPORT
-http://velive.lat:8080/Sarita/Sarita/154958
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - ESPN
-http://velive.lat:8080/Sarita/Sarita/152303
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - ESPN 2
-http://velive.lat:8080/Sarita/Sarita/152304
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - ESPN 3
-http://velive.lat:8080/Sarita/Sarita/152305
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - ESPN PREMIUM
-http://velive.lat:8080/Sarita/Sarita/152306
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - EVENTOS BOXEO
-http://velive.lat:8080/Sarita/Sarita/321178
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - USA UFC Channel
-http://velive.lat:8080/Sarita/Sarita/353413
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - Eventos UFC Boxeo
-http://velive.lat:8080/Sarita/Sarita/372016
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - FOX UFC EVENTOS
-http://velive.lat:8080/Sarita/Sarita/372017
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - ESPN UFC EVENTOS
-http://velive.lat:8080/Sarita/Sarita/372015
-
-#EXTINF:-1 group-title="DEPORTES",🔵 PRUEBA - UFC NETWORK
-http://velive.lat:8080/Sarita/Sarita/372018
 
 
 

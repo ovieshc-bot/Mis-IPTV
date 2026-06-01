@@ -4,6 +4,14 @@
 # ============================================================
 
 # ============== 🏠 NACIONALES ==============
+#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD
+http://138.204.12.14:40000/play/a0m9/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD
+http://138.204.12.14:40000/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD
+http://138.204.12.14:40000/play/a0lq/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 AMERICA TV HD
 http://138.204.12.14:40000/play/a0kh/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 ATV
@@ -12,14 +20,8 @@ http://138.204.12.14:40000/play/a0pb/index.m3u8
 http://138.204.12.14:40000/play/a0e6/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 ATV FHD
 http://138.204.12.14:40000/play/a0qd/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD
-http://138.204.12.14:40000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL TUVES
 http://138.204.12.14:40000/play/a0qv/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD
-http://138.204.12.14:40000/play/a0m9/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE
 http://138.204.12.14:40000/play/a0pn/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE
@@ -30,8 +32,6 @@ http://138.204.12.14:40000/play/a0ja/index.m3u8
 http://138.204.12.14:40000/play/a0qx/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 LATINA HD
 http://138.204.12.14:40000/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD
-http://138.204.12.14:40000/play/a0mf/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 PANAMERICANA
 http://138.204.12.14:40000/play/a0pa/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 REC TV
@@ -348,6 +348,107 @@ http://138.204.12.14:40000/play/a0ra/index.m3u8
 http://138.204.12.14:40000/play/a0o5/index.m3u8
 
 # ============== 🎉 ENTRETENIMIENTO ==============
-#EXTINF:-1 group-title="ENTRETENIMIENTO",🎉 ADULT SWIM
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CLIC
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgAgXbZw_AwJmxCJUVsayq9/m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://38.7.195.43:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://38.7.195.43:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUN CHANNEL
+http://190.93.229.30:8000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E! Entertainment TV
+http://138.204.12.14:40000/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TLC
+http://138.204.12.14:40000/play/a0ot/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Lifetime
+http://138.204.12.14:40000/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central
+http://138.204.12.14:40000/play/a0lu/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Food Network
+http://138.204.12.14:40000/play/a0qy/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",El Gourmet HD
+http://138.204.12.14:40000/play/a0lv/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MTV HD
+http://138.204.12.14:40000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
+http://138.204.12.14:40000/play/a0ky/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Adult Swim
 http://138.204.12.14:40000/play/a0n4/index.m3u8
-#EXTINF
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Sun Channel HD
+http://138.204.12.14:40000/play/a0po/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
+http://138.204.12.14:40000/play/a0ql/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
+http://138.204.12.14:40000/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Top Latino HD
+http://138.204.12.14:40000/play/a0pe/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FMH Family
+http://138.204.12.14:40000/play/a0qh/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FMH Movies
+http://138.204.12.14:40000/play/a0qg/index.m3u8
+
+
+# ============== EMISORA ==============
+
+#EXTINF:-1 group-title="EMISORA",RPP
+http://138.204.12.14:40000/play/a0pc/index.m3u8
+#EXTINF:-1 group-title="EMISORA",RADIO BETHEL
+http://138.204.12.14:40000/play/a0om/index.m3u8
+#EXTINF:-1 group-title="EMISORA",BETHEL TV
+http://138.204.12.14:40000/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="EMISORA",Cristovisión
+http://138.204.12.14:40000/play/a0rp/index.m3u8
+#EXTINF:-1 group-title="EMISORA",Nuevo Tiempo
+http://138.204.12.14:40000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="EMISORA",Mi Folklore
+http://138.204.12.14:40000/play/a0ob/index.m3u8
+#EXTINF:-1 group-title="EMISORA",La Karibena
+http://138.204.12.14:40000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="EMISORA",Exitosa TV
+http://138.204.12.14:40000/play/a0p7/index.m3u8
+#EXTINF:-1 group-title="EMISORA",IPE
+http://138.204.12.14:40000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="EMISORA",USMP
+http://138.204.12.14:40000/play/13/index.m3u8
+#EXTINF:-1 group-title="EMISORA",DHE HD
+http://138.204.12.14:40000/play/a0oc/index.m3u8
+#EXTINF:-1 group-title="EMISORA",PBO
+http://138.204.12.14:40000/play/a0jq/index.m3u8
+#EXTINF:-1 group-title="TODOS",CCTV-CGTN
+http://138.204.12.14:40000/play/a0r5/index.m3u8
+#EXTINF:-1 group-title="TODOS",DW Español
+http://138.204.12.14:40000/play/a0pk/index.m3u8
+#EXTINF:-1 group-title="TODOS",Clover
+http://138.204.12.14:40000/play/a0r2/index.m3u8
+#EXTINF:-1 group-title="TODOS",SkyTV HD
+http://138.204.12.14:40000/play/skytvhd/index.m3u8
+#EXTINF:-1 group-title="TODOS",L1 MAX
+http://138.204.12.14:40000/play/a0qr/index.m3u8
+#EXTINF:-1 group-title="TODOS",Telemundo
+http://138.204.12.14:40000/play/a0ov/index.m3u8
+#EXTINF:-1 group-title="TODOS",Las Estrellas HD
+http://138.204.12.14:40000/play/a0qs/index.m3u8
+
+# ============== MÚSICA ==============
+
+#EXTINF:-1 group-title="MÚSICA",CUMBIA TV
+http://181.79.86.130:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="MÚSICA",RITMOS INOLVIDABLES
+http://186.33.3.130:5000/play/a0jp/index.m3u8
+#EXTINF:-1 group-title="MÚSICA",STINGRAY CONCERTS
+http://190.93.229.30:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="MÚSICA",TV ROCK
+http://186.33.3.130:5000/play/a0jq/index.m3u8
+#EXTINF:-1 group-title="MÚSICA",VIA X 2
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 group-title="MÚSICA",Nick Music
+http://138.204.12.14:40000/play/a0p4/index.m3u8
+#EXTINF:-1 group-title="MÚSICA",Stingray Concerts HD
+http://138.204.12.14:40000/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="MÚSICA",Trace Latina HD
+http://138.204.12.14:40000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="MÚSICA",Via X Esports
+http://138.204.12.14:40000/play/a0r6/index.m3u8
+
+
+

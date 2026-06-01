@@ -1,527 +1,383 @@
 #EXTM3U
 # ============================================================
-# APEX TV - Lista Oficial (ordenada alfabéticamente)
+# APEX TV - Lista Oficial
 # ============================================================
 
-# ============== NACIONALES ==============
-#EXTINF:-1 group-title="NACIONALES",AMERICA TV HD
+# ============== 🏠 NACIONALES ==============
+#EXTINF:-1 group-title="🏠 NACIONALES",AMERICA TV HD
 http://138.204.12.14:40000/play/a0kh/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ATV
+#EXTINF:-1 group-title="🏠 NACIONALES",ATV
 http://138.204.12.14:40000/play/a0pb/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ATV +
+#EXTINF:-1 group-title="🏠 NACIONALES",ATV +
 http://138.204.12.14:40000/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ATV FHD
+#EXTINF:-1 group-title="🏠 NACIONALES",ATV FHD
 http://138.204.12.14:40000/play/a0qd/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CANAL 13 HD
+#EXTINF:-1 group-title="🏠 NACIONALES",CANAL 13 HD
 http://138.204.12.14:40000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CANAL 24 HORAS
+#EXTINF:-1 group-title="🏠 NACIONALES",CANAL 24 HORAS
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 group-title="NACIONALES",CANAL TUVES
+#EXTINF:-1 group-title="🏠 NACIONALES",CANAL TUVES
 http://138.204.12.14:40000/play/a0qv/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CHV HD
+#EXTINF:-1 group-title="🏠 NACIONALES",CHV HD
 http://138.204.12.14:40000/play/a0m9/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CNN CHILE
+#EXTINF:-1 group-title="🏠 NACIONALES",CNN CHILE
 http://138.204.12.14:40000/play/a0pn/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CNN CHILE
+#EXTINF:-1 group-title="🏠 NACIONALES",CNN CHILE
 http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/27507.ts
-#EXTINF:-1 group-title="NACIONALES",GLOBAL
+#EXTINF:-1 group-title="🏠 NACIONALES",GLOBAL
 http://138.204.12.14:40000/play/a0ja/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",LA RED
+#EXTINF:-1 group-title="🏠 NACIONALES",LA RED
 http://138.204.12.14:40000/play/a0qx/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",LATINA HD
+#EXTINF:-1 group-title="🏠 NACIONALES",LATINA HD
 http://138.204.12.14:40000/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",MEGA HD
+#EXTINF:-1 group-title="🏠 NACIONALES",MEGA HD
 http://138.204.12.14:40000/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",PANAMERICANA
+#EXTINF:-1 group-title="🏠 NACIONALES",PANAMERICANA
 http://138.204.12.14:40000/play/a0pa/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",REC TV
+#EXTINF:-1 group-title="🏠 NACIONALES",REC TV
 http://138.204.12.14:40000/play/a0qw/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",SKYTV HD
+#EXTINF:-1 group-title="🏠 NACIONALES",SKYTV HD
 http://138.204.12.14:40000/play/skytvhd/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV DIPUTADOS
+#EXTINF:-1 group-title="🏠 NACIONALES",TV DIPUTADOS
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV PERU HD
+#EXTINF:-1 group-title="🏠 NACIONALES",TV PERU HD
 http://138.204.12.14:40000/play/7/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV SENADO
+#EXTINF:-1 group-title="🏠 NACIONALES",TV SENADO
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES",TVN HD
+#EXTINF:-1 group-title="🏠 NACIONALES",TVN HD
 http://138.204.12.14:40000/play/a0m8/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",UCV TV
+#EXTINF:-1 group-title="🏠 NACIONALES",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",UCV TV 2
+#EXTINF:-1 group-title="🏠 NACIONALES",UCV TV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",VIVA TV
+#EXTINF:-1 group-title="🏠 NACIONALES",VIVA TV
 http://138.204.12.14:40000/play/a0ex/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",WILLAX
+#EXTINF:-1 group-title="🏠 NACIONALES",WILLAX
 http://138.204.12.14:40000/play/3/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ZONA LATINA
+#EXTINF:-1 group-title="🏠 NACIONALES",ZONA LATINA
 http://138.204.12.14:40000/play/a0r3/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",ZONA LATINA
+#EXTINF:-1 group-title="🏠 NACIONALES",ZONA LATINA
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/121088.ts
 
-# ============== DEPORTES ==============
+# ============== ⚽ DEPORTES ==============
 
 # ============== CLARO SPORTS ==============
-#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS 1
+#EXTINF:-1 group-title="⚽ DEPORTES",CLARO SPORTS 1
 http://138.204.12.14:40000/play/a0l2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS 2
+#EXTINF:-1 group-title="⚽ DEPORTES",CLARO SPORTS 2
 http://138.204.12.14:40000/play/a0l1/index.m3u8
 
 # ============== DS SPORTS ==============
-#EXTINF:-1 group-title="DEPORTES",DS SPORTS
+#EXTINF:-1 group-title="⚽ DEPORTES",DS SPORTS
 http://138.204.12.14:40000/play/a0at/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",DS SPORTS 2
+#EXTINF:-1 group-title="⚽ DEPORTES",DS SPORTS 2
 http://138.204.12.14:40000/play/a0l5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",DS SPORTS+ HD
+#EXTINF:-1 group-title="⚽ DEPORTES",DS SPORTS+ HD
 http://138.204.12.14:40000/play/a0l7/index.m3u8
 
 # ============== ESPN ==============
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN HD
 http://138.204.12.14:40000/play/a0qt/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN
 http://velive.lat:8080/Sarita/Sarita/152303
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 2 HD
 http://138.204.12.14:40000/play/a0mc/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 3 HD
 http://138.204.12.14:40000/play/a0m3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 4 HD
 http://138.204.12.14:40000/play/a0mx/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 5 HD
 http://138.204.12.14:40000/play/a0lx/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 6 HD
 http://138.204.12.14:40000/play/a0lr/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN 7 HD
 http://138.204.12.14:40000/play/a0mq/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN PREMIUM HD
 http://138.204.12.14:40000/play/a0mi/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM
+#EXTINF:-1 group-title="⚽ DEPORTES",ESPN PREMIUM
 http://velive.lat:8080/Sarita/Sarita/152306
 
 # ============== FOX SPORTS ==============
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+#EXTINF:-1 group-title="⚽ DEPORTES",FOX SPORTS 3
 http://velive.lat:8080/Sarita/Sarita/152058
-#EXTINF:-1 group-title="DEPORTES",FOX SPORT CHILE
+#EXTINF:-1 group-title="⚽ DEPORTES",FOX SPORT CHILE
 http://velive.lat:8080/Sarita/Sarita/152122
-#EXTINF:-1 group-title="DEPORTES",FS PREMIUM
+#EXTINF:-1 group-title="⚽ DEPORTES",FS PREMIUM
 http://velive.lat:8080/Sarita/Sarita/372016
 
 # ============== TNT SPORTS ==============
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
+#EXTINF:-1 group-title="⚽ DEPORTES",TNT SPORTS
 http://138.204.12.14:40000/play/a0qu/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT PREMIUM FHD 3
+#EXTINF:-1 group-title="⚽ DEPORTES",TNT PREMIUM FHD 3
 http://velive.lat:8080/Sarita/Sarita/1231
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARG
+#EXTINF:-1 group-title="⚽ DEPORTES",TNT SPORTS PREMIUM ARG
 http://138.59.227.20:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM OP3
+#EXTINF:-1 group-title="⚽ DEPORTES",TNT SPORTS PREMIUM OP3
 http://201.230.121.171:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUN HD
+#EXTINF:-1 group-title="⚽ DEPORTES",TNT SPORTS PREMIUN HD
 http://138.204.12.14:40000/play/a0mb/index.m3u8
 
 # ============== OTROS DEPORTES ==============
-#EXTINF:-1 group-title="DEPORTES",FIFA+
+#EXTINF:-1 group-title="⚽ DEPORTES",FIFA+
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
-#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
+#EXTINF:-1 group-title="⚽ DEPORTES",GOLF CHANNEL
 http://138.204.12.14:40000/play/a0j3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",L1 MAX
+#EXTINF:-1 group-title="⚽ DEPORTES",L1 MAX
 http://138.204.12.14:40000/play/a0qr/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",MOVISTAR DEPORTES
+#EXTINF:-1 group-title="⚽ DEPORTES",MOVISTAR DEPORTES
 http://138.204.12.14:40000/play/a0r9/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TELETRAK
+#EXTINF:-1 group-title="⚽ DEPORTES",TELETRAK
 http://45.239.31.254:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TENNIS CHANNEL
+#EXTINF:-1 group-title="⚽ DEPORTES",TENNIS CHANNEL
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347526.ts
-#EXTINF:-1 group-title="DEPORTES",UFC
+#EXTINF:-1 group-title="⚽ DEPORTES",UFC
 http://38.210.3.64:8090/play/A01E/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",WWE
+#EXTINF:-1 group-title="⚽ DEPORTES",WWE
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2344.ts
 
 # ============== EVENTOS BOXEO UFC ==============
-#EXTINF:-1 group-title="DEPORTES",EVENTOS BOXEO
+#EXTINF:-1 group-title="⚽ DEPORTES",EVENTOS BOXEO
 http://velive.lat:8080/Sarita/Sarita/321178
-#EXTINF:-1 group-title="DEPORTES",USA UFC Channel
+#EXTINF:-1 group-title="⚽ DEPORTES",USA UFC Channel
 http://velive.lat:8080/Sarita/Sarita/353413
 
-
-# ============== CINE Y SERIES ==============
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE
+# ============== 🎬 CINE Y SERIES ==============
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",+CINE
 http://179.63.6.12:9000/play/a057
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE FAMILIAR
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",+CINE FAMILIAR
 http://179.63.6.12:9000/play/a06y
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE TERROR
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",+CINE TERROR
 http://179.63.6.12:9000/play/a00w
-#EXTINF:-1 group-title="CINE Y SERIES",+CINE WAR
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",+CINE WAR
 http://179.63.6.12:9000/play/a07n
-#EXTINF:-1 group-title="CINE Y SERIES",A&E HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",A&E HD
 http://138.204.12.14:40000/play/a0lt/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AMC HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",AMC HD
 http://138.204.12.14:40000/play/a0ly/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AMC THRILLER
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",AMC THRILLER
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AMC THRILLER
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",ATRES SERIES
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",ATRES SERIES
 http://138.204.12.14:40000/play/a0pf/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AXN HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",AXN HD
 http://138.204.12.14:40000/play/a0mt/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINE PREMIUM
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",CINE PREMIUM
 http://191.97.49.82:8001/play/a00u/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",CINECANAL HD
 http://138.204.12.14:40000/play/a0mp/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",CINEMAX
 http://138.204.12.14:40000/play/a0oo/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",CLOVER
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",CLOVER
 http://138.204.12.14:40000/play/a0r2/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",DE PELÍCULA
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",DE PELÍCULA
 http://138.204.12.14:40000/play/a0pm/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FX HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",FX HD
 http://138.204.12.14:40000/play/a0my/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",GOLDEN EDGE
 http://138.204.12.14:40000/play/a0q6/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",GOLDEN HD
 http://138.204.12.14:40000/play/a0o7/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PLUS
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",GOLDEN PLUS
 http://38.7.195.43:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PREMIERE 2
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",GOLDEN PREMIERE 2
 http://168.228.44.241:9997/play/a06n/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",KANAL D DRAMA
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",KANAL D DRAMA
 http://138.204.12.14:40000/play/a0im/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",MX PRIME
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",MX PRIME
 http://45.4.3.177:9999/play/a0gn
-#EXTINF:-1 group-title="CINE Y SERIES",SONY HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",SONY HD
 http://138.204.12.14:40000/play/a0iy/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY MOVIES
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",SONY MOVIES
 http://138.204.12.14:40000/play/a0qz/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SPACE HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",SPACE HD
 http://138.204.12.14:40000/play/a0mv/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",STAR CHANNEL HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",STAR CHANNEL HD
 http://138.204.12.14:40000/play/a0mz/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",STUDIO UNIVERSAL HD
 http://138.204.12.14:40000/play/a0qm/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TCM
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",TCM
 http://138.204.12.14:40000/play/a0r7/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TLNOVELAS
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",TLNOVELAS
 http://138.204.12.14:40000/play/a0pl/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",TNT HD
 http://138.204.12.14:40000/play/a0mo/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT NOVELAS HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",TNT NOVELAS HD
 http://138.204.12.14:40000/play/a0ox/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT SERIES HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",TNT SERIES HD
 http://138.204.12.14:40000/play/a0lz/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",WARNER TV HD
+#EXTINF:-1 group-title="🎬 CINE Y SERIES",WARNER TV HD
 http://138.204.12.14:40000/play/a0o6/index.m3u8
 
-
-# ============== CINE CLASICO ==============
-#EXTINF:-1 group-title="CINE CLASICO",70S CINEMA
+# ============== 🕰️ CINE CLASICO ==============
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",70S CINEMA
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",80S REWIND
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",80S REWIND
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",90S THROWBACK
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",90S THROWBACK
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",ARTFLIX MOVIE CLASSICS
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",ARTFLIX MOVIE CLASSICS
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",CINE CLASICO PLUTO TV
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CINE CLASICO PLUTO TV
 https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",CINE CLASICO XTREMA
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CINE CLASICO XTREMA
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",CINE CLASSIC
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CINE CLASSIC
 http://179.63.6.12:9000/play/a05t
-#EXTINF:-1 group-title="CINE CLASICO",CINE FAMILIAR
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CINE FAMILIAR
 http://138.204.12.14:40000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",CINE HISPANO
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CINE HISPANO
 http://138.204.12.14:40000/play/a0nj/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",CINE WESTERN ESPAÑA
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CINE WESTERN ESPAÑA
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",CLASSIC CINEMA P
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CLASSIC CINEMA P
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",CLASSIC+
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",CLASSIC+
 http://179.63.6.12:9000/play/a05u
-#EXTINF:-1 group-title="CINE CLASICO",FILMRISE WESTERNS
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",FILMRISE WESTERNS
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",GRJNGO WESTERN MOVIES
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",GRJNGO WESTERN MOVIES
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",MX CLASSIC
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",MX CLASSIC
 http://45.4.3.177:9999/play/a0gl
-#EXTINF:-1 group-title="CINE CLASICO",PASIONES HD
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",PASIONES HD
 http://138.204.12.14:40000/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",PLUTO TV WESTERNS
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",PLUTO TV WESTERNS
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",RCN NOVELAS HD
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",RCN NOVELAS HD
 http://138.204.12.14:40000/play/a0pg/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",RETRO CINE
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",RETRO CINE
 http://45.239.31.254:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",THE FILM DETECTIVE
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",THE FILM DETECTIVE
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",XTREMA ACCION
+#EXTINF:-1 group-title="🕰️ CINE CLASICO",XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-
-# ============== HBO ==============
-# ============== HBO ==============
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SD
+# ============== 🎞️ HBO ==============
+#EXTINF:-1 group-title="🎞️ HBO",HBO SD
 http://velive.lat:8080/Sarita/Sarita/187176
-
-#EXTINF:-1 group-title="HBO",HBO HD
+#EXTINF:-1 group-title="🎞️ HBO",HBO HD
 http://138.204.12.14:40000/play/a0m0/index.m3u8
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 HD
+#EXTINF:-1 group-title="🎞️ HBO",HBO 2 HD
 http://velive.lat:8080/Sarita/Sarita/187177
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 SD
-http://velive.lat:8080/Sarita/Sarita/187164
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS HD
+#EXTINF:-1 group-title="🎞️ HBO",HBO PLUS HD
 http://velive.lat:8080/Sarita/Sarita/187165
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS SD
-http://velive.lat:8080/Sarita/Sarita/187170
-
-#EXTINF:-1 group-title="HBO",HBO PLUS
+#EXTINF:-1 group-title="🎞️ HBO",HBO PLUS
 http://138.204.12.14:40000/play/a0q7/index.m3u8
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY HD
-http://velive.lat:8080/Sarita/Sarita/187171
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY SD
-http://velive.lat:8080/Sarita/Sarita/187173
-
-#EXTINF:-1 group-title="HBO",HBO FAMILY HD
+#EXTINF:-1 group-title="🎞️ HBO",HBO FAMILY HD
 http://138.204.12.14:40000/play/a0mj/index.m3u8
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP HD
+#EXTINF:-1 group-title="🎞️ HBO",HBO POP HD
 http://velive.lat:8080/Sarita/Sarita/187174
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP SD
-http://velive.lat:8080/Sarita/Sarita/187179
-
-#EXTINF:-1 group-title="HBO",HBO POP HD
+#EXTINF:-1 group-title="🎞️ HBO",HBO POP
 http://138.204.12.14:40000/play/a0md/index.m3u8
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE
-http://velive.lat:8080/Sarita/Sarita/187180
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE SD
-http://velive.lat:8080/Sarita/Sarita/187167
-
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+#EXTINF:-1 group-title="🎞️ HBO",HBO SIGNATURE
 http://138.204.12.14:40000/play/a0ls/index.m3u8
-
-#EXTINF:-1 group-title="HBO",HBO MUNDI
+#EXTINF:-1 group-title="🎞️ HBO",HBO MUNDI
 http://138.204.12.14:40000/play/a0pz/index.m3u8
-
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME FHD
+#EXTINF:-1 group-title="🎞️ HBO",HBO XTREME
 http://velive.lat:8080/Sarita/Sarita/187168
 
-#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME MX
-http://velive.lat:8080/Sarita/Sarita/280426
-
-#EXTINF:-1 group-title="HBO",HBO XTREME HD
-http://138.204.12.14:40000/play/a0mk/index.m3u8
-
-# ============== UNIVERSAL ==============
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANNEL HD
+# ============== 🌍 UNIVERSAL ==============
+#EXTINF:-1 group-title="🌍 UNIVERSAL",UNIVERSAL CHANNEL HD
 http://138.204.12.14:40000/play/a0lw/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA
+#EXTINF:-1 group-title="🌍 UNIVERSAL",UNIVERSAL CINEMA
 http://8.243.126.131:8000/play/a0de/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY HD
+#EXTINF:-1 group-title="🌍 UNIVERSAL",UNIVERSAL COMEDY HD
 http://138.204.12.14:40000/play/a0l8/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL OP2
+#EXTINF:-1 group-title="🌍 UNIVERSAL",UNIVERSAL OP2
 http://45.181.122.46:8090/play/a01h
-#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIER
+#EXTINF:-1 group-title="🌍 UNIVERSAL",UNIVERSAL PREMIER
 http://138.204.12.14:40000/play/a0ea/index.m3u8
 
-# ============== INFANTIL ==============
-#EXTINF:-1 group-title="INFANTIL",ANIME
+# ============== 🧸 INFANTIL ==============
+#EXTINF:-1 group-title="🧸 INFANTIL",ANIME
 http://38.87.224.248:2220/play/a01z/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",BABY TV
+#EXTINF:-1 group-title="🧸 INFANTIL",BABY TV
 http://138.204.12.14:40000/play/a0on/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK HD
+#EXTINF:-1 group-title="🧸 INFANTIL",CARTOON NETWORK HD
 http://138.204.12.14:40000/play/a0o2/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS HD
+#EXTINF:-1 group-title="🧸 INFANTIL",DISCOVERY KIDS HD
 http://138.204.12.14:40000/play/a0o3/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL HD
+#EXTINF:-1 group-title="🧸 INFANTIL",DISNEY CHANNEL HD
 http://138.204.12.14:40000/play/a0g3/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",DISNEY JR.
+#EXTINF:-1 group-title="🧸 INFANTIL",DISNEY JR.
 http://138.204.12.14:40000/play/a0op/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",DRAGON BALL
+#EXTINF:-1 group-title="🧸 INFANTIL",DRAGON BALL
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23842.ts
-#EXTINF:-1 group-title="INFANTIL",DREAMWORKS HD
+#EXTINF:-1 group-title="🧸 INFANTIL",DREAMWORKS HD
 http://138.204.12.14:40000/play/a0jm/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",FMH KIDS
+#EXTINF:-1 group-title="🧸 INFANTIL",FMH KIDS
 http://138.204.12.14:40000/play/a0qf/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",FUNBOX
+#EXTINF:-1 group-title="🧸 INFANTIL",FUNBOX
 http://45.162.211.4:7979/play/a00s/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",FUTURAMA
+#EXTINF:-1 group-title="🧸 INFANTIL",FUTURAMA
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/201851.ts
-#EXTINF:-1 group-title="INFANTIL",LA PANTERA ROSA
+#EXTINF:-1 group-title="🧸 INFANTIL",LA PANTERA ROSA
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/211114.ts
-#EXTINF:-1 group-title="INFANTIL",LOS SIMPSON
+#EXTINF:-1 group-title="🧸 INFANTIL",LOS SIMPSON
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23829.ts
-#EXTINF:-1 group-title="INFANTIL",LOS SUPER CAMPEONES
+#EXTINF:-1 group-title="🧸 INFANTIL",LOS SUPER CAMPEONES
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23837.ts
-#EXTINF:-1 group-title="INFANTIL",MEMORIA TOONS
+#EXTINF:-1 group-title="🧸 INFANTIL",MEMORIA TOONS
 http://187.102.195.131:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICK JR.
+#EXTINF:-1 group-title="🧸 INFANTIL",NICK JR.
 http://138.204.12.14:40000/play/a0os/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",NICKELODEON HD
+#EXTINF:-1 group-title="🧸 INFANTIL",NICKELODEON HD
 http://138.204.12.14:40000/play/a0me/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",PLIM PLIM TV
+#EXTINF:-1 group-title="🧸 INFANTIL",PLIM PLIM TV
 http://138.204.12.14:40000/play/a0r8/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",SENPAI TV
+#EXTINF:-1 group-title="🧸 INFANTIL",SENPAI TV
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/287934.ts
-#EXTINF:-1 group-title="INFANTIL",TOONCAST
+#EXTINF:-1 group-title="🧸 INFANTIL",TOONCAST
 http://138.204.12.14:40000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",VIA X ESPORTS
+#EXTINF:-1 group-title="🧸 INFANTIL",VIA X ESPORTS
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/107107.ts
 
-# ============== 24/7 ==============
-#EXTINF:-1 group-title="24/7",31 MINUTOS
+# ============== 📺 24/7 ==============
+#EXTINF:-1 group-title="📺 24/7",31 MINUTOS
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/30223.ts
-#EXTINF:-1 group-title="24/7",BOB ESPONJA
+#EXTINF:-1 group-title="📺 24/7",BOB ESPONJA
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23815.ts
-#EXTINF:-1 group-title="24/7",CHAVO DEL 8
+#EXTINF:-1 group-title="📺 24/7",CHAVO DEL 8
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 group-title="24/7",CHESPIRITO
+#EXTINF:-1 group-title="📺 24/7",CHESPIRITO
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23818.ts
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+#EXTINF:-1 group-title="📺 24/7",EL CHAPULIN COLORADO
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23849.ts
-#EXTINF:-1 group-title="24/7",HEY ARNOLD
+#EXTINF:-1 group-title="📺 24/7",HEY ARNOLD
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23823.ts
-#EXTINF:-1 group-title="24/7",LOONEY TOONS
+#EXTINF:-1 group-title="📺 24/7",LOONEY TOONS
 http://tv.diablotv.net:8080/arqsandoval100/66afc8bc4e73/169563.ts
-#EXTINF:-1 group-title="24/7",MALCOLM
+#EXTINF:-1 group-title="📺 24/7",MALCOLM
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23900.ts
-#EXTINF:-1 group-title="24/7",MEA CULPA
+#EXTINF:-1 group-title="📺 24/7",MEA CULPA
 http://dctv.pro:2082/live/Axelben1/Axelben11/114641.ts
-#EXTINF:-1 group-title="24/7",NARUTO
+#EXTINF:-1 group-title="📺 24/7",NARUTO
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
-#EXTINF:-1 group-title="24/7",TOM Y JERRY
+#EXTINF:-1 group-title="📺 24/7",TOM Y JERRY
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
 
-# ============== CULTURA ==============
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET HD
+# ============== 📚 CULTURA ==============
+#EXTINF:-1 group-title="📚 CULTURA",ANIMAL PLANET HD
 http://138.204.12.14:40000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CCTV-CGTN
+#EXTINF:-1 group-title="📚 CULTURA",CCTV-CGTN
 http://138.204.12.14:40000/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="📚 CULTURA",DISCOVERY CHANNEL HD
 http://138.204.12.14:40000/play/a0mm/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE
+#EXTINF:-1 group-title="📚 CULTURA",DISCOVERY SCIENCE
 http://138.204.12.14:40000/play/a0r0/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER HD
+#EXTINF:-1 group-title="📚 CULTURA",DISCOVERY THEATER HD
 http://138.204.12.14:40000/play/a0m7/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
+#EXTINF:-1 group-title="📚 CULTURA",DISCOVERY TURBO
 http://138.204.12.14:40000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD HD
+#EXTINF:-1 group-title="📚 CULTURA",DISCOVERY WORLD HD
 http://138.204.12.14:40000/play/a0m1/index.m3u8
-#EXTINF:-1 group-title="CULTURA",DW ESPAÑOL
+#EXTINF:-1 group-title="📚 CULTURA",DW ESPAÑOL
 http://138.204.12.14:40000/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="CULTURA",HISTORY 2
+#EXTINF:-1 group-title="📚 CULTURA",HISTORY 2
 http://138.204.12.14:40000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="CULTURA",HISTORY CHANNEL HD
+#EXTINF:-1 group-title="📚 CULTURA",HISTORY CHANNEL HD
 http://138.204.12.14:40000/play/a0mn/index.m3u8
-#EXTINF:-1 group-title="CULTURA",HOME & HEALTH HD
+#EXTINF:-1 group-title="📚 CULTURA",HOME & HEALTH HD
 http://138.204.12.14:40000/play/a0o4/index.m3u8
-#EXTINF:-1 group-title="CULTURA",ID HD
+#EXTINF:-1 group-title="📚 CULTURA",ID HD
 http://138.204.12.14:40000/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="CULTURA",LOVE NATURE
-http://138.204.12.14:40000/play/a0ra/index.m3u8
-#EXTINF:-1 group-title="CULTURA",NAT GEO HD
-http://138.204.12.14:40000/play/a0o5/index.m3u8
-
-# ============== ENTRETENIMIENTO ==============
-#EXTINF:-1 group-title="ENTRETENIMIENTO",ADULT SWIM
-http://138.204.12.14:40000/play/a0n4/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",CLIC
-https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6njgAgXbZw_AwJmxCJUVsayq9/m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://38.7.195.43:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://138.204.12.14:40000/play/a0lu/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",CORAZON
-http://138.204.12.14:40000/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
-http://38.7.195.43:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
-http://138.204.12.14:40000/play/a0ky/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",E! ENTERTAINMENT TV
-http://138.204.12.14:40000/play/a0ou/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",EL GOURMET HD
-http://138.204.12.14:40000/play/a0lv/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FMH FAMILY
-http://138.204.12.14:40000/play/a0qh/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FMH MOVIES
-http://138.204.12.14:40000/play/a0qg/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOOD NETWORK
-http://138.204.12.14:40000/play/a0qy/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
-http://138.204.12.14:40000/play/a0ql/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",LAS ESTRELLAS HD
-http://138.204.12.14:40000/play/a0qs/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME
-http://138.204.12.14:40000/play/a0n3/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",MTV HD
-http://138.204.12.14:40000/play/a0i9/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SUN CHANNEL
-http://190.93.229.30:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SUN CHANNEL HD
-http://138.204.12.14:40000/play/a0po/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO
-http://138.204.12.14:40000/play/a0ov/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TLC
-http://138.204.12.14:40000/play/a0ot/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TOP LATINO HD
-http://138.204.12.14:40000/play/a0pe/index.m3u8
-
-# ============== MÚSICA ==============
-#EXTINF:-1 group-title="MÚSICA",CUMBIA TV
-http://181.79.86.130:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",NICK MUSIC
-http://138.204.12.14:40000/play/a0p4/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",RITMOS INOLVIDABLES
-http://186.33.3.130:5000/play/a0jp/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",STINGRAY CONCERTS
-http://190.93.229.30:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",STINGRAY CONCERTS HD
-http://138.204.12.14:40000/play/a0h2/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",TRACE LATINA HD
-http://138.204.12.14:40000/play/a0dx/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",TV ROCK
-http://186.33.3.130:5000/play/a0jq/index.m3u8
-#EXTINF:-1 group-title="MÚSICA",VIA X 2
-http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 group-title="MÚSICA",VIA X ESPORTS
-http://138.204.12.14:40000/play/a0r6/index.m3u8
-
-# ============== EMISORA ==============
-#EXTINF:-1 group-title="EMISORA",BETHEL TV
-http://138.204.12.14:40000/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="EMISORA",CRISTOVISIÓN
-http://138.204.12.14:40000/play/a0rp/index.m3u8
-#EXTINF:-1 group-title="EMISORA",DHE HD
-http://138.204.12.14:40000/play/a0oc/index.m3u8
-#EXTINF:-1 group-title="EMISORA",EXITOSA TV
-http://138.204.12.14:40000/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="EMISORA",IPE
-http://138.204.12.14:40000/play/a0e8/index.m3u8
-#EXTINF:-1 group-title="EMISORA",LA KARIBENA
-http://138.204.12.14:40000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="EMISORA",MI FOLKLORE
-http://138.204.12.14:40000/play/a0ob/index.m3u8
-#EXTINF:-1 group-title="EMISORA",NUEVO TIEMPO
-http://138.204.12.14:40000/play/a0ew/index.m3u8
-#EXTINF:-1 group-title="EMISORA",PBO
-http://138.204.12.14:40000/play/a0jq/index.m3u8
-#EXTINF:-1 group-title="EMISORA",RADIO BETHEL
-http://138.204.12.14:40000/play/a0om/index.m3u8
-#EXTINF:-1 group-title="EMISORA",RPP
-http://138.204.12.14:40000/play/a0pc/index.m3u8
-#EXTINF:-1 group-title="EMISORA",USMP
-http://138.204.12.14:40000/play/13/index.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="📚 CULTURA",LOVE NATURE

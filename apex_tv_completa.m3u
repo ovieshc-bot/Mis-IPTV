@@ -265,23 +265,44 @@ http://velive.lat:8080/Sarita/Sarita/187176
 #EXTINF:-1 group-title="HBO",HBO HD
 http://138.204.12.14:40000/play/a0m0/index.m3u8
 
-#EXTINF:-1 group-title="HBO",🔵 - HBO 2 HD
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 HD
 http://velive.lat:8080/Sarita/Sarita/187177
 
-#EXTINF:-1 group-title="HBO",🔵- HBO PLUS HD
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO 2 SD
+http://velive.lat:8080/Sarita/Sarita/187164
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS HD
 http://velive.lat:8080/Sarita/Sarita/187165
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO PLUS SD
+http://velive.lat:8080/Sarita/Sarita/187170
 
 #EXTINF:-1 group-title="HBO",HBO PLUS
 http://138.204.12.14:40000/play/a0q7/index.m3u8
 
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY HD
+http://velive.lat:8080/Sarita/Sarita/187171
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO FAMILY SD
+http://velive.lat:8080/Sarita/Sarita/187173
+
 #EXTINF:-1 group-title="HBO",HBO FAMILY HD
 http://138.204.12.14:40000/play/a0mj/index.m3u8
 
-#EXTINF:-1 group-title="HBO",🔵 - HBO POP HD
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP HD
 http://velive.lat:8080/Sarita/Sarita/187174
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO POP SD
+http://velive.lat:8080/Sarita/Sarita/187179
 
 #EXTINF:-1 group-title="HBO",HBO POP HD
 http://138.204.12.14:40000/play/a0md/index.m3u8
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE
+http://velive.lat:8080/Sarita/Sarita/187180
+
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO SIGNATURE SD
+http://velive.lat:8080/Sarita/Sarita/187167
 
 #EXTINF:-1 group-title="HBO",HBO SIGNATURE
 http://138.204.12.14:40000/play/a0ls/index.m3u8
@@ -289,9 +310,14 @@ http://138.204.12.14:40000/play/a0ls/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO MUNDI
 http://138.204.12.14:40000/play/a0pz/index.m3u8
 
-#EXTINF:-1 group-title="HBO",🔵- HBO XTREME FHD
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME FHD
 http://velive.lat:8080/Sarita/Sarita/187168
 
+#EXTINF:-1 group-title="HBO",🔵 PRUEBA - HBO XTREME MX
+http://velive.lat:8080/Sarita/Sarita/280426
+
+#EXTINF:-1 group-title="HBO",HBO XTREME HD
+http://138.204.12.14:40000/play/a0mk/index.m3u8
 
 # ============== UNIVERSAL ==============
 #EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CHANNEL HD

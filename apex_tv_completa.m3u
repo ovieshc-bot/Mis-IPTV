@@ -128,12 +128,6 @@ http://velive.lat:8080/Sarita/Sarita/321178
 http://velive.lat:8080/Sarita/Sarita/353413
 
 # ============== 🎬 CINE Y SERIES ==============
-#EXTINF:-1 group-title="CINE Y SERIES",🎬 +CINE
-http://179.63.6.12:9000/play/a057
-#EXTINF:-1 group-title="CINE Y SERIES",🎬 +CINE FAMILIAR
-http://179.63.6.12:9000/play/a06y
-#EXTINF:-1 group-title="CINE Y SERIES",🎬 +CINE TERROR
-http://179.63.6.12:9000/play/a00w
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 +CINE WAR
 http://179.63.6.12:9000/play/a07n
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 A&E HD
@@ -166,8 +160,6 @@ http://138.204.12.14:40000/play/a0o7/index.m3u8
 http://38.7.195.43:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 GOLDEN PREMIERE 2
 http://168.228.44.241:9997/play/a06n/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",🎬 KANAL D DRAMA
-http://138.204.12.14:40000/play/a0im/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 MX PRIME
 http://45.4.3.177:9999/play/a0gn
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 SONY HD
@@ -194,20 +186,8 @@ http://138.204.12.14:40000/play/a0lz/index.m3u8
 http://138.204.12.14:40000/play/a0o6/index.m3u8
 
 # ============== 🕰️ CINE CLASICO ==============
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ 70S CINEMA
-https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ 80S REWIND
-https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ 90S THROWBACK
-https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ ARTFLIX MOVIE CLASSICS
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE CLASICO PLUTO TV
-https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE CLASICO XTREMA
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE CLASSIC
-http://179.63.6.12:9000/play/a05t
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE FAMILIAR
 http://138.204.12.14:40000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE HISPANO
@@ -216,8 +196,6 @@ http://138.204.12.14:40000/play/a0nj/index.m3u8
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ CLASSIC CINEMA P
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CLASSIC+
-http://179.63.6.12:9000/play/a05u
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ FILMRISE WESTERNS
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ GRJNGO WESTERN MOVIES
@@ -226,8 +204,6 @@ https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 http://45.4.3.177:9999/play/a0gl
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ PASIONES HD
 http://138.204.12.14:40000/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ PLUTO TV WESTERNS
-https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ RCN NOVELAS HD
 http://138.204.12.14:40000/play/a0pg/index.m3u8
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ RETRO CINE

@@ -16,6 +16,10 @@ http://138.204.12.14:40000/play/a0lq/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={}
 #EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
 https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",TVN OP2
+http://server-d.normielista.stream/ANATEL_TELEVISION_NACIONAL_1007/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",TVN OP3
+http://190.93.229.30:8000/play/a0by/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 AMERICA TV HD
 http://138.204.12.14:40000/play/a0kh/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 ATV

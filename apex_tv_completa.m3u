@@ -10,8 +10,12 @@ http://138.204.12.14:40000/play/a0m9/index.m3u8
 http://138.204.12.14:40000/play/a0mf/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD
 http://138.204.12.14:40000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 group-title="NACIONALES",TVN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.mpd
 #EXTINF:-1 group-title="NACIONALES",🏠 AMERICA TV HD
 http://138.204.12.14:40000/play/a0kh/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 ATV
@@ -20,8 +24,6 @@ http://138.204.12.14:40000/play/a0pb/index.m3u8
 http://138.204.12.14:40000/play/a0e6/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 ATV FHD
 http://138.204.12.14:40000/play/a0qd/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL TUVES
-http://138.204.12.14:40000/play/a0qv/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE
 http://138.204.12.14:40000/play/a0pn/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE
@@ -128,8 +130,6 @@ http://velive.lat:8080/Sarita/Sarita/321178
 http://velive.lat:8080/Sarita/Sarita/353413
 
 # ============== 🎬 CINE Y SERIES ==============
-#EXTINF:-1 group-title="CINE Y SERIES",🎬 +CINE WAR
-http://179.63.6.12:9000/play/a07n
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 A&E HD
 http://138.204.12.14:40000/play/a0lt/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 AMC HD

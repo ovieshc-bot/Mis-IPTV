@@ -1,15 +1,22 @@
-#EXTM3U
+EXTM3U
 # ============================================================
-# APEX TV - Lista Oficial
+# APEX TV - Lista Optimizada para MundoGo 2000 (CON AUDIO)
+# URLs reemplazadas: 138.204.12.14 → cdn-live.mundogo.cl
 # ============================================================
 
 # ============== 🏠 NACIONALES ==============
 #EXTINF:-1 group-title="NACIONALES",🏠 CHV HD
 http://138.204.12.14:40000/play/a0m9/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD
-http://138.204.12.14:40000/play/a0mf/index.m3u8
+https://cdn-live.mundogo.cl/mega/mega.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c48bb0b23e0854bd896edbfad69b6c14":"f3e19ce43cc35e8b0acca23df3c5eb4a","e1137fa5ccc57245ab9fcd1c0ab26419":"f9e71bf6ca7e23b0d5ee393fcd8577f9","96e0bdc0949fcdb3fbd40ab8e05a31d1":"8b1f0abc20caafc0f0bdb2f6a2bb9ad5"}
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD
-http://138.204.12.14:40000/play/a0lq/index.m3u8
+https://cdn-live.mundogo.cl/13c/13c.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"202f287ac90f5b3fa53bd28aee32362e":"65227931eead4ceff1ac90b0dd9fdf1e","6a836bc80817576aafbb2f03ce415412":"9c389391c6b581e44587684ce97417a4","b2b7aee2bfdf55c2ad2659945cc4a555":"45d3e3aa7f135dd890a8bc4dca60a914"}
 #EXTINF:-1 group-title="NACIONALES",TVN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -27,9 +34,10 @@ http://138.204.12.14:40000/play/a0pb/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 ATV +
 http://138.204.12.14:40000/play/a0e6/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 ATV FHD
-http://138.204.12.14:40000/play/a0qd/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE
-http://138.204.12.14:40000/play/a0pn/index.m3u8
+https://cdn-live.mundogo.cl/atv/atv.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"":null}
 #EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE
 http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/27507.ts
 #EXTINF:-1 group-title="NACIONALES",🏠 GLOBAL
@@ -135,15 +143,24 @@ http://velive.lat:8080/Sarita/Sarita/353413
 
 # ============== 🎬 CINE Y SERIES ==============
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 A&E HD
-http://138.204.12.14:40000/play/a0lt/index.m3u8
+https://cdn-live.mundogo.cl/a-e/a-e.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2940fa4ec4c6502da04e7c8841d235ea":"d7ce7741d62748c85f093e05636b267b","091f2b86249c57aeb06bc0aa33bd1ac9":"d1a72ef617e5207ecc7d76ad0db667de","62983c49444f5b1aadb7ae64f67672f7":"5c6a2220e6d9c3e4ca53fd8299297ced"}
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 AMC HD
-http://138.204.12.14:40000/play/a0ly/index.m3u8
+https://cdn-live.mundogo.cl/amc/amc.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"":null}
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 AMC THRILLER
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 ATRES SERIES
 http://138.204.12.14:40000/play/a0pf/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 AXN HD
-http://138.204.12.14:40000/play/a0mt/index.m3u8
+https://cdn-live.mundogo.cl/axn/axn.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a37125a21835e11937419547a56a9b9":"761b7900b34519b4f2aeb7b8c0f2507a","fed9c56687e851338dfb13252a4cfec9":"e22b61414d5fba3ec583e26572d9a6ec","b8f8636b9b805ff492454520d0dfb056":"fb623d00f1a4282a6f3e0e3f2b160e11"}
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 CINE PREMIUM
 http://191.97.49.82:8001/play/a00u/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 CINECANAL HD
@@ -391,9 +408,7 @@ http://138.204.12.14:40000/play/a0qh/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",FMH Movies
 http://138.204.12.14:40000/play/a0qg/index.m3u8
 
-
 # ============== EMISORA ==============
-
 #EXTINF:-1 group-title="EMISORA",RPP
 http://138.204.12.14:40000/play/a0pc/index.m3u8
 #EXTINF:-1 group-title="EMISORA",RADIO BETHEL
@@ -418,23 +433,8 @@ http://138.204.12.14:40000/play/13/index.m3u8
 http://138.204.12.14:40000/play/a0oc/index.m3u8
 #EXTINF:-1 group-title="EMISORA",PBO
 http://138.204.12.14:40000/play/a0jq/index.m3u8
-#EXTINF:-1 group-title="TODOS",CCTV-CGTN
-http://138.204.12.14:40000/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="TODOS",DW Español
-http://138.204.12.14:40000/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="TODOS",Clover
-http://138.204.12.14:40000/play/a0r2/index.m3u8
-#EXTINF:-1 group-title="TODOS",SkyTV HD
-http://138.204.12.14:40000/play/skytvhd/index.m3u8
-#EXTINF:-1 group-title="TODOS",L1 MAX
-http://138.204.12.14:40000/play/a0qr/index.m3u8
-#EXTINF:-1 group-title="TODOS",Telemundo
-http://138.204.12.14:40000/play/a0ov/index.m3u8
-#EXTINF:-1 group-title="TODOS",Las Estrellas HD
-http://138.204.12.14:40000/play/a0qs/index.m3u8
 
 # ============== MÚSICA ==============
-
 #EXTINF:-1 group-title="MÚSICA",CUMBIA TV
 http://181.79.86.130:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="MÚSICA",RITMOS INOLVIDABLES
@@ -452,7 +452,4 @@ http://138.204.12.14:40000/play/a0h2/index.m3u8
 #EXTINF:-1 group-title="MÚSICA",Trace Latina HD
 http://138.204.12.14:40000/play/a0dx/index.m3u8
 #EXTINF:-1 group-title="MÚSICA",Via X Esports
-http://138.204.12.14:40000/play/a0r6/index.m3u8
-
-
-
+http://138.204.12.14:40000/pla

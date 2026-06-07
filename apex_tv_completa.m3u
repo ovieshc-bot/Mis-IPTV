@@ -1,18 +1,13 @@
 #EXTM3U
 # ============================================================
 # APEX TV - Lista Oficial + Alternativas
-# Compatible con APK APEX (FFmpeg incluido)
+# Compatible con APK APEX (LibVLC incluido)
 # ============================================================
 
 # ============== 🏠 NACIONALES ==============
+
 #EXTINF:-1 group-title="NACIONALES",🏠 CHV HD
 http://138.204.12.14:40000/play/a0m9/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (OP2)
-http://server-d.normielista.stream/CHV_CHV_NOTICIAS_1023/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (OP3)
-http://server-d.normielista.stream/ANATEL_CHILEVISION_1011/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (OP4)
-http://170.247.204.9:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,12 +17,6 @@ https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.mpd
 
 #EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD
 http://138.204.12.14:40000/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD (OP2)
-http://server-d.normielista.stream/MEGAMEDIA_MEGANOTICIAS_1022/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD (OP3)
-http://server-d.normielista.stream/ANATEL_MEGAMEDIA_1009/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD (OP4)
-http://179.1.158.52:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,12 +26,6 @@ https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.mpd
 
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD
 http://138.204.12.14:40000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (OP2)
-http://server-d.normielista.stream/C13_T13_EN_VIVO_1024/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (OP3)
-http://server-d.normielista.stream/ANATEL_CANAL_13_1013/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (OP4)
-http://179.1.158.52:8000/play/a0e2/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,13 +33,9 @@ http://179.1.158.52:8000/play/a0e2/index.m3u8
 #EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
 https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.mpd
 
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN
+#EXTINF:-1 group-title="NACIONALES",🏠 TVN HD
 http://138.204.12.14:40000/play/a0m8/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN (OP2)
-http://server-d.normielista.stream/ANATEL_TELEVISION_NACIONAL_1007/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN (OP3)
-http://190.93.229.30:8000/play/a0by/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN (GTD DRM)
+#EXTINF:-1 group-title="NACIONALES",🏠 TVN HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={}
@@ -78,11 +57,14 @@ http://138.204.12.14:40000/play/a0qw/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 REC TV (OP2)
 http://74.208.30.121/a470/mono.m3u8
 
-#EXTINF:-1 group-title="NACIONALES",🏠 TV DIPUTADOS
-https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="NACIONALES",🏠 TV SENADO
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="NACIONALES",🏠 TV DIPUTADOS
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES",🏠 UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -93,20 +75,17 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 BIO BIO TV
 http://server-d.normielista.stream/RDT_BIOBIO_TV_1035/mono.m3u8
 
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="NACIONALES",🏠 TV+
 http://server-d.normielista.stream/ANATEL_TV-MAS_1005/mono.m3u8
 
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES",🏠 VIA X
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji7R4krFbUIELBZUVEzU9sw/m3u8
 
 #EXTINF:-1 group-title="NACIONALES",🏠 13 INTERNACIONAL
 https://dai.google.com/linear/hls/pa/event/AoG07lVzSdW0gdaCAcSl-g/stream/1a76a6a6-33c0-40a3-9ddc-36e8a6095156:SCL2/master.m3u8
 
-#EXTINF:-1 group-title="NACIONALES",🏠 VIA X
-https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm0UkrcSZUvatdwvQHLe6nji7R4krFbUIELBZUVEzU9sw/m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="NACIONALES",🏠 NTV
 http://server-d.normielista.stream/TVN_NTV_1032/mono.m3u8
@@ -131,6 +110,7 @@ http://138.204.12.14:40000/play/a0ja/index.m3u8
 
 #EXTINF:-1 group-title="NACIONALES",🏠 SKYTV HD
 http://138.204.12.14:40000/play/skytvhd/index.m3u8
+
 
 # ============== ⚽ DEPORTES ==============
 #EXTINF:-1 group-title="DEPORTES",⚽ CLARO SPORTS 1

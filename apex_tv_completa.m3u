@@ -257,25 +257,59 @@ http://45.181.122.46:8090/play/a01h
 #EXTINF:-1 group-title="UNIVERSAL",🌍 UNIVERSAL PREMIER
 http://138.204.12.14:40000/play/a0ea/index.m3u8
 
-# ============== 🕰️ CINE CLASICO ==============
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ ARTFLIX MOVIE CLASSICS
-https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE FAMILIAR
-http://138.204.12.14:40000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE HISPANO
-http://138.204.12.14:40000/play/a0nj/index.m3u8
+#EXTM3U
+# ============== 🇨🇱 🕰️ CINE CLÁSICO Y RETRO EN ESPAÑOL ==============
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ TVN 3 (Archivo Histórico de Chile)
+https://tvn-b.akamaihd.net/i/tvn3_1@512173/index_1500_av-p.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE CLÁSICO LATAM
+https://d2n2z54h2t7n5r.cloudfront.net/v1/master/729862ed14d03831ea2804b0b17849c7163c2602/cine_clasico/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE DE ORO MEXICANO
+https://amogonetworx-cinedeoro-1-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ BUTACA TV (Cine Hispano)
+https://cdn-1.butaca.tv/live/butaca-tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ RUNTIME CLÁSICOS
+https://stream.ads.runtime.tv/channels/runtimetv-clasicos-es/master.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE WESTERN (Runtime)
+https://stream.ads.runtime.tv/channels/runtimetv-western-es/master.m3u8
+
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE WESTERN ESPAÑA
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CLASSIC CINEMA P
-https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ FILMRISE WESTERNS
-https://dz05z8iljgvbe.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ GRJNGO WESTERN MOVIES
-https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ MX CLASSIC
-http://45.4.3.177:9999/play/a0gl
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE FAMILIAR
+http://138.204.12.14:40000/play/a0l4/index.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE HISPANO
+http://138.204.12.14:40000/play/a0nj/index.m3u8
+
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ RETRO CINE
 http://45.239.31.254:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CLIC TV
+https://stream-02.tucableiptv.com/clictv/index.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ MX CLASSIC
+http://45.4.3.177:9999/play/a0gl
+
+# ============== 🇺🇸 🇬🇧 CANALES EN INGLÉS ==============
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ ARTFLIX MOVIE CLASSICS
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CLASSIC CINEMA P
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ FILMRISE WESTERNS
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ GRJNGO WESTERN MOVIES
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ THE FILM DETECTIVE
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 
@@ -299,23 +333,10 @@ http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23900.ts
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
 #EXTINF:-1 group-title="24/7",📺 TOM Y JERRY
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
-
 #EXTINF:-1 tvg-logo="" group-title="24/7",DRAGON BALL
 http://148.222.231.110:8087/play/a11v/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",ONE PIECE
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/222873.ts
-#EXTINF:-1 tvg-logo="" group-title="24/7",LAS TORTUGAS NINJA
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/222895.ts
-#EXTINF:-1 tvg-logo="" group-title="24/7",LOS PADRINOS MÁGICOS 
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/222894.ts
 #EXTINF:-1 tvg-logo="" group-title="24/7",LOS SIMPSON 
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",NARUTO
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/222864.ts
-#EXTINF:-1 tvg-logo="" group-title="24/7",RUGRATS
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/222890.ts
-#EXTINF:-1 tvg-logo="" group-title="24/7",YU-GI-OH
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/222869.ts
 
 
 # ============== 🧸 INFANTIL ==============
@@ -335,9 +356,6 @@ http://138.204.12.14:40000/play/a0os/index.m3u8
 http://138.204.12.14:40000/play/a0on/index.m3u8
 #EXTINF:-1 group-title="INFANTIL",🧸 DREAMWORKS HD
 http://138.204.12.14:40000/play/a0jm/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",BABYFIRTS
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/222885.ts
 #EXTINF:-1 tvg-logo="" group-title="INFANTIL",CANAL INFANTIL 
 http://74.208.30.121/a311/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTIL",CARTOONITO

@@ -259,40 +259,14 @@ http://138.204.12.14:40000/play/a0ea/index.m3u8
 
 #EXTM3U
 # ============== 🇨🇱 🕰️ CINE CLÁSICO Y RETRO EN ESPAÑOL ==============
-
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ TVN 3 (Archivo Histórico de Chile)
-https://tvn-b.akamaihd.net/i/tvn3_1@512173/index_1500_av-p.m3u8
-
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE CLÁSICO LATAM
-https://d2n2z54h2t7n5r.cloudfront.net/v1/master/729862ed14d03831ea2804b0b17849c7163c2602/cine_clasico/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE DE ORO MEXICANO
-https://amogonetworx-cinedeoro-1-mx.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ BUTACA TV (Cine Hispano)
-https://cdn-1.butaca.tv/live/butaca-tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ RUNTIME CLÁSICOS
-https://stream.ads.runtime.tv/channels/runtimetv-clasicos-es/master.m3u8
-
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE WESTERN (Runtime)
-https://stream.ads.runtime.tv/channels/runtimetv-western-es/master.m3u8
-
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE WESTERN ESPAÑA
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE FAMILIAR
 http://138.204.12.14:40000/play/a0l4/index.m3u8
-
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE HISPANO
 http://138.204.12.14:40000/play/a0nj/index.m3u8
-
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ RETRO CINE
 http://45.239.31.254:8000/play/a01e/index.m3u8
-
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CLIC TV
-https://stream-02.tucableiptv.com/clictv/index.m3u8
-
 #EXTINF:-1 group-title="CINE CLASICO",🕰️ MX CLASSIC
 http://45.4.3.177:9999/play/a0gl
 

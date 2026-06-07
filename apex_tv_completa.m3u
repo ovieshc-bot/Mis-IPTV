@@ -148,20 +148,23 @@ http://velive.lat:8080/Sarita/Sarita/353413
 https://redirector.dps.live/hls/chvdeportes/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 1
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MUNDIAL 2026 SEÑAL 1
 http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443023.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 2
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MUNDIAL 2026 SEÑAL 2
 http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443025.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 3
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MUNDIAL 2026 SEÑAL 3
 http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443027.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 4
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MUNDIAL 2026 SEÑAL 4
 http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443029.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 5
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MUNDIAL 2026 SEÑAL 5
 http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443031.ts
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MUNDIAL 2026 SEÑAL 6
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443033.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 6
 http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443033.ts

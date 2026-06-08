@@ -10,8 +10,6 @@ http://server-d.normielista.stream/CHV_CHV_NOTICIAS_1023/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (OPC 1)
 http://velive.lat:8080/Sarita/Sarita/104304
 #EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (OPC 2)
-http://velive.lat:8080/Sarita/Sarita/292127
-#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (OPC 3)
 http://170.247.204.9:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -37,8 +35,6 @@ https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.mpd
 
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (OPC 1)
 http://server-d.normielista.stream/ANATEL_CANAL_13_1013/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (OPC 2)
-http://179.1.158.52:8000/play/a0e2/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,14 +43,14 @@ http://179.1.158.52:8000/play/a0e2/index.m3u8
 https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.mpd
 #EXTINF:-1 group-title="NACIONALES",🏠 13 CULTURA
 http://velive.lat:8080/Sarita/Sarita/138774
-#EXTINF:-1 group-title="NACIONALES",🏠 T13
-http://server-d.normielista.stream/C13_T13_EN_VIVO_1024/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 13 REC
 http://velive.lat:8080/Sarita/Sarita/184073
 
+#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES",🏠 TVN HD (OPC 1)
 http://server-d.normielista.stream/ANATEL_TELEVISION_NACIONAL_1007/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN HD (OPC 2)
+#EXTINF:-1 group-title="NACIONALES",🏠 TVN HD Clasico
 http://190.93.229.30:8000/play/a0by/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 TVN HD (OPC 3)
 http://velive.lat:8080/Sarita/Sarita/292128
@@ -64,18 +60,12 @@ http://velive.lat:8080/Sarita/Sarita/292128
 #KODIPROP:inputstream.adaptive.license_key={}
 #EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
 https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN3
+#EXTINF:-1 group-title="NACIONALES",🏠 TVN3 Novelas
 http://velive.lat:8080/Sarita/Sarita/292124
-
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE
 http://velive.lat:8080/Sarita/Sarita/277068
-
 #EXTINF:-1 group-title="NACIONALES",🏠 LA RED
 http://server-d.normielista.stream/ANATEL_LA-RED_1004/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 TV+
-http://velive.lat:8080/Sarita/Sarita/277070
 #EXTINF:-1 group-title="NACIONALES",🏠 BIO BIO TV
 http://server-d.normielista.stream/RDT_BIOBIO_TV_1035/mono.m3u8
 

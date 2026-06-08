@@ -1,744 +1,802 @@
 #EXTM3U
 # ============================================================
-# APEX TV - Lista Oficial + Alternativas
-# Compatible con APK APEX (LibVLC incluido)
-# ============================================================
-
-# ============================================================
-# APEX TV - Lista Oficial + Alternativas
+# APEX TV - Lista Oficial
 # Compatible con APK APEX (LibVLC incluido)
 # ============================================================
 
 # ============== 🏠 NACIONALES ==============
-#EXTINF:-1 group-title="NACIONALES",TVN
-https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",MEGA
-https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",CHV
-https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",CHV CONTIGO
-http://38.7.197.119:4000/play/a007/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CANAL 13
-https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES", MEGANOTICIAS AHORA 
-http://server-d.normielista.stream/MEGAMEDIA_MEGANOTICIAS_1022/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",CHV NOTICIAS 
-http://server-d.normielista.stream/CHV_CHV_NOTICIAS_1023/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV+
-http://server-d.normielista.stream/ANATEL_TV-MAS_1005/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",BIO BIO TV
-http://server-d.normielista.stream/RDT_BIOBIO_TV_1035/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",CANAL 24 HORAS 
-https://tv-mgmt.gtd.cl/bpk-tv/24TVN/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",CNN CHILE 
-http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/27507.ts
-#EXTINF:-1 group-title="NACIONALES",T13
-http://server-d.normielista.stream/C13_T13_EN_VIVO_1024/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV DIPUTADOS 
-https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV SENADO
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES",LA RED
-http://server-d.normielista.stream/ANATEL_LA-RED_1004/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV  MÁS 2
-https://tv-mgmt.gtd.cl/bpk-tv/TVMASDOS/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",TVN OP2
-http://server-d.normielista.stream/ANATEL_TELEVISION_NACIONAL_1007/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",TVN OP3
-http://190.93.229.30:8000/play/a0by/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",MEGA OP2
-http://server-d.normielista.stream/ANATEL_MEGAMEDIA_1009/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",MEGA OP3
-http://179.1.158.52:8000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",CHV OP2
-http://server-d.normielista.stream/ANATEL_CHILEVISION_1011/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",CHV OP3
-http://170.247.204.9:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",13 REC
+http://velive.lat:8080/Sarita/Sarita/184073
+#EXTINF:-1 group-title="NACIONALES",C.L CHILEVISION OPC 1
+http://velive.lat:8080/Sarita/Sarita/104303
+#EXTINF:-1 group-title="NACIONALES",C.L CHILEVISION OPC 2.
+http://velive.lat:8080/Sarita/Sarita/104304
+#EXTINF:-1 group-title="NACIONALES",C.L CHILEVISION OPC 3.
+http://velive.lat:8080/Sarita/Sarita/104305
+#EXTINF:-1 group-title="NACIONALES",C.L CHILEVISION OPC 4
+http://velive.lat:8080/Sarita/Sarita/292127
 #EXTINF:-1 group-title="NACIONALES",CANAL 13 OP2
 http://server-d.normielista.stream/ANATEL_CANAL_13_1013/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",CANAL 13 OP3
 http://179.1.158.52:8000/play/a0e2/index.m3u8
-#EXTINF:-1  group-title="NACIONALES", NTV 
-http://server-d.normielista.stream/TVN_NTV_1032/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",MEGA FICCIÓN 
-http://38.7.195.43:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (GTD DRM)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={}
-#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
-https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD (GTD DRM)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={}
-#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
-https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",CANAL 24 HORAS 
+https://tv-mgmt.gtd.cl/bpk-tv/24TVN/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",CHILE | 24 NOTICIAS OPC 1
+http://velive.lat:8080/Sarita/Sarita/277072
+#EXTINF:-1 group-title="NACIONALES",CHILE | 24 NOTICIAS OPC 2
+http://velive.lat:8080/Sarita/Sarita/133666
+#EXTINF:-1 group-title="NACIONALES",CHV NOTICIAS 
+http://server-d.normielista.stream/CHV_CHV_NOTICIAS_1023/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",CHV OP2
+http://server-d.normielista.stream/ANATEL_CHILEVISION_1011/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",CHV OP3
+http://170.247.204.9:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",CL |  CNN OPC 1
+http://velive.lat:8080/Sarita/Sarita/277068
+#EXTINF:-1 group-title="NACIONALES",CL | 13 C
+http://velive.lat:8080/Sarita/Sarita/138774
+#EXTINF:-1 group-title="NACIONALES",CL | 24 PLAY
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?uid=qWppypQNFPspM2RhBXQHDxIrshXs6CtX&sid=R41Vnx3bHX8JCIjEWDgvpqdfjamuJer2&pid=jmrYPCB70lKXMTodqgZzdRsQetxU1Rji&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.52&ref=https%3A%2F%2Fwww.tvn.cl%2Fen-vivo&res=347x220&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=68708b47-fa1a-44db-b2a0-744920cb38ac:SCL
+#EXTINF:-1 group-title="NACIONALES",CL | CANAL 13  OPC 1
+http://velive.lat:8080/Sarita/Sarita/1213
+#EXTINF:-1 group-title="NACIONALES",CL | CANAL 13  OPC 2.
+http://velive.lat:8080/Sarita/Sarita/1214
+#EXTINF:-1 group-title="NACIONALES",CL | CANAL 13  OPC 3.
+http://velive.lat:8080/Sarita/Sarita/1212
+#EXTINF:-1 group-title="NACIONALES",CL | CANAL 13 OPC 4
+http://velive.lat:8080/Sarita/Sarita/292126
+#EXTINF:-1 group-title="NACIONALES",CL | CNN OPC 2.
+http://velive.lat:8080/Sarita/Sarita/277069
+#EXTINF:-1 group-title="NACIONALES",CL | ETC TV OPC 1
+http://velive.lat:8080/Sarita/Sarita/1238
+#EXTINF:-1 group-title="NACIONALES",CL | LA RED TV OPC 1
+http://velive.lat:8080/Sarita/Sarita/1228
+#EXTINF:-1 group-title="NACIONALES",CL | LA RED TV OPC 2
+http://velive.lat:8080/Sarita/Sarita/277065
+#EXTINF:-1 group-title="NACIONALES",CL | MEGA OPC 1
+http://velive.lat:8080/Sarita/Sarita/1219
+#EXTINF:-1 group-title="NACIONALES",CL | MEGA OPC 2
+http://velive.lat:8080/Sarita/Sarita/1220
+#EXTINF:-1 group-title="NACIONALES",CL | MEGA OPC 3
+http://velive.lat:8080/Sarita/Sarita/118318
+#EXTINF:-1 group-title="NACIONALES",CL | MEGA OPC 4
+http://velive.lat:8080/Sarita/Sarita/292125
+#EXTINF:-1 group-title="NACIONALES",CL | PIGUINO TV HD
+http://velive.lat:8080/Sarita/Sarita/1243
+#EXTINF:-1 group-title="NACIONALES",CL | REC TV  SD
+http://velive.lat:8080/Sarita/Sarita/1215
+#EXTINF:-1 group-title="NACIONALES",CL | SENPAI  OPC 1
+http://velive.lat:8080/Sarita/Sarita/277067
+#EXTINF:-1 group-title="NACIONALES",CL | TV + OPC 1
+http://velive.lat:8080/Sarita/Sarita/277070
+#EXTINF:-1 group-title="NACIONALES",CL | TV + OPC 2
+http://velive.lat:8080/Sarita/Sarita/277071
+#EXTINF:-1 group-title="NACIONALES",CL | TV CHILE OPC 1
+http://velive.lat:8080/Sarita/Sarita/277066
+#EXTINF:-1 group-title="NACIONALES",CL | TV CHILE OPC 2
+http://velive.lat:8080/Sarita/Sarita/141600
+#EXTINF:-1 group-title="NACIONALES",CL | TVN OPC 1
+http://velive.lat:8080/Sarita/Sarita/1222
+#EXTINF:-1 group-title="NACIONALES",CL | TVN OPC 2
+http://velive.lat:8080/Sarita/Sarita/1223
+#EXTINF:-1 group-title="NACIONALES",CL | TVN OPC 3
+http://velive.lat:8080/Sarita/Sarita/1221
+#EXTINF:-1 group-title="NACIONALES",CL | TVN OPC 4.
+http://velive.lat:8080/Sarita/Sarita/292128
+#EXTINF:-1 group-title="NACIONALES",CL | UCV
+http://velive.lat:8080/Sarita/Sarita/138772
+#EXTINF:-1 group-title="NACIONALES",CL | VIA X OPC 1
+http://velive.lat:8080/Sarita/Sarita/133677
+#EXTINF:-1 group-title="NACIONALES",CL | VIA X OPC 2.
+http://velive.lat:8080/Sarita/Sarita/277064
+#EXTINF:-1 group-title="NACIONALES",CL | ZONA LATINA OPC 1
+http://velive.lat:8080/Sarita/Sarita/138773
+#EXTINF:-1 group-title="NACIONALES",CL | ZONA LATINA OPC 2
+http://velive.lat:8080/Sarita/Sarita/277073
+#EXTINF:-1 group-title="NACIONALES",CL: Canal T13
+http://velive.lat:8080/Sarita/Sarita/280358
+#EXTINF:-1 group-title="NACIONALES",LA RED
+http://server-d.normielista.stream/ANATEL_LA-RED_1004/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",MEGA  NOTICIAS
+http://velive.lat:8080/Sarita/Sarita/177860
+#EXTINF:-1 group-title="NACIONALES",MEGA 2
+http://velive.lat:8080/Sarita/Sarita/289376
+#EXTINF:-1 group-title="NACIONALES",MEGA FICCION
+http://velive.lat:8080/Sarita/Sarita/289375
+#EXTINF:-1 group-title="NACIONALES",MEGA OP2
+http://server-d.normielista.stream/ANATEL_MEGAMEDIA_1009/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",MEGA OP3
+http://179.1.158.52:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",MEGA TIEMPO
+http://velive.lat:8080/Sarita/Sarita/152516
+#EXTINF:-1 group-title="NACIONALES", MEGANOTICIAS AHORA 
+http://server-d.normielista.stream/MEGAMEDIA_MEGANOTICIAS_1022/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",T13
+http://server-d.normielista.stream/C13_T13_EN_VIVO_1024/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",TV  MÁS 2
+https://tv-mgmt.gtd.cl/bpk-tv/TVMASDOS/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",TVN 3
+http://velive.lat:8080/Sarita/Sarita/292124
+#EXTINF:-1 group-title="NACIONALES",TVN OP2
+http://server-d.normielista.stream/ANATEL_TELEVISION_NACIONAL_1007/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",TVN OP3
+http://190.93.229.30:8000/play/a0by/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES",UCV TV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES",VIA X 
+https://tv-mgmt.gtd.cl/bpk-tv/VIAX/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",ZONA LATINA 
+https://tv-mgmt.gtd.cl/bpk-tv/ZONALA/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",🏠 13 INTERNACIONAL
+https://dai.google.com/linear/hls/pa/event/AoG07lVzSdW0gdaCAcSl-g/stream/1a76a6a6-33c0-40a3-9ddc-36e8a6095156:SCL2/master.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 BIO BIO TV
+http://server-d.normielista.stream/RDT_BIOBIO_TV_1035/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 CANAL 13 HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={}
 #EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
 https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES",🏠 CHV CONTIGO
+http://38.7.197.119:4000/play/a007/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 CHV HD (GTD DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE (OP2)
+http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/27507.ts
+#EXTINF:-1 group-title="NACIONALES",🏠 MEGA FICCIÓN
+http://38.7.195.43:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 MEGA HD (GTD DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",🏠 MEGA TIEMPO
+http://38.7.195.43:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 NTV
+http://server-d.normielista.stream/TVN_NTV_1032/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 REC TV (OP2)
+http://74.208.30.121/a470/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 TV DIPUTADOS
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 TV SENADO
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES",🏠 TV+
+http://server-d.normielista.stream/ANATEL_TV-MAS_1005/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 TVN HD (GTD DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={}
 #EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
 https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.mpd
-#EXTINF:-1 group-title="NACIONALES",🏠 CNN CHILE (OP2)
-http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/27507.ts
-#EXTINF:-1 group-title="NACIONALES",🏠 REC TV (OP2)
-http://74.208.30.121/a470/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CANAL 24 HORAS
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES",🏠 TV SENADO
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES",🏠 TV DIPUTADOS
-https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES",🏠 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES",🏠 UCH TV
+http://38.7.197.119:4000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",🏠 UCV TV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 BIO BIO TV
-http://server-d.normielista.stream/RDT_BIOBIO_TV_1035/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 TV+
-http://server-d.normielista.stream/ANATEL_TV-MAS_1005/mono.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES",🏠 MEGA FICCIÓN
-http://38.7.195.43:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 MEGA TIEMPO
-http://38.7.195.43:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 CHV CONTIGO
-http://38.7.197.119:4000/play/a007/index.m3u8
-#EXTINF:-1 group-title="NACIONALES",🏠 UCH TV
-http://38.7.197.119:4000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",📺 MEA CULPA
 http://dctv.pro:2082/live/Axelben1/Axelben11/114641.ts
-#EXTINF:-1 tvg-id="Canal.Mega.(Chile).cl" tvg-name="CL | MEGA OPC 1" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="NACIONALES",CL | MEGA OPC 1
-http://velive.lat:8080/Sarita/Sarita/1219
-#EXTINF:-1 tvg-id="" tvg-name="MEGA FICCION" tvg-logo="https://images2-mega.cdn.mdstrm.com/mega/2022/03/31/128295_1_6245a2e23e747.jpg?d=900x500" group-title="NACIONALES",MEGA FICCION
-http://velive.lat:8080/Sarita/Sarita/289375
-#EXTINF:-1 tvg-id="" tvg-name="MEGA 2" tvg-logo="https://images2-mega.cdn.mdstrm.com/meganoticias/2023/09/08/como-sintonizar-la-senal-2-de-mega-en-tu-television_424990_1_64fb76134268f.jpg" group-title="NACIONALES",MEGA 2
-http://velive.lat:8080/Sarita/Sarita/289376
-#EXTINF:-1 tvg-id="" tvg-name="MEGA  NOTICIAS" tvg-logo="https://pbs.twimg.com/profile_images/1551995585091084288/O-eU6CLx_400x400.jpg" group-title="NACIONALES",MEGA  NOTICIAS
-http://velive.lat:8080/Sarita/Sarita/177860
-#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13  OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="NACIONALES",CL | CANAL 13  OPC 1
-http://velive.lat:8080/Sarita/Sarita/1213
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal13Chile-13C.png/1280px-Canal13Chile-13C.png" group-title="NACIONALES",CL | 13 C
-http://velive.lat:8080/Sarita/Sarita/138774
-#EXTINF:-1 tvg-id="Canal.Chilevisión.(CHV).cl" tvg-name="C.L CHILEVISION OPC 1" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="NACIONALES",C.L CHILEVISION OPC 1
-http://velive.lat:8080/Sarita/Sarita/104303
-#EXTINF:-1 tvg-id="" tvg-name="CL | TVN OPC 1" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png" group-title="NACIONALES",CL | TVN OPC 1
-http://velive.lat:8080/Sarita/Sarita/1222
-#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230724/imag/foto_0000001820230724110258/Screenshot_15.jpg" group-title="NACIONALES",TVN 3
-http://velive.lat:8080/Sarita/Sarita/292124
-#EXTINF:-1 tvg-id="" tvg-name="CL | LA RED TV OPC 2" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQF2p195HUky1A/company-logo_200_200/company-logo_200_200/0/1708480272263/la_red_3_logo?e=2147483647&v=beta&t=t8-ap_bczYz_B5Cmsr0_rj95qmyhNIfA1XlYSAKmTpg" group-title="NACIONALES",CL | LA RED TV OPC 2
-http://velive.lat:8080/Sarita/Sarita/277065
-#EXTINF:-1 tvg-id="" tvg-name="CL | REC TV  SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Rec_TV_%282014-Julio_2015%29.png/revision/latest?cb=20170712210509&path-prefix=es" group-title="NACIONALES",CL | REC TV  SD
-http://velive.lat:8080/Sarita/Sarita/1215
-#EXTINF:-1 tvg-id="Canal.CNN.Chile.cl" tvg-name="CL |  CNN OPC 1" tvg-logo="https://i.ibb.co/gD4z03y/kmc-20241203-004914.png" group-title="NACIONALES",CL |  CNN OPC 1
-http://velive.lat:8080/Sarita/Sarita/277068
-PC 1" tvg-logo="https://images2-megamedia.cdn.mdstrm.com/etcetera/2020/02/25/10043_4_5e5531f40cf27.jpg?d=500x500" group-title="NACIONALES",CL | ETC TV OPC 1
-http://velive.lat:8080/Sarita/Sarita/1238
-#EXTINF:-1 tvg-id="Canal.Vía.X.cl" tvg-name="CL | VIA X OPC 1" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="NACIONALES",CL | VIA X OPC 1
-http://velive.lat:8080/Sarita/Sarita/133677
-#EXTINF:-1 tvg-id="" tvg-name="CL | VIA X OPC 2." tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="NACIONALES",CL | VIA X OPC 2.
-http://velive.lat:8080/Sarita/Sarita/277064
 
 # ============== ⚽ DEPORTES ==============
-#EXTINF:-1 group-title="DEPORTES",⚽ ESPN
-http://velive.lat:8080/Sarita/Sarita/152303
-#EXTINF:-1 group-title="DEPORTES",⚽ ESPN PREMIUM
-http://velive.lat:8080/Sarita/Sarita/152306
-#EXTINF:-1 group-title="DEPORTES",⚽ FOX SPORTS 3
-http://velive.lat:8080/Sarita/Sarita/152058
-#EXTINF:-1 group-title="DEPORTES",⚽ FOX SPORT CHILE
-http://velive.lat:8080/Sarita/Sarita/152122
-#EXTINF:-1 group-title="DEPORTES",⚽ FS PREMIUM
-http://velive.lat:8080/Sarita/Sarita/372016
-#EXTINF:-1 group-title="DEPORTES",⚽ TNT SPORTS PREMIUM ARG
-http://138.59.227.20:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",⚽ FIFA+
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
-#EXTINF:-1 group-title="DEPORTES",⚽ TELETRAK
-http://45.239.31.254:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",⚽ TENNIS CHANNEL
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347526.ts
-#EXTINF:-1 group-title="DEPORTES",⚽ UFC
-http://38.210.3.64:8090/play/A01E/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",⚽ WWE
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2344.ts
-#EXTINF:-1 group-title="DEPORTES",⚽ EVENTOS BOXEO
-http://velive.lat:8080/Sarita/Sarita/321178
-#EXTINF:-1 group-title="DEPORTES",⚽ USA UFC Channel
-http://velive.lat:8080/Sarita/Sarita/353413
-#EXTINF:-1 group-title="DEPORTES",⚽ CHV DEPORTES
-https://redirector.dps.live/hls/chvdeportes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS BOXEO" tvg-logo="http://velive.lat:8080/images/channels_image/26557457518.jpg" group-title="DEPORTES",EVENTOS BOXEO
-http://velive.lat:8080/Sarita/Sarita/321178
-#EXTINF:-1 tvg-id="" tvg-name="USA: UFC Channel" tvg-logo="http://velive.lat:8080/images/channels_image/87167762107.jpg" group-title="DEPORTES",USA: ESPN 7
-http://velive.lat:8080/Sarita/Sarita/353413
-#EXTINF:-1 tvg-id="" tvg-name="Eventos ufc - boxeo" tvg-logo="http://velive.lat:8080/images/channels_image/11473141850.jpg" group-title="DEPORTES",FS PREMIUM
-http://velive.lat:8080/Sarita/Sarita/372016
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe.png" group-title="DEPORTES",WWE Network
-http://velive.lat:8080/Sarita/Sarita/421372
-#EXTINF:-1 tvg-id="" tvg-name="WWE Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1200px-WWE_official_logo.svg.png" group-title="DEPORTES",WWE Channel
-http://velive.lat:8080/Sarita/Sarita/421373
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/ADRENALINASPORTS.jpg" group-title="DEPORTES",ADRENALINA SPORTS HD
-http://velive.lat:8080/Sarita/Sarita/187291
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  Ñ HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/BEINSPORTS.png" group-title="DEPORTES",BEIN SPORTS  Ñ HD
-http://velive.lat:8080/Sarita/Sarita/187296
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://imgur.com/a/EF52gRF" group-title="DEPORTES",EUROSPORT 1 HD
-http://velive.lat:8080/Sarita/Sarita/187330
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="DEPORTES",EUROSPORT 2 HD
-http://velive.lat:8080/Sarita/Sarita/187333
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS1.png" group-title="DEPORTES",FOX SPORTS
-http://velive.lat:8080/Sarita/Sarita/187336
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS2.png" group-title="DEPORTES",FOX SPORTS 2
-http://velive.lat:8080/Sarita/Sarita/187339
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS3.png" group-title="DEPORTES",FOX SPORTS 3
-http://velive.lat:8080/Sarita/Sarita/187342
-
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/GOLFCHANNEL.png" group-title="DEPORTES",GOLF CHANNEL
-http://velive.lat:8080/Sarita/Sarita/187348
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/REDBULLTV.png" group-title="DEPORTES",RED BULL TV
-http://velive.lat:8080/Sarita/Sarita/187351
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/SKYSPORTS.png" group-title="DEPORTES",SKY SPORTS HD
-http://velive.lat:8080/Sarita/Sarita/187353
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png" group-title="DEPORTES",TENNIS CHANNEL
-http://velive.lat:8080/Sarita/Sarita/187359
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="DEPORTES",TNT SPORTS OP4
-http://velive.lat:8080/Sarita/Sarita/187361
-
-#EXTINF:-1 tvg-id="" tvg-name="UFC HD" tvg-logo="https://w7.pngwing.com/pngs/150/631/png-transparent-ufc-red-logo.png" group-title="DEPORTES",SKY DEPORTES
-http://velive.lat:8080/Sarita/Sarita/187368
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TYC.jpg" group-title="DEPORTES",TYC SPORTS HD
-http://velive.lat:8080/Sarita/Sarita/187371
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="DEPORTES",DSPORTS
-http://velive.lat:8080/Sarita/Sarita/187374
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 HD" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="DEPORTES",DSPORTS 2 HD
-http://velive.lat:8080/Sarita/Sarita/187377
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS + HD" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="DEPORTES",DSPORTS + HD
-http://velive.lat:8080/Sarita/Sarita/187379
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS FIGHT" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/DSPORTSFIGHT.png" group-title="DEPORTES",DSPORTS FIGHT
-http://velive.lat:8080/Sarita/Sarita/187381
-#EXTINF:-1 tvg-id="" tvg-name="VIX HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/VIX.png" group-title="DEPORTES",VIX HD
-http://velive.lat:8080/Sarita/Sarita/187387
-
-
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ▶️ TNT/ PREMIUM  FHD 1" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="DEPORTES",⚽ ▶️ TNT/ PREMIUM  FHD 1
-http://velive.lat:8080/Sarita/Sarita/1229
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ▶️ TNT/ PREMIUM FHD 3" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="DEPORTES",⚽ ▶️ TNT/ PREMIUM FHD 3
-http://velive.lat:8080/Sarita/Sarita/1231
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ▶️ TNT/ SPORTS PREM HD2" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="DEPORTES",⚽ ▶️ TNT/ SPORTS PREM HD2
-http://velive.lat:8080/Sarita/Sarita/1233
-
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ▶️ TNT/ PREMIUM SD 3" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="DEPORTES",⚽ ▶️ TNT/ PREMIUM SD 3
-http://velive.lat:8080/Sarita/Sarita/86357
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ▶️ TNT/ BASICO  ⚽ 2" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="DEPORTES",⚽ ▶️ TNT/ BASICO  ⚽ 2
-http://velive.lat:8080/Sarita/Sarita/103822
-#EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png" group-title="DEPORTES",CDO
-http://velive.lat:8080/Sarita/Sarita/118623
-#EXTINF:-1 tvg-id="" tvg-name="⚽ CDO BASICO" tvg-logo="https://pbs.twimg.com/media/DeDECJkXUAE7xxL.jpg" group-title="DEPORTES",⚽ CDO BASICO
-http://velive.lat:8080/Sarita/Sarita/135810
-#EXTINF:-1 tvg-id="" tvg-name="CL | FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-sports-3-hd_m.png" group-title="DEPORTES",CL | FOX SPORTS 3
-http://velive.lat:8080/Sarita/Sarita/152058
-#EXTINF:-1 tvg-id="" tvg-name="CL | FOX SPORT CHILE" tvg-logo="https://i.ibb.co/NKHsSBX/kmc-20240503-052233.jpg" group-title="DEPORTES",CL | FOX SPORT CHILE
-http://velive.lat:8080/Sarita/Sarita/152122
-
-#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN." tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="DEPORTES",CL | ESPN.
-http://velive.lat:8080/Sarita/Sarita/152303
-#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="DEPORTES",CL | ESPN 2
-http://velive.lat:8080/Sarita/Sarita/152304
-#EXTINF:-1 tvg-id="" tvg-name="CL | ESPN 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyiG5jIouWAFlfJplkYFCUJg50BCRaRTjXgw3Zt2FQ6mwOof6S60K930YOCG76GI_W4MKDoSgrVP3rFMXgmrmKY3QnI6cfrXqFGjKNZQ4OLxf_0h7aIY00eYWDNd35up6ihZGiUpjUz5SpIzb006S3OLoUWcuaWvBxVhob87OdD8-X5Qsv9_S-fGhO/s1600/espn3.png" group-title="DEPORTES",CL | ESPN 3
-http://velive.lat:8080/Sarita/Sarita/152305
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&usqp=CAU" group-title="DEPORTES",ESPN PREMIUM
-http://velive.lat:8080/Sarita/Sarita/152306
-
-
-#EXTINF:-1 tvg-id="" tvg-name="⚽EVENTOS 3⚽ TICKET" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20220119/imag/foto_0000004120220119163939_700x393-HERO-MOBILE.png" group-title="DEPORTES",⚽EVENTOS 3⚽ TICKET
-http://velive.lat:8080/Sarita/Sarita/144172
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN HD
-http://velive.lat:8080/Sarita/Sarita/243072
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN SD
-http://velive.lat:8080/Sarita/Sarita/243073
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 2 HD
-http://velive.lat:8080/Sarita/Sarita/243074
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 2 SD
-http://velive.lat:8080/Sarita/Sarita/243075
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 3 HD
-http://velive.lat:8080/Sarita/Sarita/243076
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 3 SD
-http://velive.lat:8080/Sarita/Sarita/243077
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 4 HD
-http://velive.lat:8080/Sarita/Sarita/243078
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 4 SD
-http://velive.lat:8080/Sarita/Sarita/243079
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 5 HD
-http://velive.lat:8080/Sarita/Sarita/243080
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 6 HD
-http://velive.lat:8080/Sarita/Sarita/243082
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 7 HD
-http://velive.lat:8080/Sarita/Sarita/243084
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN PREMIUM HD
-http://velive.lat:8080/Sarita/Sarita/243087
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",MX: ESPN HD
-http://velive.lat:8080/Sarita/Sarita/243088
-#EXTINF:-1 tvg-id="" tvg-name="ESPN MEXICO SD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN MEXICO SD
-http://velive.lat:8080/Sarita/Sarita/243089
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",MX: ESPN 2
-http://velive.lat:8080/Sarita/Sarita/243090
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | MX ❆" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN 2 | MX ❆
-http://velive.lat:8080/Sarita/Sarita/243091
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Mexico 3 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN Mexico 3 HD
-http://velive.lat:8080/Sarita/Sarita/243092
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  3 SD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN  3 SD
-http://velive.lat:8080/Sarita/Sarita/243093
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN Brasil
-http://velive.lat:8080/Sarita/Sarita/243094
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 2" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN Brasil 2
-http://velive.lat:8080/Sarita/Sarita/243095
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 3" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN Brasil 3
-http://velive.lat:8080/Sarita/Sarita/243096
-#EXTINF:-1 tvg-id="" tvg-name="MX :ESPN 3" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",MX :ESPN 3
-http://velive.lat:8080/Sarita/Sarita/243097
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES 1 - USA" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN DEPORTES 1 - USA
-http://velive.lat:8080/Sarita/Sarita/243321
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES 2-USA" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN DEPORTES 2-USA
-http://velive.lat:8080/Sarita/Sarita/243322
-#EXTINF:-1 tvg-id="" tvg-name="ESPN extra" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="DEPORTES",ESPN extra
-http://velive.lat:8080/Sarita/Sarita/245195
-#EXTINF:-1 tvg-id="" tvg-name="F1 | RALLY TV" tvg-logo="https://play-lh.googleusercontent.com/yGC9brvzJBdkj8D2iyr1FmtE2FOM4myhn83rWR1DsJR4jXBwpQSHa7OkS9Q1_XVqQGl-" group-title="DEPORTES",F1 | RALLY TV
-http://velive.lat:8080/Sarita/Sarita/387632
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",DAZN F1
-http://velive.lat:8080/Sarita/Sarita/134172
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 HD" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",DAZN MOVISTAR F1 HD
-http://velive.lat:8080/Sarita/Sarita/134173
-#EXTINF:-1 tvg-id="" tvg-name="S /IKY F1" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",S /IKY F1
-http://velive.lat:8080/Sarita/Sarita/134174
-#EXTINF:-1 tvg-id="" tvg-name="DAZN  F1 4K" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",DAZN  F1 4K
-http://velive.lat:8080/Sarita/Sarita/134175
-#EXTINF:-1 tvg-id="" tvg-name="SS C2 - F1" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",SS C2 - F1
-http://velive.lat:8080/Sarita/Sarita/134177
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM  - F1" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",FOX SPORTS PREMIUM  - F1
-http://velive.lat:8080/Sarita/Sarita/152499
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS - F1" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",ESPN SPORTS - F1
-http://velive.lat:8080/Sarita/Sarita/243601
-#EXTINF:-1 tvg-id="" tvg-name="F1 - SKY  F1" tvg-logo="https://i.ibb.co/prLkYh33/file-5-EUhv-MDXzs-Luia68-YY2-E8k.webp" group-title="DEPORTES",F1 - SKY  F1
-http://velive.lat:8080/Sarita/Sarita/243602
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="DEPORTES",BEIN SPORTS XTRA Ñ
-http://velive.lat:8080/Sarita/Sarita/133630
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  HD" tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="DEPORTES",BEIN SPORTS  HD
-http://velive.lat:8080/Sarita/Sarita/133632
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ñ HD" tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="DEPORTES",BEIN SPORTS XTRA Ñ HD
-http://velive.lat:8080/Sarita/Sarita/139889
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS (D)" tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="DEPORTES",beIN SPORTS (D)
-http://velive.lat:8080/Sarita/Sarita/139890
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS  ñ" tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="DEPORTES",beIN SPORTS  ñ
-http://velive.lat:8080/Sarita/Sarita/139896
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://i.postimg.cc/RCHGWvk9/e996f536ba0cd9cc6ea3cb7a13c2237b-icon.png" group-title="DEPORTES",BEIN SPORTS Ñ
-http://velive.lat:8080/Sarita/Sarita/139912
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="DEPORTES",DAZN LA LIGA
-http://velive.lat:8080/Sarita/Sarita/154584
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD (B)" tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="DEPORTES",DAZN 1 HD (B)
-http://velive.lat:8080/Sarita/Sarita/154585
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="DEPORTES",DAZN 2 FHD
-http://velive.lat:8080/Sarita/Sarita/154586
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="DEPORTES",DAZN 3
-http://velive.lat:8080/Sarita/Sarita/154587
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1" tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="DEPORTES",ES: DAZN F1
-http://velive.lat:8080/Sarita/Sarita/154588
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD (B)" tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="DEPORTES",DAZN F1 FHD (B)
-http://velive.lat:8080/Sarita/Sarita/154589
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="https://i.postimg.cc/P5ynDgJ5/dazn-1551280858.png" group-title="DEPORTES",ES: DAZN 4
-http://velive.lat:8080/Sarita/Sarita/154591
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1 [SKY MX]" tvg-logo="https://i.postimg.cc/CxPXkj71/file-000000007bc4620e85dea8663cf078a8-1.png" group-title="DEPORTES",SKY SPORTS 1 [SKY MX]
-http://velive.lat:8080/Sarita/Sarita/396653
-#EXTINF:-1 tvg-id="" tvg-name="SKY LIVE EVENT 1 [SKY MX]" tvg-logo="https://i.postimg.cc/CxPXkj71/file-000000007bc4620e85dea8663cf078a8-1.png" group-title="DEPORTES",SKY LIVE EVENT 1 [SKY MX]
-http://velive.lat:8080/Sarita/Sarita/396665
-#EXTINF:-1 tvg-id="" tvg-name="SKY LIVE EVENT 2 [SKY MX]" tvg-logo="https://i.postimg.cc/CxPXkj71/file-000000007bc4620e85dea8663cf078a8-1.png" group-title="DEPORTES",SKY LIVE EVENT 2 [SKY MX]
-http://velive.lat:8080/Sarita/Sarita/396664
-#EXTINF:-1 tvg-id="" tvg-name="SKY LIVE EVENT 3 [SKY MX]" tvg-logo="https://i.postimg.cc/CxPXkj71/file-000000007bc4620e85dea8663cf078a8-1.png" group-title="DEPORTES",SKY LIVE EVENT 3 [SKY MX]
-http://velive.lat:8080/Sarita/Sarita/396663
-#EXTINF:-1 tvg-id="" tvg-name="SKY LIVE EVENT 4 [SKY MX]" tvg-logo="https://i.postimg.cc/CxPXkj71/file-000000007bc4620e85dea8663cf078a8-1.png" group-title="DEPORTES",SKY LIVE EVENT 4 [SKY MX]
-http://velive.lat:8080/Sarita/Sarita/396662
-#EXTINF:-1 tvg-id="" tvg-name="SEGUNDA  CHILE (SOLO EVENTOS)" tvg-logo="https://static.wikia.nocookie.net/futbolchileno/images/7/7f/Logo_de_la_Segunda_GrupoTX_2022.png/revision/latest?cb=20220705175446&path-prefix=es" group-title="DEPORTES",SEGUNDA  CHILE (SOLO EVENTOS)
-http://velive.lat:8080/Sarita/Sarita/429414
-#EXTINF:-1 tvg-id="" tvg-name="SEGUNDA CHILE 2 (SOLO EVENTOD)" tvg-logo="https://static.wikia.nocookie.net/futbolchileno/images/7/7f/Logo_de_la_Segunda_GrupoTX_2022.png/revision/latest?cb=20220705175446&path-prefix=es" group-title="DEPORTES",SEGUNDA CHILE 2 (SOLO EVENTOD)
-http://velive.lat:8080/Sarita/Sarita/429415
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS MAX 2 (SOLO EVENTOS)" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/marcas/tnt-sports-max-1.png" group-title="DEPORTES",TNT SPORTS MAX 2 (SOLO EVENTOS)
-http://velive.lat:8080/Sarita/Sarita/429416
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS MAX 1 (SOLO EVENTOS)" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/marcas/tnt-sports-max-1.png" group-title="DEPORTES",TNT SPORTS MAX 1 (SOLO EVENTOS)
-http://velive.lat:8080/Sarita/Sarita/429417
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ ESPN 4K
-http://velive.lat:8080/Sarita/Sarita/321167
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN 2 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN 2 4K
-http://velive.lat:8080/Sarita/Sarita/321176
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN 3" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN 3
-http://velive.lat:8080/Sarita/Sarita/321174
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN 5 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN 5 4K
-http://velive.lat:8080/Sarita/Sarita/321172
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN 7 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN 7 4K
-http://velive.lat:8080/Sarita/Sarita/321171
-#EXTINF:-1 tvg-id="" tvg-name="⚽ GOL PERU 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ GOL PERU 4K
-http://velive.lat:8080/Sarita/Sarita/321166
-#EXTINF:-1 tvg-id="" tvg-name="⚽ MOVISTAR DEPORTES 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ MOVISTAR DEPORTES 4K
-http://velive.lat:8080/Sarita/Sarita/321164
-#EXTINF:-1 tvg-id="" tvg-name="⚽ T & C SPORTS 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ T & C SPORTS 4K
-http://velive.lat:8080/Sarita/Sarita/321163
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN DEPORTES 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN DEPORTES 4K
-http://velive.lat:8080/Sarita/Sarita/321170
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN PREMIUM 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN PREMIUM 4K
-http://velive.lat:8080/Sarita/Sarita/321169
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN 6" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN 6
-http://velive.lat:8080/Sarita/Sarita/321175
-#EXTINF:-1 tvg-id="" tvg-name="⚽ E$PN 4 4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ E$PN 4 4K
-http://velive.lat:8080/Sarita/Sarita/321173
-#EXTINF:-1 tvg-id="" tvg-name="⚽ FUTV  4K" tvg-logo="https://i.postimg.cc/bw82Jvnt/file-000000000b0871f5bf3115ffb05babbf-(1).png" group-title="DEPORTES",⚽ FUTV  4K
-http://velive.lat:8080/Sarita/Sarita/321162
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports | CL ❆" tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="DEPORTES",FOX Sports | CL ❆
-http://velive.lat:8080/Sarita/Sarita/316047
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 | PE ❆" tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="DEPORTES",FOX Sports 3 | PE ❆
-http://velive.lat:8080/Sarita/Sarita/316050
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports | PREMIUM" tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="DEPORTES",FOX Sports | PREMIUM
-http://velive.lat:8080/Sarita/Sarita/316049
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | 2MB LAT ❆" tvg-logo="https://i.postimg.cc/fWSZk0WL/83b20e3646dc45d5c63fa7aef0d52fbc-fgraphic.png" group-title="DEPORTES",Fox Sports 2 | 2MB LAT ❆
-http://velive.lat:8080/Sarita/Sarita/316053/velive.lat:8080/Sarita/Sarita/395733
-#EXTINF:-1 tvg-id="" tvg-name="03:00 - Roland Garros - Cobertura 1 En español" tvg-logo="https://i.imgur.com/UMWIMAp.png" group-title="DEPORTES",03:00 - Roland Garros - Cobertura 1 En español
+#EXTINF:-1 group-title="DEPORTES",03:00 - Roland Garros - Cobertura 1 En español
 http://velive.lat:8080/Sarita/Sarita/439409
-#EXTINF:-1 tvg-id="" tvg-name="03:00 - Roland Garros - Octavos de final" tvg-logo="https://i.imgur.com/UMWIMAp.png" group-title="DEPORTES",03:00 - Roland Garros - Octavos de final
+#EXTINF:-1 group-title="DEPORTES",03:00 - Roland Garros - Octavos de final
 http://velive.lat:8080/Sarita/Sarita/439410
-#EXTINF:-1 tvg-id="" tvg-name="05:00 - Roland Garros - Evento en Vivo" tvg-logo="https://i.imgur.com/UMWIMAp.png" group-title="DEPORTES",05:00 - Roland Garros - Evento en Vivo
+#EXTINF:-1 group-title="DEPORTES",05:00 - Roland Garros - Evento en Vivo
 http://velive.lat:8080/Sarita/Sarita/439411
-#EXTINF:-1 tvg-id="" tvg-name="07:00 - Japón Sub-20 vs Costa de Marfil Sub-20 - Torneo Maurice Revello" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Tournoi_revello_logo.png" group-title="DEPORTES",07:00 - Japón Sub-20 vs Costa de Marfil Sub-20 - Torneo Maurice Revello
+#EXTINF:-1 group-title="DEPORTES",07:00 - Japón Sub-20 vs Costa de Marfil Sub-20 - Torneo Maurice Revello
 http://velive.lat:8080/Sarita/Sarita/439412
-#EXTINF:-1 tvg-id="" tvg-name="08:00 - 06/01 Basketball pm: Seattle Storm @ Dallas Wings: WNBA" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES",08:00 - 06/01 Basketball pm: Seattle Storm @ Dallas Wings: WNBA
+#EXTINF:-1 group-title="DEPORTES",08:00 - 06/01 Basketball pm: Seattle Storm @ Dallas Wings: WNBA
 http://velive.lat:8080/Sarita/Sarita/439413
-#EXTINF:-1 tvg-id="" tvg-name="09:00 - Roland Garros - Evento en Vivo" tvg-logo="https://i.imgur.com/UMWIMAp.png" group-title="DEPORTES",09:00 - Roland Garros - Evento en Vivo
+#EXTINF:-1 group-title="DEPORTES",09:00 - Roland Garros - Evento en Vivo
 http://velive.lat:8080/Sarita/Sarita/439414
-#EXTINF:-1 tvg-id="" tvg-name="10:00 - 06/01 Basketball pm: Minnesota Lynx @ Phoenix Mercury: WNBA" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES",10:00 - 06/01 Basketball pm: Minnesota Lynx @ Phoenix Mercury: WNBA
+#EXTINF:-1 group-title="DEPORTES",10:00 - 06/01 Basketball pm: Minnesota Lynx @ Phoenix Mercury: WNBA
 http://velive.lat:8080/Sarita/Sarita/439415
-#EXTINF:-1 tvg-id="" tvg-name="10:00 - Bulgaria vs. Montenegro - Amistoso" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="DEPORTES",10:00 - Bulgaria vs. Montenegro - Amistoso
+#EXTINF:-1 group-title="DEPORTES",10:00 - Bulgaria vs. Montenegro - Amistoso
 http://velive.lat:8080/Sarita/Sarita/439416
-#EXTINF:-1 tvg-id="" tvg-name="10:00 - Eslovaquia vs. Malta - Amistoso" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="DEPORTES",10:00 - Eslovaquia vs. Malta - Amistoso
+#EXTINF:-1 group-title="DEPORTES",10:00 - Eslovaquia vs. Malta - Amistoso
 http://velive.lat:8080/Sarita/Sarita/439417
-#EXTINF:-1 tvg-id="" tvg-name="10:30 - BBL Alba Berlin vs Bamberg - Basket" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ssgkzq1550038219.png" group-title="DEPORTES",10:30 - BBL Alba Berlin vs Bamberg - Basket
+#EXTINF:-1 group-title="DEPORTES",10:30 - BBL Alba Berlin vs Bamberg - Basket
 http://velive.lat:8080/Sarita/Sarita/439418
-#EXTINF:-1 tvg-id="" tvg-name="10:30 - FC Leipzig vs. Wurzburger - 3 Bundesliga" tvg-logo="https://i.imgur.com/X62e9qL.png" group-title="DEPORTES",10:30 - FC Leipzig vs. Wurzburger - 3 Bundesliga
+#EXTINF:-1 group-title="DEPORTES",10:30 - FC Leipzig vs. Wurzburger - 3 Bundesliga
 http://velive.lat:8080/Sarita/Sarita/439419
-#EXTINF:-1 tvg-id="" tvg-name="10:30 - Turquía vs. Macedonia del Norte - Amistoso" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="DEPORTES",10:30 - Turquía vs. Macedonia del Norte - Amistoso
+#EXTINF:-1 group-title="DEPORTES",10:30 - Turquía vs. Macedonia del Norte - Amistoso
 http://velive.lat:8080/Sarita/Sarita/439420
-#EXTINF:-1 tvg-id="" tvg-name="10:30 - Venezuela Sub-20 vs Canadá Sub-20 - Torneo Maurice Revello" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Tournoi_revello_logo.png" group-title="DEPORTES",10:30 - Venezuela Sub-20 vs Canadá Sub-20 - Torneo Maurice Revello
+#EXTINF:-1 group-title="DEPORTES",10:30 - Venezuela Sub-20 vs Canadá Sub-20 - Torneo Maurice Revello
 http://velive.lat:8080/Sarita/Sarita/439421
-#EXTINF:-1 tvg-id="" tvg-name="11:00 - Noruega vs. Suecia - Amistoso" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="DEPORTES",11:00 - Noruega vs. Suecia - Amistoso
+#EXTINF:-1 group-title="DEPORTES",11:00 - Noruega vs. Suecia - Amistoso
 http://velive.lat:8080/Sarita/Sarita/439422
-#EXTINF:-1 tvg-id="" tvg-name="12:00 - Boston River vs Liverpool - Uruguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png" group-title="DEPORTES",12:00 - Boston River vs Liverpool - Uruguay
+#EXTINF:-1 group-title="DEPORTES",12:00 - Boston River vs Liverpool - Uruguay
 http://velive.lat:8080/Sarita/Sarita/439423
-#EXTINF:-1 tvg-id="" tvg-name="12:00 - Roland Garros - Evento en Vivo" tvg-logo="https://i.imgur.com/UMWIMAp.png" group-title="DEPORTES",12:00 - Roland Garros - Evento en Vivo
+#EXTINF:-1 group-title="DEPORTES",12:00 - Roland Garros - Evento en Vivo
 http://velive.lat:8080/Sarita/Sarita/439424
-#EXTINF:-1 tvg-id="" tvg-name="12:30 - BBL Bayern vs Bonn - Basket" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ssgkzq1550038219.png" group-title="DEPORTES",12:30 - BBL Bayern vs Bonn - Basket
+#EXTINF:-1 group-title="DEPORTES",12:30 - BBL Bayern vs Bonn - Basket
 http://velive.lat:8080/Sarita/Sarita/439425
-#EXTINF:-1 tvg-id="" tvg-name="12:45 - Austria vs. Túnez - Amistoso" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="DEPORTES",12:45 - Austria vs. Túnez - Amistoso
+#EXTINF:-1 group-title="DEPORTES",12:45 - Austria vs. Túnez - Amistoso
 http://velive.lat:8080/Sarita/Sarita/439426
-#EXTINF:-1 tvg-id="" tvg-name="16:40 - Rays vs Tigers - MLB 01" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",16:40 - Rays vs Tigers - MLB 01
+#EXTINF:-1 group-title="DEPORTES",16:40 - Rays vs Tigers - MLB 01
 http://velive.lat:8080/Sarita/Sarita/439427
-#EXTINF:-1 tvg-id="" tvg-name="16:45 - Nationals vs Marlins - MLB 02" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",16:45 - Nationals vs Marlins - MLB 02
+#EXTINF:-1 group-title="DEPORTES",16:45 - Nationals vs Marlins - MLB 02
 http://velive.lat:8080/Sarita/Sarita/439428
-#EXTINF:-1 tvg-id="" tvg-name="17:00 - Colombia vs Costa Rica - Amistoso" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="DEPORTES",17:00 - Colombia vs Costa Rica - Amistoso
+#EXTINF:-1 group-title="DEPORTES",17:00 - Colombia vs Costa Rica - Amistoso
 http://velive.lat:8080/Sarita/Sarita/439429
-#EXTINF:-1 tvg-id="" tvg-name="17:00 - Curicó U. vs Dep. Antofagasta - Segunda Chile" tvg-logo="https://cdn.footystats.org/img/competitions/chile-primera-b.png" group-title="DEPORTES",17:00 - Curicó U. vs Dep. Antofagasta - Segunda Chile
+#EXTINF:-1 group-title="DEPORTES",17:00 - Curicó U. vs Dep. Antofagasta - Segunda Chile
 http://velive.lat:8080/Sarita/Sarita/439430
-#EXTINF:-1 tvg-id="" tvg-name="17:00 - Dep. Santa Cruz vs Dep. Copiapó - Segunda Chile" tvg-logo="https://cdn.footystats.org/img/competitions/chile-primera-b.png" group-title="DEPORTES",17:00 - Dep. Santa Cruz vs Dep. Copiapó - Segunda Chile
+#EXTINF:-1 group-title="DEPORTES",17:00 - Dep. Santa Cruz vs Dep. Copiapó - Segunda Chile
 http://velive.lat:8080/Sarita/Sarita/439431
-#EXTINF:-1 tvg-id="" tvg-name="17:00 - Peñarol vs Central Español - Uruguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMhrbB2fnxlNQnMLa-CNayvWFEOIW5iOfsQ&s_logo.png" group-title="DEPORTES",17:00 - Peñarol vs Central Español - Uruguay
+#EXTINF:-1 group-title="DEPORTES",17:00 - Peñarol vs Central Español - Uruguay
 http://velive.lat:8080/Sarita/Sarita/439432
-#EXTINF:-1 tvg-id="" tvg-name="17:10 - Reds vs Royals - MLB 03" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",17:10 - Reds vs Royals - MLB 03
+#EXTINF:-1 group-title="DEPORTES",17:10 - Reds vs Royals - MLB 03
 http://velive.lat:8080/Sarita/Sarita/439433
-#EXTINF:-1 tvg-id="" tvg-name="17:40 - Brewers vs Giants - MLB 04" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",17:40 - Brewers vs Giants - MLB 04
+#EXTINF:-1 group-title="DEPORTES",17:40 - Brewers vs Giants - MLB 04
 http://velive.lat:8080/Sarita/Sarita/439434
-#EXTINF:-1 tvg-id="" tvg-name="17:40 - Twins vs White Sox - MLB 05" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",17:40 - Twins vs White Sox - MLB 05
+#EXTINF:-1 group-title="DEPORTES",17:40 - Twins vs White Sox - MLB 05
 http://velive.lat:8080/Sarita/Sarita/439435
-#EXTINF:-1 tvg-id="" tvg-name="17:45 - Cardinals vs Rangers - MLB 06" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",17:45 - Cardinals vs Rangers - MLB 06
+#EXTINF:-1 group-title="DEPORTES",17:45 - Cardinals vs Rangers - MLB 06
 http://velive.lat:8080/Sarita/Sarita/439436
-#EXTINF:-1 tvg-id="" tvg-name="18:00 - Wings vs Storm - WNBA 01" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES",18:00 - Wings vs Storm - WNBA 01
+#EXTINF:-1 group-title="DEPORTES",18:00 - Wings vs Storm - WNBA 01
 http://velive.lat:8080/Sarita/Sarita/439437
-#EXTINF:-1 tvg-id="" tvg-name="19:00 - Canadá vs Uzbekistán - Amistoso" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="DEPORTES",19:00 - Canadá vs Uzbekistán - Amistoso
+#EXTINF:-1 group-title="DEPORTES",19:00 - Canadá vs Uzbekistán - Amistoso
 http://velive.lat:8080/Sarita/Sarita/439438
-#EXTINF:-1 tvg-id="" tvg-name="19:38 - Angels vs Rockies - MLB 07" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",19:38 - Angels vs Rockies - MLB 07
+#EXTINF:-1 group-title="DEPORTES",19:38 - Angels vs Rockies - MLB 07
 http://velive.lat:8080/Sarita/Sarita/439439
-#EXTINF:-1 tvg-id="" tvg-name="19:40 - Diamondbacks vs Dodgers - MLB 08" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",19:40 - Diamondbacks vs Dodgers - MLB 08
+#EXTINF:-1 group-title="DEPORTES",19:40 - Diamondbacks vs Dodgers - MLB 08
 http://velive.lat:8080/Sarita/Sarita/439440
-#EXTINF:-1 tvg-id="" tvg-name="19:40 - Diamondbacks vs Dodgers Español - MLB 09" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",19:40 - Diamondbacks vs Dodgers Español - MLB 09
+#EXTINF:-1 group-title="DEPORTES",19:40 - Diamondbacks vs Dodgers Español - MLB 09
 http://velive.lat:8080/Sarita/Sarita/439441
-#EXTINF:-1 tvg-id="" tvg-name="19:40 - Mariners vs Mets - MLB 10" tvg-logo="https://i.imgur.com/IzQhHP7.png" group-title="DEPORTES",19:40 - Mariners vs Mets - MLB 10
+#EXTINF:-1 group-title="DEPORTES",19:40 - Mariners vs Mets - MLB 10
 http://velive.lat:8080/Sarita/Sarita/439442
-#EXTINF:-1 tvg-id="" tvg-name="19:45 - Monclova vs Laguna - LMB 01 | 01 Junio" tvg-logo="https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png" group-title="DEPORTES",19:45 - Monclova vs Laguna - LMB 01 | 01 Junio
+#EXTINF:-1 group-title="DEPORTES",19:45 - Monclova vs Laguna - LMB 01 | 01 Junio
 http://velive.lat:8080/Sarita/Sarita/439443
-#EXTINF:-1 tvg-id="" tvg-name="20:00 - Lynx vs. Mercury - WNBA 02" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="DEPORTES",20:00 - Lynx vs. Mercury - WNBA 02
+#EXTINF:-1 group-title="DEPORTES",20:00 - Lynx vs. Mercury - WNBA 02
 http://velive.lat:8080/Sarita/Sarita/439444
-#EXTINF:-1 tvg-id="" tvg-name="Canelo Lvarez Vs. Terence Crawford 2025" tvg-logo="" group-title="DEPORTES",Canelo Lvarez Vs. Terence Crawford 2025
-http://velive.lat:8080/movie/Sarita/Sarita/397893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gervonta Davis vs. Lamont Roach (2025)" tvg-logo="" group-title="DEPORTES",Gervonta Davis vs. Lamont Roach (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 305: du Plessis vs. Adesanya (2024)" tvg-logo="" group-title="DEPORTES",UFC 305: du Plessis vs. Adesanya (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 306: O'Malley vs. Dvalishvili (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmAVp5gAVc7HM5w8C4yudYxOwry.jpg" group-title="DEPORTES",UFC 306: O'Malley vs. Dvalishvili (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 307: Pereira vs. Rountree Jr. (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGRneOLMxazqUJBJ1brX3U00W7t.jpg" group-title="DEPORTES",UFC 307: Pereira vs. Rountree Jr. (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 308: Topuria vs. Holloway (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1JnfBPEWgyJx0hccVlZ5IaoBDY.jpg" group-title="DEPORTES",UFC 308: Topuria vs. Holloway (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 309: Jones vs. Miocic (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYgnGTRfkqGhjWgFhZEOZFocSCk.jpg" group-title="DEPORTES",UFC 309: Jones vs. Miocic (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 310: Pantoja vs. Asakura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyTks1vzSisZqhScSIcnD2grROw.jpg" group-title="DEPORTES",UFC 310: Pantoja vs. Asakura (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 311: Makhachev vs. Moicano (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osB5inl8PzaZiC3OYRr2WOepjwr.jpg" group-title="DEPORTES",UFC 311: Makhachev vs. Moicano (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 314: Volkanovski vs. Lopes (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc4IUaPOYvhj8ehrnu4uiXUn4Qn.jpg" group-title="DEPORTES",UFC 314: Volkanovski vs. Lopes (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 315: Muhammad vs. Della Maddalena (2025)" tvg-logo="" group-title="DEPORTES",UFC 315: Muhammad vs. Della Maddalena (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 316: Dvalishvili vs. O'Malley 2 (2025)" tvg-logo="" group-title="DEPORTES",UFC 316: Dvalishvili vs. O'Malley 2 (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 317: Topuria vs. Oliveira (2025)" tvg-logo="" group-title="DEPORTES",UFC 317: Topuria vs. Oliveira (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 318: Holloway vs. Poirier 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7cPZPCO9jo0xxfghfChAWVpjuz.jpg" group-title="DEPORTES",UFC 318: Holloway vs. Poirier 3 (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 319: du Plessis vs. Chimaev (2025)" tvg-logo="" group-title="DEPORTES",UFC 319: du Plessis vs. Chimaev (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/risS8tlRrCqcLGm1pWccdPL4uG9.jpg" group-title="DEPORTES",UFC 320: Ankalaev vs. Pereira 2 (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 242: Burns vs. Brady (2024)" tvg-logo="" group-title="DEPORTES",UFC Fight Night 242: Burns vs. Brady (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 250: Adesanya vs. Imavov (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQdyzQ6Ecu9AhGRQAN5Roww2c7r.jpg" group-title="DEPORTES",UFC Fight Night 250: Adesanya vs. Imavov (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 256: Burns vs. Morales (2025)" tvg-logo="" group-title="DEPORTES",UFC Fight Night 256: Burns vs. Morales (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 257: Walker vs. Zhang (2025)" tvg-logo="" group-title="DEPORTES",UFC Fight Night 257: Walker vs. Zhang (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 259: Lopes vs. Silva (2025)" tvg-logo="" group-title="DEPORTES",UFC Fight Night 259: Lopes vs. Silva (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 261: Oliveira vs. Gamrot (2025)" tvg-logo="" group-title="DEPORTES",UFC Fight Night 261: Oliveira vs. Gamrot (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 68: Gamrot vs. Klein (2025)" tvg-logo="" group-title="DEPORTES",UFC on ESPN 68: Gamrot vs. Klein (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night: Covington vs. Buckley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdQNHiJW2IYSs7XNgedsOWlBZGs.jpg" group-title="DEPORTES",UFC Fight Night: Covington vs. Buckley (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 72: Dolidze vs. Hernandez (2025)" tvg-logo="" group-title="DEPORTES",UFC on ESPN 72: Dolidze vs. Hernandez (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ABC 9: Whittaker vs. de Ridder (2025)" tvg-logo="" group-title="DEPORTES",UFC on ABC 9: Whittaker vs. de Ridder (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 62: Cannonier vs. Borralho (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCrGRhcIh1NB7TwT8xYZqVY6Lql.jpg" group-title="DEPORTES",UFC on ESPN 62: Cannonier vs. Borralho (2024)
-http://velive.lat:8080/movie/Sarita/Sarita/397867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 65: Emmett vs. Murphy (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIziqtXhtaJVqUwnSH9GslTtiNy.jpg" group-title="DEPORTES",UFC on ESPN 65: Emmett vs. Murphy (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 66: Machado Garry vs. Prates (2025)" tvg-logo="" group-title="DEPORTES",UFC on ESPN 66: Machado Garry vs. Prates (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 70: Lewis vs. Teixeira (2025)" tvg-logo="" group-title="DEPORTES",UFC on ESPN 70: Lewis vs. Teixeira (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 71: Taira vs. Park (2025)" tvg-logo="" group-title="DEPORTES",UFC on ESPN 71: Taira vs. Park (2025)
-http://velive.lat:8080/movie/Sarita/Sarita/397863.mp4
-#EXTINF:-1 group-title="DEPORTES",SEÑAL 1
-http://server-d.normielista.stream/NORMIELISTA_EVENTOS-1_1050/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",SEÑAL 2
-http://server-d.normielista.stream/NORMIELISTA_EVENTOS-1_1050/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",SEÑAL 3
-http://server-d.normielista.stream/NORMIELISTA_EVENTOS-1_1050/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",SEÑAL 4
-http://server-d.normielista.stream/NORMIELISTA_EVENTOS-1_1050/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",SEÑAL 5
-https://api-f.streamable.com/api/v1/videos/rcv5jb/mp4
-#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS Ñ MÉXICO
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1854.ts
+#EXTINF:-1 group-title="DEPORTES",ADRENALINA SPORTS HD
+http://velive.lat:8080/Sarita/Sarita/187291
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS  HD
+http://velive.lat:8080/Sarita/Sarita/133632
+#EXTINF:-1 group-title="DEPORTES",beIN SPORTS  ñ
+http://velive.lat:8080/Sarita/Sarita/139896
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS  Ñ HD
+http://velive.lat:8080/Sarita/Sarita/187296
+#EXTINF:-1 group-title="DEPORTES",beIN SPORTS (D)
+http://velive.lat:8080/Sarita/Sarita/139890
 #EXTINF:-1  group-title="DEPORTES",BEIN SPORTS XTRA MÉXICO
 http://45.239.31.254:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",CHV DEPORTES 
-https://redirector.dps.live/hls/chvdeportes/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS XTRA Ñ
+http://velive.lat:8080/Sarita/Sarita/133630
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS XTRA Ñ HD
+http://velive.lat:8080/Sarita/Sarita/139889
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ
+http://velive.lat:8080/Sarita/Sarita/139912
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ HD
+http://velive.lat:8080/Sarita/Sarita/187293
+#EXTINF:-1  group-title="DEPORTES",BEIN SPORTS Ñ MÉXICO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1854.ts
+#EXTINF:-1  group-title="DEPORTES",CANAL CLARO
+http://74.208.30.121/a468/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",CDO
+http://velive.lat:8080/Sarita/Sarita/118623
+#EXTINF:-1 group-title="DEPORTES",CHI | TELETRACK SD
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 group-title="DEPORTES",CL | DSPORT
+http://velive.lat:8080/Sarita/Sarita/154958
+#EXTINF:-1 group-title="DEPORTES",CL | DSPORT 2
+http://velive.lat:8080/Sarita/Sarita/152300
+#EXTINF:-1 group-title="DEPORTES",CL | ESPN 2
+http://velive.lat:8080/Sarita/Sarita/152304
+#EXTINF:-1 group-title="DEPORTES",CL | ESPN 3
+http://velive.lat:8080/Sarita/Sarita/152305
+#EXTINF:-1 group-title="DEPORTES",CL | FOX SPORTS 2
+http://velive.lat:8080/Sarita/Sarita/152057
+#EXTINF:-1 group-title="DEPORTES",CL: Chilevision Deportes
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+http://velive.lat:8080/Sarita/Sarita/187299
+#EXTINF:-1  group-title="DEPORTES",CLARO SPORTS 2 
+http://74.208.30.121/a175/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",DAZN  F1 4K
+http://velive.lat:8080/Sarita/Sarita/134175
+#EXTINF:-1  group-title="DEPORTES",DAZN 1 
+http://domestipo1.online:80/live/FranciscoMunoz/wtsm5YdFYP/221519.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 1 HD (B)
+http://velive.lat:8080/Sarita/Sarita/154585
+#EXTINF:-1  group-title="DEPORTES",DAZN 2
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2361.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 2 FHD
+http://velive.lat:8080/Sarita/Sarita/154586
+#EXTINF:-1 group-title="DEPORTES",DAZN 3
+http://velive.lat:8080/Sarita/Sarita/154587
+#EXTINF:-1  group-title="DEPORTES",DAZN 4
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/226477.ts
+#EXTINF:-1  group-title="DEPORTES",DAZN BALONCESTO 
+http://domestipo1.online:80/live/FranciscoMunoz/wtsm5YdFYP/750200.ts
+#EXTINF:-1  group-title="DEPORTES",DAZN COMBAT
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",DAZN F1
+http://velive.lat:8080/Sarita/Sarita/134172
+#EXTINF:-1 group-title="DEPORTES",DAZN F1 FHD (B)
+http://velive.lat:8080/Sarita/Sarita/154589
+#EXTINF:-1 group-title="DEPORTES",DAZN LA LIGA
+http://velive.lat:8080/Sarita/Sarita/154584
+#EXTINF:-1  group-title="DEPORTES",DAZN MOTO GP
+http://mordor.voohocep.top:8080/live/VIP015061738603220328/fa6bd670afd7/154467.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN MOVISTAR F1 HD
+http://velive.lat:8080/Sarita/Sarita/134173
+#EXTINF:-1  group-title="DEPORTES",DAZN RINGSIDE
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", DEPORTES 13
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
+#EXTINF:-1 group-title="DEPORTES",DSPORTS
+http://velive.lat:8080/Sarita/Sarita/187374
+#EXTINF:-1 group-title="DEPORTES",DSPORTS + HD
+http://velive.lat:8080/Sarita/Sarita/187379
+#EXTINF:-1 group-title="DEPORTES",DSPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES",DSPORTS 2 HD
+http://velive.lat:8080/Sarita/Sarita/187377
+#EXTINF:-1 group-title="DEPORTES",DSPORTS 2 OP2
+http://74.208.30.121/a177/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",DSPORTS ARGENTINA 
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",DSPORTS FIGHT
+http://velive.lat:8080/Sarita/Sarita/187381
 #EXTINF:-1 group-title="DEPORTES",DSPORTS OP2
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES",DSPORTS OP3
 http://74.208.30.121/a176/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",DSPORTS ARGENTINA 
-http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",DSPORTS 2
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES",DSPORTS 2 OP2
-http://74.208.30.121/a177/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES",DSPORTS+
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES",DSPORTS+ OP2
 http://74.208.30.121/a178/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="DEPORTES",ECDF ECUADOR 
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/30154.ts
+#EXTINF:-1 group-title="DEPORTES",ES: DAZN 4
+http://velive.lat:8080/Sarita/Sarita/154591
+#EXTINF:-1 group-title="DEPORTES",ES: DAZN F1
+http://velive.lat:8080/Sarita/Sarita/154588
+#EXTINF:-1 group-title="DEPORTES",ESPN  3 SD
+http://velive.lat:8080/Sarita/Sarita/243093
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://velive.lat:8080/Sarita/Sarita/243074
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 OP2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN2HD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 SD
+http://velive.lat:8080/Sarita/Sarita/243075
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 | MX ❆
+http://velive.lat:8080/Sarita/Sarita/243091
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://velive.lat:8080/Sarita/Sarita/243076
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 OP2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN3HD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 SD
+http://velive.lat:8080/Sarita/Sarita/243077
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://velive.lat:8080/Sarita/Sarita/243078
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 OP2
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNPLUS/hls_fk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 SD
+http://velive.lat:8080/Sarita/Sarita/243079
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
+http://velive.lat:8080/Sarita/Sarita/243080
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 OP2
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/271825.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 SD
+http://velive.lat:8080/Sarita/Sarita/243081
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
+http://velive.lat:8080/Sarita/Sarita/243082
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 OP2
+http://74.208.30.121/a169/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 SD
+http://velive.lat:8080/Sarita/Sarita/243083
+#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
+http://velive.lat:8080/Sarita/Sarita/243084
+#EXTINF:-1 group-title="DEPORTES",ESPN 7 OP2
+http://74.208.30.121/a170/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7 SD
+http://velive.lat:8080/Sarita/Sarita/243085
+#EXTINF:-1 group-title="DEPORTES",ESPN ARGENTINA 
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Brasil
+http://velive.lat:8080/Sarita/Sarita/243094
+#EXTINF:-1 group-title="DEPORTES",ESPN Brasil 2
+http://velive.lat:8080/Sarita/Sarita/243095
+#EXTINF:-1 group-title="DEPORTES",ESPN Brasil 3
+http://velive.lat:8080/Sarita/Sarita/243096
 #EXTINF:-1 group-title="DEPORTES",ESPN CHILE 
 https://tv-mgmt.gtd.cl/bpk-tv/ESPN/default/index.mpd
 #EXTINF:-1 group-title="DEPORTES",ESPN CHILE OP2 
 http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNHD/hls_fk/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN CHILE OP3
 http://190.108.83.69:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN ARGENTINA 
-http://190.7.19.197:232/play/a03n/index.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN COLOMBIA 
 http://190.61.47.54:8000/play/a004/index.m3u8
-#EXTINF:-1  group-title="DEPORTES",ESPN PERÚ
-http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES 1 - USA
+http://velive.lat:8080/Sarita/Sarita/243321
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES 2-USA
+http://velive.lat:8080/Sarita/Sarita/243322
+#EXTINF:-1 group-title="DEPORTES",ESPN extra
+http://velive.lat:8080/Sarita/Sarita/245195
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://velive.lat:8080/Sarita/Sarita/243072
+#EXTINF:-1 group-title="DEPORTES",ESPN Mexico 3 HD
+http://velive.lat:8080/Sarita/Sarita/243092
+#EXTINF:-1 group-title="DEPORTES",ESPN MEXICO SD
+http://velive.lat:8080/Sarita/Sarita/243089
 #EXTINF:-1  group-title="DEPORTES",ESPN MÉXICO 
 http://normielista.stream/ch1106/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 OP2
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN2HD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 OP2
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN3HD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 OP2
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNPLUS/hls_fk/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5 OP2
-http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/271825.ts
-#EXTINF:-1 group-title="DEPORTES",ESPN 6 OP2
-http://74.208.30.121/a169/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7 OP2
-http://74.208.30.121/a170/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM CHILE 
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM CHILE OP2 
-http://45.181.122.46:8090/play/a015
 #EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM ARGENTINA 
 http://138.59.227.20:8000/play/a086/index.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN PREMIUM ARGENTINA OP2 
 http://45.5.149.220:8000/play/a03m/index.m3u8
 #EXTINF:-1  group-title="DEPORTES",ESPN PREMIUM ARGENTINA OP3
 http://74.208.30.121/a172/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="DEPORTES",ECDF ECUADOR 
-http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/30154.ts
-#EXTINF:-1  group-title="DEPORTES",NBA TV 
-https://aca-live-ott.izzigo.tv/7/out/u/dash/NBA-HD-H265/default.mpd
-#EXTINF:-1  group-title="DEPORTES",NFL 
-http://38.194.226.190:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FIFA+
-http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/347520.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM CHILE 
+http://clbpktstvhls-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM CHILE OP2 
+http://45.181.122.46:8090/play/a015
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
+http://velive.lat:8080/Sarita/Sarita/243087
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM OPC 1
+http://velive.lat:8080/Sarita/Sarita/243086
+#EXTINF:-1 group-title="DEPORTES",ESPN SD
+http://velive.lat:8080/Sarita/Sarita/243073
+#EXTINF:-1 group-title="DEPORTES",ESPN SPORTS - F1
+http://velive.lat:8080/Sarita/Sarita/243601
+#EXTINF:-1 group-title="DEPORTES",ESPN UFC EVENTOS
+http://velive.lat:8080/Sarita/Sarita/372015
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 HD
+http://velive.lat:8080/Sarita/Sarita/187330
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 HD
+http://velive.lat:8080/Sarita/Sarita/187333
+#EXTINF:-1 group-title="DEPORTES",F1 - SKY  F1
+http://velive.lat:8080/Sarita/Sarita/243602
 #EXTINF:-1 group-title="DEPORTES",F1 TV FAST CHANNEL 
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES",MLB 
-https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",RALLY TV
-https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
-#EXTINF:-1 group-title="DEPORTES",REDBULL TV
-http://45.239.31.254:8000/play/a01r/index.m3u8u?hls
-#EXTINF:-1 group-title="DEPORTES",OLYMPIC CHANNEL 
-https://ott-dai-oc.akamaized.net/OC1/OC1.m3u8?hdnea=st=1779315124~exp=1779315424~acl=*~id=89776e2f-119a-491d-97f7-8ce773dc32f5~hmac=2d12dc98157cfe7c9989a6f4dc046a1965ad4a339b64f071394218c4cf32271f&originpath=/linear/hls/pa/event/uL3iZD6rQoC4Bg8fWkD56g/stream/ca609e1b-782c-4359-bdb4-36f8b46a4ff8:GRQ/master.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX ONE MÉXICO
-https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX MÉXICO
-http://74.208.30.121/a181/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",F1 | RALLY TV
+http://velive.lat:8080/Sarita/Sarita/387632
+#EXTINF:-1 group-title="DEPORTES",FIFA+
+http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/347520.ts
 #EXTINF:-1 group-title="DEPORTES",FOX DEPORTES MÉXICO 
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM MÉXICO
-http://74.208.30.121/a183/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARGENTINA 
-http://74.208.30.121/a184/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARGENTINA OP2
-http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX MÉXICO
+http://74.208.30.121/a181/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX ONE MÉXICO
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://velive.lat:8080/Sarita/Sarita/187336
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+http://velive.lat:8080/Sarita/Sarita/187339
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 ARGENTINA  
 http://74.208.30.121/a185/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 ARGENTINA OP2
 http://138.59.227.20:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 | 2MB LAT ❆
+http://velive.lat:8080/Sarita/Sarita/316053/velive.lat:8080/Sarita/Sarita/395733
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+http://velive.lat:8080/Sarita/Sarita/187342
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 ARGENTINA
 http://74.208.30.121/a186/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 ARGENTINA OP2 
 http://138.59.227.20:8000/play/a06y/index.m3u8
-#EXTINF:-1  group-title="DEPORTES",TYC SPORTS ARGENTINA 
-http://74.208.30.121/a179/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="DEPORTES",TYC SPORTS ARGENTINA OP2 
-http://138.59.227.20:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TELETRAK 
-http://45.239.31.254:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE 
-https://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE OP2 
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE OP3
-http://flowlive360net.com:80/luisdtvcol-2024/rTBNRDxuqESg/2880.ts
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE 
-https://tv-mgmt.gtd.cl/bpk-tv/CDF_HD/default/index.mpd
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP2
-http://179.63.6.12:9000/play/a06w
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP3
-http://201.230.121.171:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP4
-https://tv-mgmt.gtd.cl/bpk-tv/CDF_HD/default/index.mpd
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP5
-http://190.108.83.69:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARGENTINA 
-http://138.59.227.20:8000/play/a06z/index.m3u8
-#EXTINF:-1  group-title="DEPORTES", TNT SPORTS PREMIUM ARGENTINA OP2
-http://45.5.149.220:8000/play/a03r/index.m3u8
-#EXTINF:-1  group-title="DEPORTES", TNT SPORTS PREMIUM ARGENTINA OP3
-http://flowlive360net.com:80/live/luisdtvcol-2024/rTBNRDxuqESg/3344.ts
-
-#EXTINF:-1 group-title="DEPORTES",UFC
-http://38.210.3.64:8090/play/A01E/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",WWE
-http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/30418.ts
-#EXTINF:-1  group-title="DEPORTES",CANAL CLARO
-http://74.208.30.121/a468/mono.m3u8
-#EXTINF:-1  group-title="DEPORTES",CLARO SPORTS 2 
-http://74.208.30.121/a175/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="DEPORTES",DAZN BALONCESTO 
-http://domestipo1.online:80/live/FranciscoMunoz/wtsm5YdFYP/750200.ts
-#EXTINF:-1  group-title="DEPORTES",DAZN COMBAT
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1  group-title="DEPORTES",DAZN 1 
-http://domestipo1.online:80/live/FranciscoMunoz/wtsm5YdFYP/221519.ts
-#EXTINF:-1  group-title="DEPORTES",DAZN 2
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2361.ts
-#EXTINF:-1  group-title="DEPORTES",DAZN 4
-http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/226477.ts
-#EXTINF:-1  group-title="DEPORTES",DAZN RINGSIDE
-https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-#EXTINF:-1  group-title="DEPORTES",DAZN MOTO GP
-http://mordor.voohocep.top:8080/live/VIP015061738603220328/fa6bd670afd7/154467.ts
-#EXTINF:-1  group-title="DEPORTES",SKY F1
-http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/5448.ts
-#EXTINF:-1  group-title="DEPORTES",SKY BUNDESLIGA 
-https://aca-live-ott.izzigo.tv/8/out/u/dash/SKY-SPORTS-24-HD-H265/default.mpd
-#EXTINF:-1  group-title="DEPORTES",SKY LA LIGA 
-https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
-#EXTINF:-1  group-title="DEPORTES",SKY PREMIER LEAGUE 
-http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/5437.ts
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 3 | PE ❆
+http://velive.lat:8080/Sarita/Sarita/316050
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARGENTINA 
+http://74.208.30.121/a184/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARGENTINA OP2
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM  - F1
+http://velive.lat:8080/Sarita/Sarita/152499
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM MÉXICO
+http://74.208.30.121/a183/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX Sports | CL ❆
+http://velive.lat:8080/Sarita/Sarita/316047
+#EXTINF:-1 group-title="DEPORTES",FOX Sports | PREMIUM
+http://velive.lat:8080/Sarita/Sarita/316049
+#EXTINF:-1 group-title="DEPORTES",FOX UFC EVENTOS
+http://velive.lat:8080/Sarita/Sarita/372017
+#EXTINF:-1 group-title="DEPORTES",GOL TV LATINOAMERICA
+http://velive.lat:8080/Sarita/Sarita/187345
+#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
+http://velive.lat:8080/Sarita/Sarita/187348
+#EXTINF:-1  group-title="DEPORTES",L1 MAX PERÚ 
+http://45.5.57.58:8000/play/a05u/index.m3u8?hls
+#EXTINF:-1  group-title="DEPORTES",L1 PERÚ
+http://45.5.57.58:8000/play/a047/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES",LAT: GOLF CHANNEL LATINOAMERICA ©️
+http://velive.lat:8080/Sarita/Sarita/265895
+#EXTINF:-1 group-title="DEPORTES",MLB 
+https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 #EXTINF:-1  group-title="DEPORTES",MOVISTAR DEPORTES
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1994.ts
 #EXTINF:-1  group-title="DEPORTES",MOVISTAR GOLF
 http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/1988.ts
 #EXTINF:-1  group-title="DEPORTES",MOVISTAR LA LIGA
 https://tv.nube-x.xyz:8443/live/CamiloFernandez3/bpfMvC/1868.ts
-#EXTINF:-1  group-title="DEPORTES",MOVISTAR VAMOS
-https://tv.nube-x.xyz:8443/live/CamiloFernandez3/bpfMvC/123267.ts
 #EXTINF:-1  group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 
 http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/30303.ts
+#EXTINF:-1  group-title="DEPORTES",MOVISTAR VAMOS
+https://tv.nube-x.xyz:8443/live/CamiloFernandez3/bpfMvC/123267.ts
+#EXTINF:-1 group-title="DEPORTES",MUNDIAL 2026 SEÑAL 1
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443023.ts
+#EXTINF:-1 group-title="DEPORTES",MUNDIAL 2026 SEÑAL 2
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443025.ts
+#EXTINF:-1 group-title="DEPORTES",MUNDIAL 2026 SEÑAL 3
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443027.ts
+#EXTINF:-1 group-title="DEPORTES",MUNDIAL 2026 SEÑAL 4
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443029.ts
+#EXTINF:-1 group-title="DEPORTES",MUNDIAL 2026 SEÑAL 5
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443031.ts
+#EXTINF:-1 group-title="DEPORTES",MUNDIAL 2026 SEÑAL 6
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443033.ts
+#EXTINF:-1 group-title="DEPORTES",MX :ESPN 3
+http://velive.lat:8080/Sarita/Sarita/243097
+#EXTINF:-1 group-title="DEPORTES",MX: ESPN 2
+http://velive.lat:8080/Sarita/Sarita/243090
+#EXTINF:-1 group-title="DEPORTES",MX: ESPN HD
+http://velive.lat:8080/Sarita/Sarita/243088
+#EXTINF:-1  group-title="DEPORTES",NBA TV 
+https://aca-live-ott.izzigo.tv/7/out/u/dash/NBA-HD-H265/default.mpd
+#EXTINF:-1  group-title="DEPORTES",NFL 
+http://38.194.226.190:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",OLYMPIC CHANNEL 
+https://ott-dai-oc.akamaized.net/OC1/OC1.m3u8?hdnea=st=1779315124~exp=1779315424~acl=*~id=89776e2f-119a-491d-97f7-8ce773dc32f5~hmac=2d12dc98157cfe7c9989a6f4dc046a1965ad4a339b64f071394218c4cf32271f&originpath=/linear/hls/pa/event/uL3iZD6rQoC4Bg8fWkD56g/stream/ca609e1b-782c-4359-bdb4-36f8b46a4ff8:GRQ/master.m3u8
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+#EXTINF:-1  group-title="DEPORTES", PREMIERE BRASIL 5
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES",RALLY TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",RED BULL TV
+http://velive.lat:8080/Sarita/Sarita/187351
+#EXTINF:-1 group-title="DEPORTES",REDBULL TV
+http://45.239.31.254:8000/play/a01r/index.m3u8u?hls
+#EXTINF:-1 group-title="DEPORTES",S /IKY F1
+http://velive.lat:8080/Sarita/Sarita/134174
+#EXTINF:-1 group-title="DEPORTES",SEGUNDA  CHILE (SOLO EVENTOS)
+http://velive.lat:8080/Sarita/Sarita/429414
+#EXTINF:-1 group-title="DEPORTES",SEGUNDA CHILE 2 (SOLO EVENTOD)
+http://velive.lat:8080/Sarita/Sarita/429415
+#EXTINF:-1 group-title="DEPORTES",SEÑAL 1
+http://server-d.normielista.stream/NORMIELISTA_EVENTOS-1_1050/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",SEÑAL 5
+https://api-f.streamable.com/api/v1/videos/rcv5jb/mp4
+#EXTINF:-1  group-title="DEPORTES",SKY BUNDESLIGA 
+https://aca-live-ott.izzigo.tv/8/out/u/dash/SKY-SPORTS-24-HD-H265/default.mpd
+#EXTINF:-1  group-title="DEPORTES",SKY F1
+http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/5448.ts
+#EXTINF:-1  group-title="DEPORTES",SKY LA LIGA 
+https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
+#EXTINF:-1 group-title="DEPORTES",SKY LIVE EVENT 1 [SKY MX]
+http://velive.lat:8080/Sarita/Sarita/396665
+#EXTINF:-1 group-title="DEPORTES",SKY LIVE EVENT 2 [SKY MX]
+http://velive.lat:8080/Sarita/Sarita/396664
+#EXTINF:-1 group-title="DEPORTES",SKY LIVE EVENT 3 [SKY MX]
+http://velive.lat:8080/Sarita/Sarita/396663
+#EXTINF:-1 group-title="DEPORTES",SKY LIVE EVENT 4 [SKY MX]
+http://velive.lat:8080/Sarita/Sarita/396662
+#EXTINF:-1  group-title="DEPORTES",SKY PREMIER LEAGUE 
+http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/5437.ts
+#EXTINF:-1 group-title="DEPORTES",SKY SPORTS 1 [SKY MX]
+http://velive.lat:8080/Sarita/Sarita/396653
+#EXTINF:-1 group-title="DEPORTES",Sky Sports Golf HQ
+http://velive.lat:8080/Sarita/Sarita/265901
+#EXTINF:-1 group-title="DEPORTES",SKY SPORTS HD
+http://velive.lat:8080/Sarita/Sarita/187353
+#EXTINF:-1  group-title="DEPORTES", SPORT TV 2 BRASIL
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#EXTINF:-1  group-title="DEPORTES", SPORT TV 3 BRASIL
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1  group-title="DEPORTES", SPORT TV BRASIL
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES",SS C2 - F1
+http://velive.lat:8080/Sarita/Sarita/134177
+#EXTINF:-1 group-title="DEPORTES",TENNIS CHANNEL
+http://velive.lat:8080/Sarita/Sarita/187359
+#EXTINF:-1  group-title="DEPORTES",TIGO SPORTS 2 PARAGUAY  
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+#EXTINF:-1  group-title="DEPORTES",TIGO SPORTS PARAGUAY
+https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
+http://velive.lat:8080/Sarita/Sarita/187361
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE 
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE OP2 
+http://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE OP3
+http://flowlive360net.com:80/luisdtvcol-2024/rTBNRDxuqESg/2880.ts
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS MAX 1 (SOLO EVENTOS)
+http://velive.lat:8080/Sarita/Sarita/429417
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS MAX 2 (SOLO EVENTOS)
+http://velive.lat:8080/Sarita/Sarita/429416
+#EXTINF:-1  group-title="DEPORTES", TNT SPORTS PREMIUM ARGENTINA OP2
+http://45.5.149.220:8000/play/a03r/index.m3u8
+#EXTINF:-1  group-title="DEPORTES", TNT SPORTS PREMIUM ARGENTINA OP3
+http://flowlive360net.com:80/live/luisdtvcol-2024/rTBNRDxuqESg/3344.ts
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE 
+https://tv-mgmt.gtd.cl/bpk-tv/CDF_HD/default/index.mpd
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP2
+http://179.63.6.12:9000/play/a06w
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE OP5
+http://190.108.83.69:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN MÉXICO 
+http://138.59.177.78:9999/play/a07z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TV AZTECA DEPORTES MÉXICO 
+http://200.115.96.66:4000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES HD
+http://velive.lat:8080/Sarita/Sarita/187365
+#EXTINF:-1  group-title="DEPORTES",TYC SPORTS ARGENTINA 
+http://74.208.30.121/a179/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="DEPORTES",TYC SPORTS ARGENTINA OP2 
+http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TYC SPORTS HD
+http://velive.lat:8080/Sarita/Sarita/187371
+#EXTINF:-1 group-title="DEPORTES",UFC HD
+http://velive.lat:8080/Sarita/Sarita/187368
+#EXTINF:-1 group-title="DEPORTES",UFC | UFC EVENTOS op1
+http://velive.lat:8080/Sarita/Sarita/208175
+#EXTINF:-1 group-title="DEPORTES",UFC | UFC EVENTOS op2
+http://velive.lat:8080/Sarita/Sarita/208176
+#EXTINF:-1 group-title="DEPORTES",UFC | UFC NETWORK
+http://velive.lat:8080/Sarita/Sarita/137283
+#EXTINF:-1 group-title="DEPORTES",VIX HD
+http://velive.lat:8080/Sarita/Sarita/187387
+#EXTINF:-1 group-title="DEPORTES",VIX TUDN HD
+http://velive.lat:8080/Sarita/Sarita/187363
+#EXTINF:-1 group-title="DEPORTES",Voley libre tv
+http://velive.lat:8080/Sarita/Sarita/377776
+#EXTINF:-1  group-title="DEPORTES",WIN COLOMBIA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1804.ts
+#EXTINF:-1  group-title="DEPORTES",WIN+ COLOMBIA
+http://astra.fibernetisp.com.co/play/a0b2
+#EXTINF:-1 group-title="DEPORTES",WWE
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/30418.ts
+#EXTINF:-1 group-title="DEPORTES",WWE Channel
+http://velive.lat:8080/Sarita/Sarita/421373
+#EXTINF:-1 group-title="DEPORTES",WWE Network
+http://velive.lat:8080/Sarita/Sarita/421372
+#EXTINF:-1 group-title="DEPORTES",WWE NETWORK HD
+http://velive.lat:8080/Sarita/Sarita/187389
+#EXTINF:-1 group-title="DEPORTES",WWE RAW (SOLO EVENTOS)
+http://velive.lat:8080/Sarita/Sarita/421375
+#EXTINF:-1 group-title="DEPORTES",WWE SMACKDOWN (SOLO EVENTOS)
+http://velive.lat:8080/Sarita/Sarita/421374
+#EXTINF:-1 group-title="DEPORTES",ZONA TUDN MÉXICO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/218690.ts
+#EXTINF:-1 group-title="DEPORTES",▶️ TELETRAK HD
+http://velive.lat:8080/Sarita/Sarita/277310
+#EXTINF:-1 group-title="DEPORTES",▶️ZA = PPING OPC 1
+http://velive.lat:8080/Sarita/Sarita/280298
+#EXTINF:-1 group-title="DEPORTES",⚽ CDO 2
+http://velive.lat:8080/Sarita/Sarita/142367
+#EXTINF:-1 group-title="DEPORTES",⚽ CDO BASICO
+http://velive.lat:8080/Sarita/Sarita/135810
+#EXTINF:-1 group-title="DEPORTES",⚽ CHV DEPORTES
+https://redirector.dps.live/hls/chvdeportes/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN 2 4K
+http://velive.lat:8080/Sarita/Sarita/321176
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN 3
+http://velive.lat:8080/Sarita/Sarita/321174
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN 4 4K
+http://velive.lat:8080/Sarita/Sarita/321173
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN 5 4K
+http://velive.lat:8080/Sarita/Sarita/321172
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN 6
+http://velive.lat:8080/Sarita/Sarita/321175
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN 7 4K
+http://velive.lat:8080/Sarita/Sarita/321171
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN DEPORTES 4K
+http://velive.lat:8080/Sarita/Sarita/321170
+#EXTINF:-1 group-title="DEPORTES",⚽ E$PN PREMIUM 4K
+http://velive.lat:8080/Sarita/Sarita/321169
+#EXTINF:-1 group-title="DEPORTES",⚽ ESPN
+http://velive.lat:8080/Sarita/Sarita/152303
+#EXTINF:-1 group-title="DEPORTES",⚽ ESPN 4K
+http://velive.lat:8080/Sarita/Sarita/321167
+#EXTINF:-1 group-title="DEPORTES",⚽ ESPN PREMIUM
+http://velive.lat:8080/Sarita/Sarita/152306
+#EXTINF:-1 group-title="DEPORTES",⚽ EVENTOS BOXEO
+http://velive.lat:8080/Sarita/Sarita/321178
+#EXTINF:-1 group-title="DEPORTES",⚽ FIFA+
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
+#EXTINF:-1 group-title="DEPORTES",⚽ FOX SPORT CHILE
+http://velive.lat:8080/Sarita/Sarita/152122
+#EXTINF:-1 group-title="DEPORTES",⚽ FOX SPORTS 3
+http://velive.lat:8080/Sarita/Sarita/152058
+#EXTINF:-1 group-title="DEPORTES",⚽ FS PREMIUM
+http://velive.lat:8080/Sarita/Sarita/372016
+#EXTINF:-1 group-title="DEPORTES",⚽ FUTV  4K
+http://velive.lat:8080/Sarita/Sarita/321162
+#EXTINF:-1 group-title="DEPORTES",⚽ GOL PERU 4K
+http://velive.lat:8080/Sarita/Sarita/321166
+#EXTINF:-1 group-title="DEPORTES",⚽ LIGA- 2=D OPC 1
+http://velive.lat:8080/Sarita/Sarita/277307
+#EXTINF:-1 group-title="DEPORTES",⚽ LIGA- 2=D OPC 2
+http://velive.lat:8080/Sarita/Sarita/277308
+#EXTINF:-1 group-title="DEPORTES",⚽ MOVISTAR DEPORTES 4K
+http://velive.lat:8080/Sarita/Sarita/321164
+#EXTINF:-1 group-title="DEPORTES",⚽ T & C SPORTS 4K
+http://velive.lat:8080/Sarita/Sarita/321163
+#EXTINF:-1 group-title="DEPORTES",⚽ TELETRAK
+http://45.239.31.254:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",⚽ TENNIS CHANNEL
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347526.ts
+#EXTINF:-1 group-title="DEPORTES",⚽ TNT SPORTS PREMIUM ARG
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",⚽ TNT SPORTS PREMIUM OP3
+http://201.230.121.171:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",⚽ UFC
+http://38.210.3.64:8090/play/A01E/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",⚽ USA UFC Channel
+http://velive.lat:8080/Sarita/Sarita/353413
+#EXTINF:-1 group-title="DEPORTES",⚽ WWE
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2344.ts
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ BASICO  ⚽ 2
+http://velive.lat:8080/Sarita/Sarita/103822
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ BASiCO ⚽ 1
+http://velive.lat:8080/Sarita/Sarita/93799
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ MAX 2
+http://velive.lat:8080/Sarita/Sarita/86176
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ PREMIUM  FHD 1
+http://velive.lat:8080/Sarita/Sarita/1229
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ PREMIUM FHD 2
+http://velive.lat:8080/Sarita/Sarita/1230
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ PREMIUM FHD 3
+http://velive.lat:8080/Sarita/Sarita/1231
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ PREMIUM SD 3
+http://velive.lat:8080/Sarita/Sarita/86357
+#EXTINF:-1 group-title="DEPORTES",⚽ ▶️ TNT/ SPORTS PREM HD2
+http://velive.lat:8080/Sarita/Sarita/1233
+#EXTINF:-1 group-title="DEPORTES",⚽EVENTOS 3⚽ TICKET
+http://velive.lat:8080/Sarita/Sarita/144172
+#EXTINF:-1 group-title="DEPORTES",✅ EVENTOS ▶️ZA = PPING OPC 1
+http://velive.lat:8080/Sarita/Sarita/280353
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN
-http://velive.lat:8080/Sarita/Sarita/369715
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN 2
-http://velive.lat:8080/Sarita/Sarita/369714
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN 3
-http://velive.lat:8080/Sarita/Sarita/369713
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN 4
-http://velive.lat:8080/Sarita/Sarita/369712
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN 5
-http://velive.lat:8080/Sarita/Sarita/369711
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN 6
-http://velive.lat:8080/Sarita/Sarita/369710
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN 7
-http://velive.lat:8080/Sarita/Sarita/369709
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="CINE Y SERIES",ESPN PREMIUM AR
-http://velive.lat:8080/Sarita/Sarita/369708
 # ============== 🎬 CINE Y SERIES ==============
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN
+http://velive.lat:8080/Sarita/Sarita/369715
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN 2
+http://velive.lat:8080/Sarita/Sarita/369714
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN 3
+http://velive.lat:8080/Sarita/Sarita/369713
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN 4
+http://velive.lat:8080/Sarita/Sarita/369712
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN 5
+http://velive.lat:8080/Sarita/Sarita/369711
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN 6
+http://velive.lat:8080/Sarita/Sarita/369710
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN 7
+http://velive.lat:8080/Sarita/Sarita/369709
+#EXTINF:-1 group-title="CINE Y SERIES",ESPN PREMIUM AR
+http://velive.lat:8080/Sarita/Sarita/369708
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE BLACKLIST
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE HITS ACCIÓN 
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE SERIES COMEDIA
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE SERIES THRILLER 
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE ÉXITOS 
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 CINE PREMIUM
 http://191.97.49.82:8001/play/a00u/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 GOLDEN PLUS
@@ -747,33 +805,10 @@ http://38.7.195.43:8000/play/a010/index.m3u8
 http://168.228.44.241:9997/play/a06n/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",🎬 MX PRIME
 http://45.4.3.177:9999/play/a0gn
-#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE ÉXITOS 
-https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE HITS ACCIÓN 
-https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE SERIES THRILLER 
-https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE SERIES COMEDIA
-https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE HITS COMEDIA
-https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE BLACKLIST
-https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+
 # ============== 🎞️ HBO ==============
-#EXTINF:-1 group-title="HBO",🎞️ HBO SD
-http://velive.lat:8080/Sarita/Sarita/187176
-#EXTINF:-1 group-title="HBO",🎞️ HBO 2 HD
-http://velive.lat:8080/Sarita/Sarita/187177
-#EXTINF:-1 group-title="HBO",🎞️ HBO PLUS HD
-http://velive.lat:8080/Sarita/Sarita/187165
-#EXTINF:-1 group-title="HBO",🎞️ HBO POP HD
-http://velive.lat:8080/Sarita/Sarita/187174
-#EXTINF:-1 group-title="HBO",🎞️ HBO XTREME
-http://velive.lat:8080/Sarita/Sarita/187168
 #EXTINF:-1 group-title="HBO",HBO
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
-#EXTINF:-1 group-title="HBO",HBO OP2
-http://190.119.168.226:4000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2
 https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-2-HD/default.mpd
 #EXTINF:-1 group-title="HBO",HBO 2 OP2
@@ -782,6 +817,20 @@ http://45.167.1.139:8000/play/a00i
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
 #EXTINF:-1 group-title="HBO",HBO FAMILY OP2
 http://45.4.3.177:9999/play/a0gi
+#EXTINF:-1 group-title="HBO",HBO MUNDI 
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO MUNDI OP2
+http://38.194.226.190:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO OP2
+http://190.119.168.226:4000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO POP
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO POP OP2
+http://45.4.3.177:9999/play/a0gj
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE OP2
+http://38.194.226.190:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO XTREME
 https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
 #EXTINF:-1 group-title="HBO",HBO XTREME OP2
@@ -790,38 +839,20 @@ http://45.4.3.177:9999/play/a0gh
 https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd
 #EXTINF:-1 group-title="HBO",HBO+ OP2
 http://45.167.1.139:8000/play/a00j
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE OP2
-http://38.194.226.190:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO POP
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
-#EXTINF:-1 group-title="HBO",HBO POP OP2
-http://45.4.3.177:9999/play/a0gj
-#EXTINF:-1 group-title="HBO",HBO MUNDI 
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
-#EXTINF:-1 group-title="HBO",HBO MUNDI OP2
-http://38.194.226.190:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="HBO",🎞️ HBO 2 HD
+http://velive.lat:8080/Sarita/Sarita/187177
+#EXTINF:-1 group-title="HBO",🎞️ HBO PLUS HD
+http://velive.lat:8080/Sarita/Sarita/187165
+#EXTINF:-1 group-title="HBO",🎞️ HBO POP HD
+http://velive.lat:8080/Sarita/Sarita/187174
+#EXTINF:-1 group-title="HBO",🎞️ HBO SD
+http://velive.lat:8080/Sarita/Sarita/187176
+#EXTINF:-1 group-title="HBO",🎞️ HBO XTREME
+http://velive.lat:8080/Sarita/Sarita/187168
+
 # ============== 🌍 UNIVERSAL ==============
-#EXTINF:-1 group-title="UNIVERSAL",🌍 UNIVERSAL CINEMA
-http://8.243.126.131:8000/play/a0de/index.m3u8
-#EXTINF:-1 group-title="UNIVERSAL",🌍 UNIVERSAL OP2
-http://45.181.122.46:8090/play/a01h
-# ============== 🇨🇱 CINE CLÁSICO ==============
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE WESTERN ESPAÑA
-https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ RETRO CINE
-http://45.239.31.254:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="CINE CLASICO",🕰️ MX CLASSIC
-http://45.4.3.177:9999/play/a0gl
 #EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL 
 http://server-c.normielista.stream/OLE_UNIVERSAL-TV_1202/mono.m3u8
-#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL OP2
-http://45.181.122.46:8090/play/a01h
-#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL PREMIERE 
-https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
-#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL PREMIERE OP2
-http://168.228.44.241:9997/play/a011/index.m3u8
 #EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL CINEMA 
 https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 #EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL CINEMA OP2
@@ -834,11 +865,32 @@ http://168.228.44.241:9997/play/a021/index.m3u8
 https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 #EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL CRIME OP2
 http://168.228.44.241:9997/play/a01y/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL PREMIERE 
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+#EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL PREMIERE OP2
+http://168.228.44.241:9997/play/a011/index.m3u8
 #EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL REALITY
 https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 #EXTINF:-1 group-title="UNIVERSAL", UNIVERSAL REALITY OP2
 http://168.228.44.241:9997/play/a01x/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",🌍 UNIVERSAL CINEMA
+http://8.243.126.131:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",🌍 UNIVERSAL OP2
+http://45.181.122.46:8090/play/a01h
+
+# ============== 🕰️ CINE CLÁSICO ==============
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ CINE WESTERN ESPAÑA
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ MX CLASSIC
+http://45.4.3.177:9999/play/a0gl
+#EXTINF:-1 group-title="CINE CLASICO",🕰️ RETRO CINE
+http://45.239.31.254:8000/play/a01e/index.m3u8
+
 # ============== 📺 24/7 ==============
+#EXTINF:-1 group-title="24/7",DRAGON BALL
+http://148.222.231.110:8087/play/a11v/index.m3u8
+#EXTINF:-1 group-title="24/7",LOS SIMPSON
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 #EXTINF:-1 group-title="24/7",📺 31 MINUTOS
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/30223.ts
 #EXTINF:-1 group-title="24/7",📺 BOB ESPONJA
@@ -857,136 +909,134 @@ http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23900.ts
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
 #EXTINF:-1 group-title="24/7",📺 TOM Y JERRY
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
-#EXTINF:-1 tvg-logo="" group-title="24/7",DRAGON BALL
-http://148.222.231.110:8087/play/a11v/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",LOS SIMPSON
-https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
 # ============== 🧸 INFANTIL ==============
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",CANAL INFANTIL
-http://74.208.30.121/a311/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",CARTOONITO
-http://74.208.30.121/a309/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",ETC
-http://74.208.30.121/a315/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="INFANTIL",BABY TV
-http://velive.lat:8080/Sarita/Sarita/1812
-#EXTINF:-1 tvg-id="" tvg-name="BABY FIRTS" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo.png" group-title="INFANTIL",BABY FIRTS
-http://velive.lat:8080/Sarita/Sarita/1811
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIL",CARTOON NETWORK SD
-http://velive.lat:8080/Sarita/Sarita/1816
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIL",CARTOON NETWORK HD
-http://velive.lat:8080/Sarita/Sarita/1817
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL",DISCOVERY KIDS SD
-http://velive.lat:8080/Sarita/Sarita/1819
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dg38us3-c0820ac4-9810-4708-90f8-ce712e5abd60.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGczOHVzMy1jMDgyMGFjNC05ODEwLTQ3MDgtOTBmOC1jZTcxMmU1YWJkNjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OZEoUY659OazyntDQiZFB_0D6V1jSicgmzlbTRDgU9U" group-title="INFANTIL",DISCOVERY KIDS HD
-http://velive.lat:8080/Sarita/Sarita/1820
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://iconape.com/wp-content/files/cu/193260/png/193260.png" group-title="INFANTIL",CARTOONITO HD
-http://velive.lat:8080/Sarita/Sarita/120690
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://w7.pngwing.com/pngs/330/353/png-transparent-disney-channel-logo-the-walt-disney-company-television-channel-television-show-soy-luna-disney-television-blue-text.png" group-title="INFANTIL",DISNEY CHANNEL SD
-http://velive.lat:8080/Sarita/Sarita/1821
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR. SD" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="INFANTIL",DISNEY JR. SD
-http://velive.lat:8080/Sarita/Sarita/1823
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="INFANTIL",DISNEY JR HD
-http://velive.lat:8080/Sarita/Sarita/1824
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-5DEA5FA222-seeklogo.com.png" group-title="INFANTIL",Nickelodeon HD
-http://velive.lat:8080/Sarita/Sarita/1830
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL",NICK JR HD
-http://velive.lat:8080/Sarita/Sarita/1831
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL",NICK HD
-http://velive.lat:8080/Sarita/Sarita/1832
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR ." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="INFANTIL",NICK JR .
-http://velive.lat:8080/Sarita/Sarita/1833
-#EXTINF:-1 tvg-id="" tvg-name="TEENNICK" tvg-logo="https://i.ibb.co/hY6stPK/unnamed.jpg" group-title="INFANTIL",TEENNICK
-http://velive.lat:8080/Sarita/Sarita/1836
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="INFANTIL",TOONCAST
-http://velive.lat:8080/Sarita/Sarita/1837
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL",Boomerang
-http://velive.lat:8080/Sarita/Sarita/152513
-#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://seeklogo.com/images/B/boing-logo-94C1B45C3E-seeklogo.com.png" group-title="INFANTIL",BOING
-http://velive.lat:8080/Sarita/Sarita/1813
-#EXTINF:-1 tvg-id="" tvg-name="PLIN PLIN" tvg-logo="https://i.ibb.co/YcdnNvQ/images-6.jpg" group-title="INFANTIL",PLIN PLIN
-http://velive.lat:8080/Sarita/Sarita/292604
-#EXTINF:-1 tvg-id="" tvg-name="Cine familiar" tvg-logo="https://i.ibb.co/YcdnNvQ/images-6.jpg" group-title="INFANTIL",Cine familiar
-http://velive.lat:8080/Sarita/Sarita/292605
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO BEBE |  KIDS" tvg-logo="https://i.ibb.co/YcdnNvQ/images-6.jpg" group-title="INFANTIL",MUNDO BEBE |  KIDS
-http://velive.lat:8080/Sarita/Sarita/14845
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO BEBE | aventura" tvg-logo="https://i.ibb.co/YcdnNvQ/images-6.jpg" group-title="INFANTIL",MUNDO BEBE | aventura
-http://velive.lat:8080/Sarita/Sarita/14850
 #EXTINF:-1 group-title="INFANTIL",13 KIDS
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 group-title="INFANTIL",BABY FIRTS
+http://velive.lat:8080/Sarita/Sarita/1811
+#EXTINF:-1 group-title="INFANTIL",BABY TV
+http://velive.lat:8080/Sarita/Sarita/1812
+#EXTINF:-1 group-title="INFANTIL",BOING
+http://velive.lat:8080/Sarita/Sarita/1813
+#EXTINF:-1 group-title="INFANTIL",Boomerang
+http://velive.lat:8080/Sarita/Sarita/152513
+#EXTINF:-1 group-title="INFANTIL",CANAL INFANTIL
+http://74.208.30.121/a311/mono.m3u8
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK HD
+http://velive.lat:8080/Sarita/Sarita/1817
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK SD
+http://velive.lat:8080/Sarita/Sarita/1816
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO
+http://74.208.30.121/a309/mono.m3u8
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO HD
+http://velive.lat:8080/Sarita/Sarita/120690
+#EXTINF:-1 group-title="INFANTIL",Cine familiar
+http://velive.lat:8080/Sarita/Sarita/292605
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS HD
+http://velive.lat:8080/Sarita/Sarita/1820
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS SD
+http://velive.lat:8080/Sarita/Sarita/1819
+#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL SD
+http://velive.lat:8080/Sarita/Sarita/1821
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR HD
+http://velive.lat:8080/Sarita/Sarita/1824
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR. SD
+http://velive.lat:8080/Sarita/Sarita/1823
+#EXTINF:-1 group-title="INFANTIL",ETC
+http://74.208.30.121/a315/mono.m3u8
+#EXTINF:-1 group-title="INFANTIL",MUNDO BEBE |  KIDS
+http://velive.lat:8080/Sarita/Sarita/14845
+#EXTINF:-1 group-title="INFANTIL",MUNDO BEBE | aventura
+http://velive.lat:8080/Sarita/Sarita/14850
+#EXTINF:-1 group-title="INFANTIL",NICK HD
+http://velive.lat:8080/Sarita/Sarita/1832
+#EXTINF:-1 group-title="INFANTIL",NICK JR .
+http://velive.lat:8080/Sarita/Sarita/1833
+#EXTINF:-1 group-title="INFANTIL",NICK JR HD
+http://velive.lat:8080/Sarita/Sarita/1831
+#EXTINF:-1 group-title="INFANTIL",Nickelodeon HD
+http://velive.lat:8080/Sarita/Sarita/1830
+#EXTINF:-1 group-title="INFANTIL",PLIN PLIN
+http://velive.lat:8080/Sarita/Sarita/292604
+#EXTINF:-1 group-title="INFANTIL",TEENNICK
+http://velive.lat:8080/Sarita/Sarita/1836
+#EXTINF:-1 group-title="INFANTIL",TOONCAST
+http://velive.lat:8080/Sarita/Sarita/1837
+
 # ============== 📚 CULTURA ==============
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD." tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="CULTURA",ANIMAL Planet HD.
+#EXTINF:-1 group-title="CULTURA",ANIMAL Planet HD.
 http://velive.lat:8080/Sarita/Sarita/269978
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="CULTURA",ANIMAL PLANET SD
+#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET SD
 http://velive.lat:8080/Sarita/Sarita/269987
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/rH5dQg7.png" group-title="CULTURA",Discovery Channel HD
-http://velive.lat:8080/Sarita/Sarita/269955
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/rH5dQg7.png" group-title="CULTURA",Discovery Channel SD
-http://velive.lat:8080/Sarita/Sarita/269956
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/1WnRxe1.png" group-title="CULTURA",Discovery Home & Health HD
-http://velive.lat:8080/Sarita/Sarita/269957
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="https://i.imgur.com/sT49r2R.png" group-title="CULTURA",Discovery Investigation HD
-http://velive.lat:8080/Sarita/Sarita/269958
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="https://i.imgur.com/1WnRxe1.png" group-title="CULTURA",Discovery Home & Health SD
-http://velive.lat:8080/Sarita/Sarita/269959
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation sd" tvg-logo="https://i.imgur.com/sT49r2R.png" group-title="CULTURA",Discovery Investigation sd
-http://velive.lat:8080/Sarita/Sarita/269960
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science HD" tvg-logo="https://i.imgur.com/wLGyQju.png" group-title="CULTURA",DISCOVERY Science HD
-http://velive.lat:8080/Sarita/Sarita/269961
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="https://i.imgur.com/2VvNlps.png" group-title="CULTURA",DISCOVERY Theater HD
-http://velive.lat:8080/Sarita/Sarita/269962
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater sd" tvg-logo="https://i.imgur.com/2VvNlps.png" group-title="CULTURA",DISCOVERY Theater sd
-http://velive.lat:8080/Sarita/Sarita/269963
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo HD" tvg-logo="https://i.imgur.com/pl9uO0a.png" group-title="CULTURA",DISCOVERY Turbo HD
-http://velive.lat:8080/Sarita/Sarita/269964
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World HD" tvg-logo="https://i.imgur.com/0Qb1hxa.png" group-title="CULTURA",DISCOVERY World HD
-http://velive.lat:8080/Sarita/Sarita/269965
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo SD" tvg-logo="https://i.imgur.com/pl9uO0a.png" group-title="CULTURA",DISCOVERY Turbo SD
-http://velive.lat:8080/Sarita/Sarita/269966
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="https://i.imgur.com/0Qb1hxa.png" group-title="CULTURA",DISCOVERY World SD
-http://velive.lat:8080/Sarita/Sarita/269967
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia HD" tvg-logo="https://i.imgur.com/b0iHbhA.png" group-title="CULTURA",Discovery Familia HD
-http://velive.lat:8080/Sarita/Sarita/269969
-#EXTINF:-1 tvg-id="" tvg-name="TLC MEXICO HD" tvg-logo="https://i.imgur.com/2zsspXj.png" group-title="CULTURA",TLC MEXICO HD
-http://velive.lat:8080/Sarita/Sarita/269983
-#EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/2zsspXj.png" group-title="CULTURA",TLC SD
-http://velive.lat:8080/Sarita/Sarita/269984
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment FHD" tvg-logo="https://i.imgur.com/rwcjjhs.png" group-title="CULTURA",E! Entretainment FHD
-http://velive.lat:8080/Sarita/Sarita/269980
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment HD" tvg-logo="https://i.imgur.com/rwcjjhs.png" group-title="CULTURA",E! Entretainment HD
-http://velive.lat:8080/Sarita/Sarita/269981
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/Tfw7oaU.png" group-title="CULTURA",HISTORY HD
-http://velive.lat:8080/Sarita/Sarita/269971
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/Tfw7oaU.png" group-title="CULTURA",HISTORY SD
-http://velive.lat:8080/Sarita/Sarita/269972
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://i.imgur.com/GRWFcpq.png" group-title="CULTURA",History 2 HD
-http://velive.lat:8080/Sarita/Sarita/269973
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="https://i.imgur.com/APItKTW.png" group-title="CULTURA",NATGEO HD
-http://velive.lat:8080/Sarita/Sarita/269974
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO SD" tvg-logo="https://i.imgur.com/APItKTW.png" group-title="CULTURA",NATGEO SD
-http://velive.lat:8080/Sarita/Sarita/269975
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD" tvg-logo="https://i.imgur.com/6kVMdtI.png" group-title="CULTURA",NATGEO WILD FHD
-http://velive.lat:8080/Sarita/Sarita/269976
-#EXTINF:-1 tvg-id="" tvg-name="LOVE  NATURALEZA" tvg-logo="https://i.imgur.com/752GR4Q.png" group-title="CULTURA",LOVE  NATURALEZA
-http://velive.lat:8080/Sarita/Sarita/269979
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/Z66BTt0.png" group-title="CULTURA",EL GOURMET
-http://velive.lat:8080/Sarita/Sarita/269970
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD." tvg-logo="https://i.imgur.com/f9kDoYE.png" group-title="CULTURA",CANAL COCINA HD.
-http://velive.lat:8080/Sarita/Sarita/269982
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://i.imgur.com/NmgQ5Pe.png" group-title="CULTURA",HGTV FHD
-http://velive.lat:8080/Sarita/Sarita/269985
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/MQfrHGk.png" group-title="CULTURA",LIFETIME HD
-http://velive.lat:8080/Sarita/Sarita/269986
-#EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL" tvg-logo="https://i.imgur.com/O8uHKdA.png" group-title="CULTURA",DW ESPAÑOL
-http://velive.lat:8080/Sarita/Sarita/269988
-#EXTINF:-1 tvg-id="" tvg-name="EN | Food Network HD" tvg-logo="https://i.imgur.com/KraZ2Qb.png" group-title="CULTURA",EN | Food Network HD
-http://velive.lat:8080/Sarita/Sarita/273870
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV MEXICO FHD" tvg-logo="https://i.imgur.com/ImFdyUz.png" group-title="CULTURA",HOLA TV MEXICO FHD
-http://velive.lat:8080/Sarita/Sarita/275821
 #EXTINF:-1 group-title="CULTURA",CANAL 13 CULTURA
 http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/93965.ts
-# ============== 🎉 ENTRETENIMIENTO ==============
-# ============== MÚSICA ==============
+#EXTINF:-1 group-title="CULTURA",CANAL COCINA HD.
+http://velive.lat:8080/Sarita/Sarita/269982
+#EXTINF:-1 group-title="CULTURA",Discovery Channel HD
+http://velive.lat:8080/Sarita/Sarita/269955
+#EXTINF:-1 group-title="CULTURA",Discovery Channel SD
+http://velive.lat:8080/Sarita/Sarita/269956
+#EXTINF:-1 group-title="CULTURA",Discovery Familia HD
+http://velive.lat:8080/Sarita/Sarita/269969
+#EXTINF:-1 group-title="CULTURA",Discovery Home & Health HD
+http://velive.lat:8080/Sarita/Sarita/269957
+#EXTINF:-1 group-title="CULTURA",Discovery Home & Health SD
+http://velive.lat:8080/Sarita/Sarita/269959
+#EXTINF:-1 group-title="CULTURA",Discovery Investigation HD
+http://velive.lat:8080/Sarita/Sarita/269958
+#EXTINF:-1 group-title="CULTURA",Discovery Investigation sd
+http://velive.lat:8080/Sarita/Sarita/269960
+#EXTINF:-1 group-title="CULTURA",DISCOVERY Science HD
+http://velive.lat:8080/Sarita/Sarita/269961
+#EXTINF:-1 group-title="CULTURA",DISCOVERY Theater HD
+http://velive.lat:8080/Sarita/Sarita/269962
+#EXTINF:-1 group-title="CULTURA",DISCOVERY Theater sd
+http://velive.lat:8080/Sarita/Sarita/269963
+#EXTINF:-1 group-title="CULTURA",DISCOVERY Turbo HD
+http://velive.lat:8080/Sarita/Sarita/269964
+#EXTINF:-1 group-title="CULTURA",DISCOVERY Turbo SD
+http://velive.lat:8080/Sarita/Sarita/269966
+#EXTINF:-1 group-title="CULTURA",DISCOVERY World HD
+http://velive.lat:8080/Sarita/Sarita/269965
+#EXTINF:-1 group-title="CULTURA",DISCOVERY World SD
+http://velive.lat:8080/Sarita/Sarita/269967
+#EXTINF:-1 group-title="CULTURA",DW ESPAÑOL
+http://velive.lat:8080/Sarita/Sarita/269988
+#EXTINF:-1 group-title="CULTURA",E! Entretainment FHD
+http://velive.lat:8080/Sarita/Sarita/269980
+#EXTINF:-1 group-title="CULTURA",E! Entretainment HD
+http://velive.lat:8080/Sarita/Sarita/269981
+#EXTINF:-1 group-title="CULTURA",EL GOURMET
+http://velive.lat:8080/Sarita/Sarita/269970
+#EXTINF:-1 group-title="CULTURA",EN | Food Network HD
+http://velive.lat:8080/Sarita/Sarita/273870
+#EXTINF:-1 group-title="CULTURA",HGTV FHD
+http://velive.lat:8080/Sarita/Sarita/269985
+#EXTINF:-1 group-title="CULTURA",History 2 HD
+http://velive.lat:8080/Sarita/Sarita/269973
+#EXTINF:-1 group-title="CULTURA",HISTORY HD
+http://velive.lat:8080/Sarita/Sarita/269971
+#EXTINF:-1 group-title="CULTURA",HISTORY SD
+http://velive.lat:8080/Sarita/Sarita/269972
+#EXTINF:-1 group-title="CULTURA",HOLA TV MEXICO FHD
+http://velive.lat:8080/Sarita/Sarita/275821
+#EXTINF:-1 group-title="CULTURA",LIFETIME HD
+http://velive.lat:8080/Sarita/Sarita/269986
+#EXTINF:-1 group-title="CULTURA",LOVE  NATURALEZA
+http://velive.lat:8080/Sarita/Sarita/269979
+#EXTINF:-1 group-title="CULTURA",NATGEO HD
+http://velive.lat:8080/Sarita/Sarita/269974
+#EXTINF:-1 group-title="CULTURA",NATGEO SD
+http://velive.lat:8080/Sarita/Sarita/269975
+#EXTINF:-1 group-title="CULTURA",NATGEO WILD FHD
+http://velive.lat:8080/Sarita/Sarita/269976
+#EXTINF:-1 group-title="CULTURA",TLC MEXICO HD
+http://velive.lat:8080/Sarita/Sarita/269983
+#EXTINF:-1 group-title="CULTURA",TLC SD
+http://velive.lat:8080/Sarita/Sarita/269984
+
+# ============== 🎵 MÚSICA ==============
 #EXTINF:-1 group-title="MÚSICA",CUMBIA TV
 http://181.79.86.130:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="MÚSICA",RITMOS INOLVIDABLES
@@ -997,4 +1047,84 @@ http://190.93.229.30:8000/play/a07t/index.m3u8
 http://186.33.3.130:5000/play/a0jq/index.m3u8
 #EXTINF:-1 group-title="MÚSICA",VIA X 2
 http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-# ============== EMISORA ==============
+# ============== 🎵 EMISORA ==============
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",ADN
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csmx40DMtQj2UOPDSpqzAOUulgLY0051FG2wUxC_oCZ2mW/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", AGRICULTURA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmzyXsmmb9T99eHlQmLV17ul9AVYLhvJ9JcPA9xn2ApKY/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", ACTIVA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm5rLnrng_i7zL4oKqX3f7NTZqvH8XHS_0CUq5UoKk7Qk/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",BIO BIO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm8kwaySQQdVP5AM5afBZshs0pgodESDdye3XFuylRdxa/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", COOPERATIVA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm747zvFwML-MZaOeXLyuybLaNTNXVVq9TLFtCYa4R-Z-/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", CORAZÓN 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm92AIFnbtlw1qg2uK_3xIHjfttWMZo85FRsSfmY3tisx/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", DISNEY 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm8eqr1dQB4rJGTFY3mcRuypb2FUyXvzttJx3XzpXBacw/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",EL CONQUISTADOR 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csmwb0U9oG3An5q5OrQ0XopkWsr9p7mJF91xb_1dWJg6ed/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", FUTURO 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm_JYI56IX2IzCDRuJuUrpIgH6GXFELvlehGLcUmLjj1f/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",FM DOS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm4bUNXZQaUCTWoGMdDr0_bBH2AbWeLIjai6iUuAmG1ka/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",FM PLUS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm2ovgxcJnEby5XzK_CLGRQVFmZhShfSh63YJLTl1gQTM/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",IMAGINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm_xytrgpN5YDVqCPJdch1Gr323Taq2RpR6Tjfv_a31uQ/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",LOS 40
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm6GuxixE5M3MvvsIMpx2vBG_A4qEQgUMLc9ZKEWZ5gV6/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",ROCK & POP
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm2aHJ-3OuTmlehlCUW9Tyw_mq5dii2VqSg2ZH0GN_s2w/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", ROMÁNTICA 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm53Ny3oleox609m0c2A4Fpbq-WESDkbtcG89MVy7KriD/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",PAUTA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmyvXFzKAgw97RM-mJGkBozScmqlIVB3e_A-boGm3x4xQ/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",PORTALES
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm_syjFssCl9N6o0J9xNmJ8kJw7_cUUoCtdv6QK6ATbXs/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA", PUDAHUEL 
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmxVMKqhJ2EGKc3dzZjQWzzf-Mct20C8jH-0KN8Omo_me/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",PLAY
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmyAF6cgnsnOG8Cj-k577dZGGJy-n0aFYdGj8DN5mr1zt/m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="EMISORA",SONAR
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csmz5km7JbvtDHu8rIl7OeEl1LSkRDe4y0dyIqC1CN_pmr/m3u8
+

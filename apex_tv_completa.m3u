@@ -4,7 +4,7 @@
 # ============================================================
 
 # ============== 🏠 NACIONALES ==============
-#EXTINF:-1 tvg-id="CHV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CHV_logo.svg/320px-CHV_logo.svg.png" group-title="NACIONALES",🏠 CHV NOTICIAS
+#EXTINF:-1 tvg-id="CHV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CHV_logo.svg/320px-CHV_logo.svg.png" group-title="NACIONALES",CHV NOTICIAS
 http://server-d.normielista.stream/CHV_CHV_NOTICIAS_1023/mono.m3u8
 #EXTINF:-1 tvg-id="CHV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CHV_logo.svg/320px-CHV_logo.svg.png" group-title="NACIONALES",🏠 CHV HD (OPC 1)
 http://velive.lat:8080/Sarita/Sarita/104304

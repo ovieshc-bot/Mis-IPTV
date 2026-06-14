@@ -1,1 +1,484 @@
 
+#EXTM3U
+# ============================================================
+# APEX TV - LISTA SIN LOGOS (SOLO CANALES)
+# ============================================================
+
+# ============== NACIONALES ==============
+#EXTINF:-1 group-title="NACIONALES",CHV NOTICIAS
+http://server-d.normielista.stream/CHV_CHV_NOTICIAS_1023/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",CHV HD (OPC 1)
+http://velive.lat:8080/Sarita/Sarita/104304
+#EXTINF:-1 group-title="NACIONALES",CHV HD (OPC 2)
+http://170.247.204.9:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",CHV HD (GTD DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/CHV/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",CHV CONTIGO
+http://38.7.197.119:4000/play/a007/index.m3u8
+
+#EXTINF:-1 group-title="NACIONALES",MEGA NOTICIAS
+http://server-d.normielista.stream/MEGAMEDIA_MEGANOTICIAS_1022/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",MEGA HD (OPC 1)
+http://velive.lat:8080/Sarita/Sarita/118318
+#EXTINF:-1 group-title="NACIONALES",MEGA HD (OPC 2)
+http://179.1.158.52:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="NACIONALES",MEGA HD (GTD DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/MEGA/default/index.mpd
+
+#EXTINF:-1 group-title="NACIONALES",CANAL 13 HD (OPC 1)
+http://server-d.normielista.stream/ANATEL_CANAL_13_1013/mono.m3u8
+#EXTINF:-1 group-title="NACIONALES",CANAL 13 HD (GTD DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/C13/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",13 CULTURA
+http://velive.lat:8080/Sarita/Sarita/138774
+#EXTINF:-1 group-title="NACIONALES",13 REC
+http://velive.lat:8080/Sarita/Sarita/184073
+
+#EXTINF:-1 group-title="NACIONALES",TVN HD (OPC1)
+http://velive.lat:8080/Sarita/Sarita/292128
+#EXTINF:-1 group-title="NACIONALES",TVN HD (OPC 2)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={}
+#EXTVLCOPT:http-referrer=https://gtdtv.gtd.cl/
+https://tv-mgmt.gtd.cl/bpk-tv/TVNCHILE/default/index.mpd
+#EXTINF:-1 group-title="NACIONALES",TVN3 Novelas
+http://velive.lat:8080/Sarita/Sarita/292124
+
+#EXTINF:-1 group-title="NACIONALES",CNN CHILE
+http://velive.lat:8080/Sarita/Sarita/277068
+
+#EXTINF:-1 group-title="NACIONALES",LA RED
+http://server-d.normielista.stream/ANATEL_LA-RED_1004/mono.m3u8
+
+#EXTINF:-1 group-title="NACIONALES",BIO BIO TV
+http://server-d.normielista.stream/RDT_BIOBIO_TV_1035/mono.m3u8
+
+# ============== DEPORTES ==============
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://velive.lat:8080/Sarita/Sarita/243072
+#EXTINF:-1 group-title="DEPORTES",ESPN HD CHILE
+http://190.108.83.69:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://velive.lat:8080/Sarita/Sarita/243074
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD (OP)
+http://velive.lat:8080/Sarita/Sarita/152304
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://velive.lat:8080/Sarita/Sarita/243076
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://velive.lat:8080/Sarita/Sarita/243078
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://velive.lat:8080/Sarita/Sarita/321173
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
+http://velive.lat:8080/Sarita/Sarita/243080
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD (OPC)
+http://velive.lat:8080/Sarita/Sarita/321172
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
+http://velive.lat:8080/Sarita/Sarita/243082
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD (OPC)
+http://velive.lat:8080/Sarita/Sarita/321175
+#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
+http://velive.lat:8080/Sarita/Sarita/243084
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM
+http://velive.lat:8080/Sarita/Sarita/243086
+#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA
+http://velive.lat:8080/Sarita/Sarita/245195
+#EXTINF:-1 group-title="DEPORTES",ESPN ARGENTINA
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM ARGENTINA
+http://138.59.227.20:8000/play/a086/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE
+http://velive.lat:8080/Sarita/Sarita/187361
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS CHILE 2
+http://flowlive360net.com:80/luisdtvcol-2024/rTBNRDxuqESg/2880.ts
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS BASICO
+http://velive.lat:8080/Sarita/Sarita/103822
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM CHILE
+http://190.108.83.69:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARG (OPC 1)
+http://velive.lat:8080/Sarita/Sarita/1229
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS PREMIUM ARG (OPC 4)
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://velive.lat:8080/Sarita/Sarita/152122
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS VIVO
+http://velive.lat:8080/Sarita/Sarita/187336
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS CHILE
+http://velive.lat:8080/Sarita/Sarita/316047
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 ARG
+http://velive.lat:8080/Sarita/Sarita/187339
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 ARG (OPC)
+http://138.59.227.20:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+http://velive.lat:8080/Sarita/Sarita/152058
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 EXTREMO
+http://velive.lat:8080/Sarita/Sarita/187342
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+http://velive.lat:8080/Sarita/Sarita/316050
+
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS HD
+http://velive.lat:8080/Sarita/Sarita/133632
+#EXTINF:-1 group-title="DEPORTES",CANAL CLARO
+http://74.208.30.121/a468/mono.m3u8
+#EXTINF:-1 group-title="DEPORTES",CDO
+http://velive.lat:8080/Sarita/Sarita/118623
+#EXTINF:-1 group-title="DEPORTES",CDO 2
+http://velive.lat:8080/Sarita/Sarita/142367
+#EXTINF:-1 group-title="DEPORTES",CHV DEPORTES
+https://redirector.dps.live/hls/chvdeportes/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",DAZN 1
+http://domestipo1.online:80/live/FranciscoMunoz/wtsm5YdFYP/221519.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 2
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/2361.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN F1
+http://velive.lat:8080/Sarita/Sarita/134172
+#EXTINF:-1 group-title="DEPORTES",DAZN F1 4K
+http://velive.lat:8080/Sarita/Sarita/134175
+#EXTINF:-1 group-title="DEPORTES",DAZN LA LIGA
+http://velive.lat:8080/Sarita/Sarita/154584
+#EXTINF:-1 group-title="DEPORTES",DEPORTES 13
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/225019.ts
+#EXTINF:-1 group-title="DEPORTES",DSPORTS
+http://velive.lat:8080/Sarita/Sarita/187374
+#EXTINF:-1 group-title="DEPORTES",DSPORTS ARGENTINA
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",DSPORTS FIGHT
+http://velive.lat:8080/Sarita/Sarita/187381
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 HD
+http://velive.lat:8080/Sarita/Sarita/187330
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 HD
+http://velive.lat:8080/Sarita/Sarita/187333
+#EXTINF:-1 group-title="DEPORTES",EVENTOS BOXEO
+http://velive.lat:8080/Sarita/Sarita/321178
+#EXTINF:-1 group-title="DEPORTES",F1 RALLY TV
+http://velive.lat:8080/Sarita/Sarita/387632
+#EXTINF:-1 group-title="DEPORTES",FIFA+
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/347520.ts
+#EXTINF:-1 group-title="DEPORTES",MOVISTAR DEPORTES
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/1994.ts
+#EXTINF:-1 group-title="DEPORTES",MOVISTAR GOLF
+http://xdplayer.tv:8080/live/hectormu21/9YtRYyFEqc/1988.ts
+#EXTINF:-1 group-title="DEPORTES",NFL
+http://38.194.226.190:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",RALLY TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",TELETRAK
+http://45.239.31.254:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TENNIS CHANNEL
+http://velive.lat:8080/Sarita/Sarita/187359
+#EXTINF:-1 group-title="DEPORTES",TUDN MÉXICO
+http://138.59.177.78:9999/play/a07z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES HD
+http://velive.lat:8080/Sarita/Sarita/187365
+#EXTINF:-1 group-title="DEPORTES",TYC SPORTS
+http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TYC SPORTS HD
+http://velive.lat:8080/Sarita/Sarita/187371
+#EXTINF:-1 group-title="DEPORTES",UFC
+http://38.210.3.64:8090/play/A01E/index.m3u8
+
+# ============== CINE Y SERIES ==============
+#EXTINF:-1 group-title="CINE Y SERIES",CINE PREMIUM
+http://191.97.49.82:8001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PLUS
+http://38.7.195.43:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN PREMIERE 2
+http://168.228.44.241:9997/play/a06n/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",MX PRIME
+http://45.4.3.177:9999/play/a0gn
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE BLACKLIST
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE HITS ACCIÓN
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE SERIES COMEDIA
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE SERIES THRILLER
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SONY ONE ÉXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+
+# ============== HBO ==============
+#EXTINF:-1 group-title="HBO",HBO (OPC 1)
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO (OPC 2)
+http://190.119.168.226:4000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO SD
+http://velive.lat:8080/Sarita/Sarita/187176
+#EXTINF:-1 group-title="HBO",HBO 2 (OPC 1)
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-2-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO 2 (OPC 2)
+http://45.167.1.139:8000/play/a00i
+#EXTINF:-1 group-title="HBO",HBO 2 HD
+http://velive.lat:8080/Sarita/Sarita/187177
+#EXTINF:-1 group-title="HBO",HBO PLUS (OPC 1)
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO PLUS (OPC 2)
+http://45.167.1.139:8000/play/a00j
+#EXTINF:-1 group-title="HBO",HBO PLUS HD
+http://velive.lat:8080/Sarita/Sarita/187165
+#EXTINF:-1 group-title="HBO",HBO FAMILY (OPC 1)
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO FAMILY (OPC 2)
+http://45.4.3.177:9999/play/a0gi
+#EXTINF:-1 group-title="HBO",HBO MUNDI (OPC 1)
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO MUNDI (OPC 2)
+http://38.194.226.190:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO POP (OPC 1)
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO POP (OPC 2)
+http://45.4.3.177:9999/play/a0gj
+#EXTINF:-1 group-title="HBO",HBO POP HD
+http://velive.lat:8080/Sarita/Sarita/187174
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE (OPC 1)
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE (OPC 2)
+http://38.194.226.190:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO XTREME (OPC 1)
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
+#EXTINF:-1 group-title="HBO",HBO XTREME (OPC 2)
+http://45.4.3.177:9999/play/a0gh
+#EXTINF:-1 group-title="HBO",HBO XTREME HD
+http://velive.lat:8080/Sarita/Sarita/187168
+
+# ============== UNIVERSAL ==============
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL (OPC 1)
+http://server-c.normielista.stream/OLE_UNIVERSAL-TV_1202/mono.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL (OPC 2)
+http://45.181.122.46:8090/play/a01h
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA (OPC 1)
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA (OPC 2)
+http://38.187.23.44:5000/play/a020/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CINEMA (OPC 3)
+http://8.243.126.131:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY (OPC 1)
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL COMEDY (OPC 2)
+http://168.228.44.241:9997/play/a021/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CRIME (OPC 1)
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL CRIME (OPC 2)
+http://168.228.44.241:9997/play/a01y/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIERE (OPC 1)
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL PREMIERE (OPC 2)
+http://168.228.44.241:9997/play/a011/index.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL REALITY (OPC 1)
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+#EXTINF:-1 group-title="UNIVERSAL",UNIVERSAL REALITY (OPC 2)
+http://168.228.44.241:9997/play/a01x/index.m3u8
+
+# ============== CINE CLASICO ==============
+#EXTINF:-1 group-title="CINE CLASICO",ARTFLIX MOVIE CLASSICS
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE FAMILIAR
+http://138.204.12.14:40000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE HISPANO
+http://138.204.12.14:40000/play/a0nj/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CINE WESTERN ESPAÑA
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CLASSIC CINEMA P
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",CLASSIC+
+http://179.63.6.12:9000/play/a05u
+#EXTINF:-1 group-title="CINE CLASICO",FILMRISE WESTERNS
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",GRJNGO WESTERN MOVIES
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",MX CLASSIC
+http://45.4.3.177:9999/play/a0gl
+#EXTINF:-1 group-title="CINE CLASICO",PASIONES HD
+http://138.204.12.14:40000/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",RCN NOVELAS HD
+http://138.204.12.14:40000/play/a0pg/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",RETRO CINE
+http://45.239.31.254:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",THE FILM DETECTIVE
+https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE CLASICO",XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+# ============== INFANTIL ==============
+#EXTINF:-1 group-title="INFANTIL",13 KIDS
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 group-title="INFANTIL",BABY FIRST
+http://velive.lat:8080/Sarita/Sarita/1811
+#EXTINF:-1 group-title="INFANTIL",BABY TV
+http://velive.lat:8080/Sarita/Sarita/1812
+#EXTINF:-1 group-title="INFANTIL",BOING
+http://velive.lat:8080/Sarita/Sarita/1813
+#EXTINF:-1 group-title="INFANTIL",BOOMERANG
+http://velive.lat:8080/Sarita/Sarita/152513
+#EXTINF:-1 group-title="INFANTIL",CANAL INFANTIL
+http://74.208.30.121/a311/mono.m3u8
+#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK HD
+http://velive.lat:8080/Sarita/Sarita/1817
+#EXTINF:-1 group-title="INFANTIL",CARTOONITO
+http://74.208.30.121/a309/mono.m3u8
+#EXTINF:-1 group-title="INFANTIL",CINE FAMILIAR
+http://velive.lat:8080/Sarita/Sarita/292605
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS HD
+http://velive.lat:8080/Sarita/Sarita/1820
+#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL SD
+http://velive.lat:8080/Sarita/Sarita/1821
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR HD
+http://velive.lat:8080/Sarita/Sarita/1824
+#EXTINF:-1 group-title="INFANTIL",ETC
+http://74.208.30.121/a315/mono.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICKELODEON HD
+http://velive.lat:8080/Sarita/Sarita/1832
+#EXTINF:-1 group-title="INFANTIL",NICK JR
+http://velive.lat:8080/Sarita/Sarita/1833
+#EXTINF:-1 group-title="INFANTIL",PLIM PLIM
+http://velive.lat:8080/Sarita/Sarita/292604
+#EXTINF:-1 group-title="INFANTIL",TEENNICK
+http://velive.lat:8080/Sarita/Sarita/1836
+#EXTINF:-1 group-title="INFANTIL",TOONCAST
+http://velive.lat:8080/Sarita/Sarita/1837
+
+# ============== 24/7 ==============
+#EXTINF:-1 group-title="24/7",31 MINUTOS
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/30223.ts
+#EXTINF:-1 group-title="24/7",BOB ESPONJA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23815.ts
+#EXTINF:-1 group-title="24/7",CHAVO DEL 8
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:-1 group-title="24/7",CHESPIRITO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23818.ts
+#EXTINF:-1 group-title="24/7",DRAGON BALL
+http://148.222.231.110:8087/play/a11v/index.m3u8
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23849.ts
+#EXTINF:-1 group-title="24/7",HEY ARNOLD
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23823.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSON
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+#EXTINF:-1 group-title="24/7",MALCOLM
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23900.ts
+#EXTINF:-1 group-title="24/7",MEA CULPA
+http://dctv.pro:2082/live/Axelben1/Axelben11/114641.ts
+#EXTINF:-1 group-title="24/7",NARUTO
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23827.ts
+#EXTINF:-1 group-title="24/7",TOM Y JERRY
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/23839.ts
+
+# ============== CULTURA ==============
+#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET HD
+http://velive.lat:8080/Sarita/Sarita/269978
+#EXTINF:-1 group-title="CULTURA",CANAL 13 CULTURA
+http://xdplayer.tv:8080/live/FIGUEROA24/ac8KqkA9DM/93965.ts
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL HD
+http://velive.lat:8080/Sarita/Sarita/269955
+#EXTINF:-1 group-title="CULTURA",DISCOVERY HOME & HEALTH HD
+http://velive.lat:8080/Sarita/Sarita/269957
+#EXTINF:-1 group-title="CULTURA",DISCOVERY ID HD
+http://velive.lat:8080/Sarita/Sarita/269958
+#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE HD
+http://velive.lat:8080/Sarita/Sarita/269961
+#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER HD
+http://velive.lat:8080/Sarita/Sarita/269962
+#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO HD
+http://velive.lat:8080/Sarita/Sarita/269964
+#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD HD
+http://velive.lat:8080/Sarita/Sarita/269965
+#EXTINF:-1 group-title="CULTURA",DW ESPAÑOL
+http://velive.lat:8080/Sarita/Sarita/269988
+#EXTINF:-1 group-title="CULTURA",E! ENTERTAINMENT HD
+http://velive.lat:8080/Sarita/Sarita/269981
+#EXTINF:-1 group-title="CULTURA",EL GOURMET
+http://velive.lat:8080/Sarita/Sarita/269970
+#EXTINF:-1 group-title="CULTURA",FOOD NETWORK HD
+http://velive.lat:8080/Sarita/Sarita/273870
+#EXTINF:-1 group-title="CULTURA",HISTORY HD
+http://velive.lat:8080/Sarita/Sarita/269971
+#EXTINF:-1 group-title="CULTURA",HISTORY 2 HD
+http://velive.lat:8080/Sarita/Sarita/269973
+#EXTINF:-1 group-title="CULTURA",HOLA TV HD
+http://velive.lat:8080/Sarita/Sarita/275821
+#EXTINF:-1 group-title="CULTURA",LIFETIME HD
+http://velive.lat:8080/Sarita/Sarita/269986
+#EXTINF:-1 group-title="CULTURA",LOVE NATURE
+http://velive.lat:8080/Sarita/Sarita/269979
+#EXTINF:-1 group-title="CULTURA",NAT GEO HD
+http://velive.lat:8080/Sarita/Sarita/269974
+#EXTINF:-1 group-title="CULTURA",NAT GEO WILD HD
+http://velive.lat:8080/Sarita/Sarita/269976
+#EXTINF:-1 group-title="CULTURA",TLC HD
+http://velive.lat:8080/Sarita/Sarita/269983
+
+# ============== ENTRETENIMIENTO ==============
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://38.7.195.43:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://38.7.195.43:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SUN CHANNEL
+http://190.93.229.30:8000/play/a0ci/index.m3u8
+
+# ============== MÚSICA & EMISORAS ==============
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",CUMBIA TV
+http://181.79.86.130:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",RITMOS INOLVIDABLES
+http://186.33.3.130:5000/play/a0jp/index.m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",STINGRAY CONCERTS
+http://190.93.229.30:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",TV ROCK
+http://186.33.3.130:5000/play/a0jq/index.m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",VIA X 2
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",ADN
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csmx40DMtQj2UOPDSpqzAOUulgLY0051FG2wUxC_oCZ2mW/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",AGRICULTURA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmzyXsmmb9T99eHlQmLV17ul9AVYLhvJ9JcPA9xn2ApKY/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",ACTIVA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm5rLnrng_i7zL4oKqX3f7NTZqvH8XHS_0CUq5UoKk7Qk/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",BIO BIO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm8kwaySQQdVP5AM5afBZshs0pgodESDdye3XFuylRdxa/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",COOPERATIVA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm747zvFwML-MZaOeXLyuybLaNTNXVVq9TLFtCYa4R-Z-/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",CORAZÓN
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm92AIFnbtlw1qg2uK_3xIHjfttWMZo85FRsSfmY3tisx/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",DISNEY
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm8eqr1dQB4rJGTFY3mcRuypb2FUyXvzttJx3XzpXBacw/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",EL CONQUISTADOR
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csmwb0U9oG3An5q5OrQ0XopkWsr9p7mJF91xb_1dWJg6ed/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",FUTURO
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm_JYI56IX2IzCDRuJuUrpIgH6GXFELvlehGLcUmLjj1f/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",FM DOS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm4bUNXZQaUCTWoGMdDr0_bBH2AbWeLIjai6iUuAmG1ka/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",FM PLUS
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm2ovgxcJnEby5XzK_CLGRQVFmZhShfSh63YJLTl1gQTM/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",IMAGINA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm_xytrgpN5YDVqCPJdch1Gr323Taq2RpR6Tjfv_a31uQ/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",LOS 40
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm6GuxixE5M3MvvsIMpx2vBG_A4qEQgUMLc9ZKEWZ5gV6/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",PAUTA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmyvXFzKAgw97RM-mJGkBozScmqlIVB3e_A-boGm3x4xQ/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",PLAY
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmyAF6cgnsnOG8Cj-k577dZGGJy-n0aFYdGj8DN5mr1zt/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",PORTALES
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm_syjFssCl9N6o0J9xNmJ8kJw7_cUUoCtdv6QK6ATbXs/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",PUDAHUEL
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4CsmxVMKqhJ2EGKc3dzZjQWzzf-Mct20C8jH-0KN8Omo_me/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",ROCK & POP
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm2aHJ-3OuTmlehlCUW9Tyw_mq5dii2VqSg2ZH0GN_s2w/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",ROMÁNTICA
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csm53Ny3oleox609m0c2A4Fpbq-WESDkbtcG89MVy7KriD/m3u8
+#EXTINF:-1 group-title="MÚSICA & EMISORAS",SONAR
+https://normielista.xyz:443/play/D4xaY3f1YROI5K3ie4Csmz5km7JbvtDHu8rIl7OeEl1LSkRDe4y0dyIqC1CN_pmr/m3u8
